@@ -1,0 +1,2925 @@
+{
+    "categories": {
+        "id": "cat140006",
+        "name": "Makeup",
+        "seo_path": "/makeup-cosmetics",
+        "sub_categories": {
+            "id": "cat130054",
+            "name": "Eye",
+            "seo_path": "/eye-makeup",
+            "sub_categories": [
+                {
+                    "bottom_content": "<div class=\"c-Image \" style=\"margin-left: -24px;\"> <a href=\"/giftcards?icid2=nongiftnthlevel_giftcardbottombanners_holiday110116_us\" target=\"\" title=\"One Card Fits All. Gift cards of $50 or more come with a complimentary 45-minute Custom Makeover. Shop Now > Limited Time Only. While Supplies Last.\" > <img src=\"/images/blank.gif\" class=\"c-Image-img \" data-lazyload=\"true\" data-seph-lazy-src=\"/contentimages/holiday/2016/giftcards/banners/holiday_giftcard_nthlevel_bbanner_110216_image.gif\" alt=\"One Card Fits All. Gift cards of $50 or more come with a complimentary 45-minute Custom Makeover. Shop Now > Limited Time Only. While Supplies Last.\" height=\"150\" width=\"777\" > </a> </div> <div class=\"c-HTML \" > <p><span style=\"font-size: 11px; color: #666666\">Looking for eyeshadow palettes? We\u2019re here to help. Our eye palettes provide all you need for a variety of looks.</span></p></div> ",
+                    "id": "cat60045",
+                    "is_selected": true,
+                    "name": "Eye Palettes",
+                    "seo_path": "/eyeshadow-palettes"
+                },
+                {
+                    "id": "cat60026",
+                    "name": "Mascara",
+                    "seo_path": "/mascara"
+                },
+                {
+                    "id": "cat60028",
+                    "name": "Eyeliner",
+                    "seo_path": "/eyeliner"
+                },
+                {
+                    "id": "cat60037",
+                    "name": "Eyebrow",
+                    "seo_path": "/eyebrow-makeup-pencils"
+                },
+                {
+                    "id": "cat60030",
+                    "name": "Eyeshadow",
+                    "seo_path": "/eyeshadow"
+                },
+                {
+                    "id": "cat60033",
+                    "name": "Eye Primer",
+                    "seo_path": "/eyeshadow-primer-eye-primer"
+                },
+                {
+                    "id": "cat60035",
+                    "name": "Under-Eye Concealer",
+                    "seo_path": "/under-eye-concealer"
+                },
+                {
+                    "id": "cat60041",
+                    "name": "False Eyelashes",
+                    "seo_path": "/fake-eyelashes-false-eyelashes"
+                },
+                {
+                    "id": "cat1650035",
+                    "name": "Eye Sets",
+                    "seo_path": "/eye-sets"
+                }
+            ]
+        }
+    },
+    "page_size": 100,
+    "products": [
+        {
+            "brand_name": "Anastasia Beverly Hills",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Anastasia Beverly Hills - Modern Renaissance Eye Shadow Palette",
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1820406",
+                "sku_type": "Standard"
+            },
+            "display_name": "Modern Renaissance Eye Shadow Palette",
+            "hero_image": "/productimages/sku/s1820406-main-grid.jpg",
+            "id": "P409118",
+            "product_url": "/modern-renaissance-eye-shadow-palette-P409118",
+            "quick_look_desc": "An essential eye shadow collection with 14 shades in neutral to berry tones.",
+            "rating": 4.8208,
+            "sku_ids": [
+                "1820406"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked3",
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1573336",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked3",
+            "hero_image": "/productimages/sku/s1573336-main-grid.jpg",
+            "id": "P384099",
+            "product_url": "/naked3-P384099",
+            "quick_look_desc": "An exclusive palette with 12, rose-hued neutral eye shades in every finish.",
+            "rating": 4.4654,
+            "sku_ids": [
+                "1573336"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Geometricolor Palette Blockbuster",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "49.50",
+                "sale_price": "",
+                "sku_number": "1802198",
+                "sku_type": "Standard",
+                "value_price": "227.00"
+            },
+            "display_name": "Geometricolor Palette Blockbuster",
+            "hero_image": "/productimages/sku/s1802198-main-grid.jpg",
+            "id": "P412575",
+            "product_url": "/geometricolor-palette-blockbuster-P412575",
+            "quick_look_desc": "A trendy and graphic palette that opens up to reveal 130 easy-to-wear colors with matte, satin, and shimmer finishes to create unlimited complete makeup looks.",
+            "rating": 4.5556,
+            "sku_ids": [
+                "1802198"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked2",
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1393636",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked2",
+            "hero_image": "/productimages/sku/s1393636-main-grid.jpg",
+            "id": "P302916",
+            "product_url": "/naked2-P302916",
+            "quick_look_desc": "An eye shadow pallete with a dozen pigment-rich taupe and gray-beige neutrals, plus five exclusive, new shades.",
+            "rating": 4.6714,
+            "sku_ids": [
+                "1393636"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked Ultimate Basics",
+                "is_new": true,
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1860022",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked Ultimate Basics",
+            "hero_image": "/productimages/sku/s1860022-main-grid.jpg",
+            "id": "P412339",
+            "product_url": "/naked-ultimate-basics-P412339",
+            "quick_look_desc": "A Naked eye shadow palette with 12 exclusive, must-have, neutral-matte shades.",
+            "rating": 4.3208,
+            "sku_ids": [
+                "1860022"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Disney Minnie Beauty By SEPHORA COLLECTION",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price_max": "45.00",
+                "list_price_min": "26.00",
+                "sale_price_max": "27.00",
+                "sale_price_min": "13.00",
+                "sku_number": "1767227",
+                "sku_type": "Standard"
+            },
+            "display_name": "Disney Minnie Beauty By SEPHORA COLLECTION",
+            "hero_image": "/productimages/sku/s1767227-main-grid.jpg",
+            "id": "P406039",
+            "more_options": 2,
+            "product_url": "/disney-minnie-beauty-by-sephora-collection-P406039",
+            "quick_look_desc": "A limited-edition line infused with Minnie\u2019s unique blend of spirited confidence and timeless chic.",
+            "rating": 4.5333,
+            "sku_ids": [
+                "1767276",
+                "1767227",
+                "1767219",
+                "1767235"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Tartelette In Bloom Clay Eyeshadow Palette",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1775006",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tartelette In Bloom Clay Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1775006-main-grid.jpg",
+            "id": "P403812",
+            "product_url": "/tartelette-in-bloom-clay-eyeshadow-palette-P403812",
+            "quick_look_desc": "An eye shadow palette with 12 brand-new shades in a mix of matte and luster finishes.  ",
+            "rating": 4.7251,
+            "sku_ids": [
+                "1775006"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked",
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1324532",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked",
+            "hero_image": "/productimages/sku/s1324532-main-grid.jpg",
+            "id": "P267200",
+            "product_url": "/naked-palette-P267200",
+            "quick_look_desc": "A revolutionary, neutral eye palette, featuring 12 universally flattering bronze-hued shadows for a wide array of looks.",
+            "rating": 4.7825,
+            "sku_ids": [
+                "1324532"
+            ]
+        },
+        {
+            "brand_name": "Huda Beauty",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Huda Beauty - Eyeshadow Palette - Rose Gold Edition",
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "65.00",
+                "sale_price": "",
+                "sku_number": "1878479",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Palette - Rose Gold Edition",
+            "hero_image": "/productimages/sku/s1878479-main-grid.jpg",
+            "id": "P413706",
+            "product_url": "/eyeshadow-palette-rose-gold-edition-P413706",
+            "quick_look_desc": "An eye shadow palette with highly pigmented mattes, chrome pressed pearls, and 3D metal shades in an exclusive Rose Gold Edition.",
+            "rating": 3.9193,
+            "sku_ids": [
+                "1878479"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - The Chocolate Bar Eye Palette",
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1578012",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Chocolate Bar Eye Palette",
+            "hero_image": "/productimages/sku/s1578012-main-grid.jpg",
+            "id": "P384402",
+            "product_url": "/the-chocolate-bar-eye-palette-P384402",
+            "quick_look_desc": "A sweetly tempting array of 16 matte and shimmer shadows scented with real chocolate.\r\n",
+            "rating": 4.6827,
+            "sku_ids": [
+                "1578012"
+            ]
+        },
+        {
+            "brand_name": "Kat Von D",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Kat Von D - Shade + Light Eye Contour Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "46.00",
+                "sale_price": "",
+                "sku_number": "1671353",
+                "sku_type": "Standard"
+            },
+            "display_name": "Shade + Light Eye Contour Palette",
+            "hero_image": "/productimages/sku/s1671353-main-grid.jpg",
+            "id": "P395370",
+            "product_url": "/shade-light-eye-contour-palette-P395370",
+            "quick_look_desc": "An eye contouring palette featuring three color quads in neutral, cool, and warm shades.",
+            "rating": 4.7885,
+            "sku_ids": [
+                "1671353"
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Artist Palette Volume 2 \u2013 Artistic",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "25.00",
+                "sale_price": "",
+                "sku_number": "1688720",
+                "sku_type": "Standard",
+                "value_price": "136.00"
+            },
+            "display_name": "Artist Palette Volume 2 \u2013 Artistic",
+            "hero_image": "/productimages/sku/s1688720-main-grid.jpg",
+            "id": "P396407",
+            "is_hide_social": true,
+            "product_url": "/electric-artist-palette-P396407",
+            "quick_look_desc": "A collectible, eye shadow palette with nine must-have Artist Shadow formulas in neutrals and bright pops of color.",
+            "rating": 4.5976,
+            "sku_ids": [
+                "1688720"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Electric Pressed Pigment Palette",
+                "list_price": "49.00",
+                "sale_price": "24.00",
+                "sku_number": "1593268",
+                "sku_type": "Standard"
+            },
+            "display_name": "Electric Pressed Pigment Palette",
+            "hero_image": "/productimages/sku/s1593268-main-grid.jpg",
+            "id": "P385671",
+            "product_url": "/electric-pressed-pigment-palette-P385671",
+            "quick_look_desc": "A bright collection of 10 velvety, pressed-pigment shadows.",
+            "rating": 4.7663,
+            "sku_ids": [
+                "1593268"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked2 Basics",
+                "list_price": "29.00",
+                "sale_price": "",
+                "sku_number": "1637719",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked2 Basics",
+            "hero_image": "/productimages/sku/s1637719-main-grid.jpg",
+            "id": "P388225",
+            "product_url": "/naked2-basics-P388225",
+            "quick_look_desc": "A versatile, matte eye shadow palette with six shades in taupe-hued neutrals",
+            "rating": 4.4768,
+            "sku_ids": [
+                "1637719"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - More Than Meets The Eye Eyeshadow Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1817238",
+                "sku_type": "Standard",
+                "value_price": "145.00"
+            },
+            "display_name": "More Than Meets The Eye Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1817238-main-grid.jpg",
+            "id": "P412558",
+            "product_url": "/more-than-meets-eye-eyeshadow-palette-P412558",
+            "quick_look_desc": "A 32-shade eye shadow palette that includes everyday neutrals, smoky and highlighting shades, and bright pops of color. ",
+            "rating": 3.9,
+            "sku_ids": [
+                "1817238"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Grande Hotel Caf\u00e9",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1859859",
+                "sku_type": "Standard",
+                "value_price": "292.00"
+            },
+            "display_name": "Grande Hotel Caf\u00e9",
+            "hero_image": "/productimages/sku/s1859859-main-grid.jpg",
+            "id": "P413179",
+            "product_url": "/grand-hotel-cafe-P413179",
+            "quick_look_desc": "A makeup set with 18 eye shadows, two blushes, a bronzer, a mascara and a how-to guide for looks that are perfect for the season.",
+            "rating": 3.932,
+            "sku_ids": [
+                "1859859"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked Smoky",
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1724350",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked Smoky",
+            "hero_image": "/productimages/sku/s1724350-main-grid.jpg",
+            "id": "P398419",
+            "product_url": "/naked-smoky-P398419",
+            "quick_look_desc": "A smoky side of the Naked eye palette, featuring nine shades and three exclusives from past palettes.",
+            "rating": 4.3069,
+            "sku_ids": [
+                "1724350"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Disney Minnie Beauty: Minnie's World in Color Eyeshadow Palette",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "45.00",
+                "sale_price": "27.00",
+                "sku_number": "1767227",
+                "sku_type": "Standard"
+            },
+            "display_name": "Disney Minnie Beauty: Minnie's World in Color Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1767227-main-grid.jpg",
+            "id": "P406033",
+            "product_url": "/disney-minnie-beauty-by-sephora-collection-minnie-s-world-in-color-eyeshadow-palette-P406033",
+            "quick_look_desc": "A palette with 20 creamy, pigmented shades in a mix of mattes and shimmers&#151;all in a collectable clutch.",
+            "rating": 4.304,
+            "sku_ids": [
+                "1767227"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Rainforest of the Sea\u2122 Eyeshadow Palette",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1779057",
+                "sku_type": "Standard"
+            },
+            "display_name": "Rainforest of the Sea\u2122 Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1779057-main-grid.jpg",
+            "id": "P405100",
+            "product_url": "/rainforest-the-sea-eyeshadow-palette-P405100",
+            "quick_look_desc": "A limited-edition palette featuring eight creamy, everyday eye shadows.",
+            "rating": 4.2973,
+            "sku_ids": [
+                "1779057"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Alice Through The Looking Glass Eyeshadow Palette",
+                "is_limited_edition": true,
+                "list_price": "60.00",
+                "sale_price": "34.00",
+                "sku_number": "1814409",
+                "sku_type": "Standard"
+            },
+            "display_name": "Alice Through The Looking Glass Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1814409-main-grid.jpg",
+            "id": "P408129",
+            "product_url": "/alice-through-looking-glass-eyeshadow-palette-P408129",
+            "quick_look_desc": "A limited-edition, pop-up palette featuring 20 exclusive shades&#151;all inspired by the characters from Disney's Alice Through the Looking Glass.",
+            "rating": 4.1337,
+            "sku_ids": [
+                "1814409"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Full Spectrum Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "55.00",
+                "sale_price": "",
+                "sku_number": "1860048",
+                "sku_type": "Standard"
+            },
+            "display_name": "Full Spectrum Palette",
+            "hero_image": "/productimages/sku/s1860048-main-grid.jpg",
+            "id": "P412340",
+            "product_url": "/full-spectrum-palette-P412340",
+            "quick_look_desc": "A limited-edition set, featuring 21 shades of Urban Decay\u2019s Iconic Eyeshadow.",
+            "rating": 3.6,
+            "sku_ids": [
+                "1860048"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Glam Goodies Discovery Set",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "25.00",
+                "sale_price": "",
+                "sku_number": "1804277",
+                "sku_type": "Standard",
+                "value_price": "45.00"
+            },
+            "display_name": "Glam Goodies Discovery Set",
+            "hero_image": "/productimages/sku/s1804277-main-grid.jpg",
+            "id": "P407638",
+            "product_url": "/glam-goodies-discovery-set-P407638",
+            "quick_look_desc": "A limited-edition deluxe discovery set of tartelette&trade; essentials for the eyes and lips. ",
+            "rating": 4.44,
+            "sku_ids": [
+                "1804277"
+            ]
+        },
+        {
+            "brand_name": "Natasha Denona",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Natasha Denona - Star Eyeshadow Palette",
+                "is_new": true,
+                "list_price": "169.00",
+                "sale_price": "",
+                "sku_number": "1877141",
+                "sku_type": "Standard"
+            },
+            "display_name": "Star Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1877141-main-grid.jpg",
+            "id": "P413523",
+            "product_url": "/star-eyeshadow-palette-P413523",
+            "quick_look_desc": "An eye shadow palette with 18 shades, including two never-before-seen textures.",
+            "rating": 3.9219,
+            "sku_ids": [
+                "1877141"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Tartelette Amazonian Clay Matte Eyeshadow Palette",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1659424",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tartelette Amazonian Clay Matte Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1659424-main-grid.jpg",
+            "id": "P391759",
+            "product_url": "/tartelette-amazonian-clay-matte-eyeshadow-palette-P391759",
+            "quick_look_desc": "An all-matte palette with 12 exclusive eye shadows.",
+            "rating": 4.5353,
+            "sku_ids": [
+                "1659424"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Natural Eye Neutral Eye Shadow Collection",
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1604016",
+                "sku_type": "Standard"
+            },
+            "display_name": "Natural Eye Neutral Eye Shadow Collection",
+            "hero_image": "/productimages/sku/s1604016-main-grid.jpg",
+            "id": "P241303",
+            "product_url": "/natural-eye-neutral-eye-shadow-collection-P241303",
+            "quick_look_desc": "A small palette packed with nine neutral shades, and a how-to Glamour Guide to help you achieve the look.",
+            "rating": 4.6658,
+            "sku_ids": [
+                "1604016"
+            ]
+        },
+        {
+            "brand_name": "TOM FORD",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "TOM FORD - Eye & Cheek Palette",
+                "is_new": true,
+                "list_price": "155.00",
+                "sale_price": "",
+                "sku_number": "1876119",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye & Cheek Palette",
+            "hero_image": "/productimages/sku/s1876119-main-grid.jpg",
+            "id": "P413925",
+            "more_colors": 1,
+            "product_url": "/eye-cheek-palette-P413925",
+            "quick_look_desc": "An eye and cheek palette in a reflective, ivory-and-gold clutch.",
+            "rating": 4.1429,
+            "sku_ids": [
+                "1876119",
+                "1876127"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Moondust Palette",
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1844042",
+                "sku_type": "Standard"
+            },
+            "display_name": "Moondust Palette",
+            "hero_image": "/productimages/sku/s1844042-main-grid.jpg",
+            "id": "P409955",
+            "product_url": "/moondust-palette-P409955",
+            "quick_look_desc": "An eye shadow palette featuring eight sparkly new shades of Urban Decay's Moondust Eyeshadow.",
+            "rating": 4.4317,
+            "sku_ids": [
+                "1844042"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - The Romantic Eyeshadow Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "12.00",
+                "sale_price": "",
+                "sku_number": "1802222",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Romantic Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1802222-main-grid.jpg",
+            "id": "P412563",
+            "product_url": "/the-romantic-eyeshadow-palette-P412563",
+            "quick_look_desc": "A palette of eight matte and iridescent eye shadows for a natural or sophisticated look.",
+            "rating": 4.4,
+            "sku_ids": [
+                "1802222"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Color Wonderland Eyeshadow Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "59.00",
+                "sale_price": "",
+                "sku_number": "1807700",
+                "sku_type": "Standard",
+                "value_price": "225.00"
+            },
+            "display_name": "Color Wonderland Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1807700-main-grid.jpg",
+            "id": "P412573",
+            "product_url": "/color-wonderland-eyeshadow-palette-P412573",
+            "quick_look_desc": "A luxurious palette with 78 eye shadows and two eye pencils so you can reinvent your eye makeup every day.",
+            "rating": 4.5,
+            "sku_ids": [
+                "1807700"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked Basics",
+                "list_price": "29.00",
+                "sale_price": "",
+                "sku_number": "1458157",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked Basics",
+            "hero_image": "/productimages/sku/s1458157-main-grid.jpg",
+            "id": "P376213",
+            "product_url": "/naked-basics-palette-P376213",
+            "quick_look_desc": "A matte palette by Urban Decay, featuring six gorgeously Naked neutrals&#151;including four never-before-seen shades.",
+            "rating": 4.5807,
+            "sku_ids": [
+                "1458157"
+            ]
+        },
+        {
+            "brand_name": "Marc Jacobs Beauty",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Marc Jacobs Beauty - About Last Night Style Eye Con No 20 Eyeshadow Palette",
+                "is_limited_edition": true,
+                "list_price": "99.00",
+                "sale_price": "",
+                "sku_number": "1838150",
+                "sku_type": "Standard",
+                "value_price": "169.00"
+            },
+            "display_name": "About Last Night Style Eye Con No 20 Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1838150-main-grid.jpg",
+            "id": "P410899",
+            "product_url": "/style-eye-con-no-20-eyeshadow-palette-P410899",
+            "quick_look_desc": "A limited-edition palette of 20 plush eye shadows in luxurious finishes, organized in five columns, for a complete wardrobe of looks.",
+            "rating": 4.4717,
+            "sku_ids": [
+                "1838150"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Tartelette Tease",
+                "list_price": "21.00",
+                "sale_price": "",
+                "sku_number": "1776798",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tartelette Tease",
+            "hero_image": "/productimages/sku/s1776798-main-grid.jpg",
+            "id": "P403813",
+            "product_url": "/tartelette-tease-P403813",
+            "quick_look_desc": "A perfectly petite everyday eye shadow palette featuring six flirty shades.",
+            "rating": 4.3486,
+            "sku_ids": [
+                "1776798"
+            ]
+        },
+        {
+            "brand_name": "Natasha Denona",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Natasha Denona - Eyeshadow Palette 28",
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "239.00",
+                "sale_price": "",
+                "sku_number": "1875046",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Palette 28",
+            "hero_image": "/productimages/sku/s1875046-main-grid.jpg",
+            "id": "P411835",
+            "more_colors": 1,
+            "product_url": "/eyeshadow-palette-28-P411835",
+            "quick_look_desc": "An eye shadow palette with 28 shades that beautifully layer together for breathtaking eye looks.",
+            "rating": 4.5385,
+            "sku_ids": [
+                "1875053",
+                "1875046"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Chocolate Bon Bons Palette",
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1771047",
+                "sku_type": "Standard"
+            },
+            "display_name": "Chocolate Bon Bons Palette",
+            "hero_image": "/productimages/sku/s1771047-main-grid.jpg",
+            "id": "P402955",
+            "product_url": "/chocolate-bon-bons-palette-P402955",
+            "quick_look_desc": "An eye palette from the Chocolate Bar Eye Shadow Collection with 16 heart-shaped, cocoa powder-enriched eye shades in brights and neutrals. ",
+            "rating": 4.7004,
+            "sku_ids": [
+                "1771047"
+            ]
+        },
+        {
+            "brand_name": "Viseart",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Viseart - Viseart Eyeshadow Palette",
+                "is_online_only": true,
+                "list_price": "80.00",
+                "sale_price": "",
+                "sku_number": "1665629",
+                "sku_type": "Standard"
+            },
+            "display_name": "Viseart Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1665629-main-grid.jpg",
+            "id": "P391306",
+            "more_colors": 8,
+            "product_url": "/viseart-eyeshadow-palette-P391306",
+            "quick_look_desc": "A coveted professional eye shadow palette that can be used for shading, highlighting, and defining eyes, brows, and the contours of the face.\r\n",
+            "rating": 4.4429,
+            "sku_ids": [
+                "1716562",
+                "1665629",
+                "1716554",
+                "1716547",
+                "1665645",
+                "1665652",
+                "1861525",
+                "1784412",
+                "1665637"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Natural Matte Eye Palette",
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1664895",
+                "sku_type": "Standard"
+            },
+            "display_name": "Natural Matte Eye Palette",
+            "hero_image": "/productimages/sku/s1664895-main-grid.jpg",
+            "id": "P393185",
+            "product_url": "/natural-matte-eye-palette-P393185",
+            "quick_look_desc": "An award-winning Natural Eyes Neutral Eye Shadow Collection featuring nine stunning mattes for day or evening eye looks.",
+            "rating": 4.6386,
+            "sku_ids": [
+                "1664895"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - #SHAPEMATTERS PALETTE",
+                "is_sephora_exclusive": true,
+                "list_price": "55.00",
+                "sale_price": "",
+                "sku_number": "1721059",
+                "sku_type": "Standard",
+                "value_price": "276.00"
+            },
+            "display_name": "#SHAPEMATTERS PALETTE",
+            "hero_image": "/productimages/sku/s1721059-main-grid.jpg",
+            "id": "P397423",
+            "product_url": "/shapematters-palette-P397423",
+            "quick_look_desc": "A three-palettes-in-one kit with 16 bestselling shades and a double-ended brush to contour the brows, face, and eyes.",
+            "rating": 4.3715,
+            "sku_ids": [
+                "1721059"
+            ]
+        },
+        {
+            "brand_name": "Hourglass",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Hourglass - Ambient\u00ae Lighting Palette",
+                "list_price": "62.00",
+                "sale_price": "",
+                "sku_number": "1606086",
+                "sku_type": "Standard"
+            },
+            "display_name": "Ambient\u00ae Lighting Palette",
+            "hero_image": "/productimages/sku/s1606086-main-grid.jpg",
+            "id": "P382309",
+            "product_url": "/ambient-lighting-palette-P382309",
+            "quick_look_desc": "A palette featuring three shades of Ambient Lighting Powder, the high-tech, soft-focus finishing powder that recreates the most exquisitely flattering types of light.",
+            "rating": 4.3278,
+            "sku_ids": [
+                "1606086"
+            ]
+        },
+        {
+            "brand_name": "CLINIQUE",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "CLINIQUE - Very Honey Holiday Eye Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "32.50",
+                "sale_price": "",
+                "sku_number": "1860394",
+                "sku_type": "Standard",
+                "value_price": "153.50"
+            },
+            "display_name": "Very Honey Holiday Eye Palette",
+            "hero_image": "/productimages/sku/s1860394-main-grid.jpg",
+            "id": "P414329",
+            "product_url": "/very-honey-holiday-eye-palette-P414329",
+            "quick_look_desc": "A set of 13 coordinated eye shadow shades with three limited-edition brushes and a sponge for effortlessly defined eyes.",
+            "rating": 3.6667,
+            "sku_ids": [
+                "1860394"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Matte Metallic Eyeshadow Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1817220",
+                "sku_type": "Standard",
+                "value_price": "65.00"
+            },
+            "display_name": "Matte Metallic Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1817220-main-grid.jpg",
+            "id": "P412564",
+            "product_url": "/matte-metallic-eyeshadow-palette-P412564",
+            "quick_look_desc": "A perfect travel-size eye shadow palette with a mix of 11 shades in wearable mattes and festive metallic pops. ",
+            "rating": 2.9167,
+            "sku_ids": [
+                "1817220"
+            ]
+        },
+        {
+            "brand_name": "KEVYN AUCOIN",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "KEVYN AUCOIN - The Contour Book The Art of Sculpting + Defining Volume II",
+                "is_sephora_exclusive": true,
+                "list_price": "65.00",
+                "sale_price": "",
+                "sku_number": "1751189",
+                "sku_type": "Standard",
+                "value_price": "226.00"
+            },
+            "display_name": "The Contour Book The Art of Sculpting + Defining Volume II",
+            "hero_image": "/productimages/sku/s1751189-main-grid.jpg",
+            "id": "P401659",
+            "product_url": "/the-contour-book-art-sculpting-defining-volume-ii-P401659",
+            "quick_look_desc": "A portable contour palette with every shade needed to redefine the look of your face along with detailed instructions on how to do it.",
+            "rating": 4.773,
+            "sku_ids": [
+                "1751189"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Colorful 5 Eyeshadow Palette",
+                "is_sephora_exclusive": true,
+                "list_price_max": "25.00",
+                "list_price_min": "11.00",
+                "sku_number": "1582766",
+                "sku_type": "Standard"
+            },
+            "display_name": "Colorful 5 Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1582766-main-grid.jpg",
+            "id": "P386615",
+            "more_colors": 10,
+            "product_url": "/colorful-5-eyeshadow-palette-P386615",
+            "quick_look_desc": "A palette of five colorful eye shadows selected to look great alone or in combination for endless makeup effects.",
+            "rating": 4.1138,
+            "sku_ids": [
+                "1582832",
+                "1620269",
+                "1582741",
+                "1582774",
+                "1582824",
+                "1582808",
+                "1620244",
+                "1582766",
+                "1620251",
+                "1582816",
+                "1582790"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - MicroSmooth Baked Eyeshadow Trio",
+                "is_sephora_exclusive": true,
+                "list_price": "19.00",
+                "sale_price": "11.00",
+                "sku_number": "1400092",
+                "sku_type": "Standard"
+            },
+            "display_name": "MicroSmooth Baked Eyeshadow Trio",
+            "hero_image": "/productimages/sku/s1400092-main-grid.jpg",
+            "id": "P312910",
+            "more_colors": 5,
+            "product_url": "/microsmooth-eyeshadow-trio-P312910",
+            "quick_look_desc": "A collection of eye shadow trios that effortlessly blend for the perfect look, day to night. ",
+            "rating": 4.2293,
+            "sku_ids": [
+                "1518828",
+                "1518810",
+                "1400100",
+                "1518802",
+                "1400092",
+                "1400134",
+                "1400084"
+            ]
+        },
+        {
+            "brand_name": "Bobbi Brown",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Bobbi Brown - Luxe Eye Edition Shadow & Long Wear Gel Eyeliner Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "75.00",
+                "sale_price": "",
+                "sku_number": "1860345",
+                "sku_type": "Standard",
+                "value_price": "184.00"
+            },
+            "display_name": "Luxe Eye Edition Shadow & Long Wear Gel Eyeliner Palette",
+            "hero_image": "/productimages/sku/s1860345-main-grid.jpg",
+            "id": "P413257",
+            "product_url": "/luxe-eye-edition-shadow-long-wear-gel-eyeliner-palette-P413257",
+            "quick_look_desc": "A comprehensive eye palette with eight matte-to-metallic shadows, three shades of Bobbi Brown\u2019s iconic gel liner, and a dual-ended shadow and liner brush.",
+            "rating": 4.0667,
+            "sku_ids": [
+                "1860345"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Semi Sweet Chocolate Bar",
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1664721",
+                "sku_type": "Standard"
+            },
+            "display_name": "Semi Sweet Chocolate Bar",
+            "hero_image": "/productimages/sku/s1664721-main-grid.jpg",
+            "id": "P392009",
+            "product_url": "/semi-sweet-chocolate-bar-P392009",
+            "quick_look_desc": "An antioxidant-rich, cocoa powder-infused eye shadow palette with 16 matte and shimmer shades.",
+            "rating": 4.4317,
+            "sku_ids": [
+                "1664721"
+            ]
+        },
+        {
+            "brand_name": "Kat Von D",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Kat Von D - Shade + Light Eye Contour Quad",
+                "is_sephora_exclusive": true,
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1776889",
+                "sku_type": "Standard"
+            },
+            "display_name": "Shade + Light Eye Contour Quad",
+            "hero_image": "/productimages/sku/s1776889-main-grid.jpg",
+            "id": "P407872",
+            "more_colors": 3,
+            "product_url": "/shade-light-eye-contour-quad-P407872",
+            "quick_look_desc": "An eye shadow palette designed to transform your eyes through the art of color contouring.",
+            "rating": 4.1321,
+            "sku_ids": [
+                "1776889",
+                "1776871",
+                "1776897",
+                "1776863"
+            ]
+        },
+        {
+            "brand_name": "Natasha Denona",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Natasha Denona - Eyeshadow Palette 5",
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "48.00",
+                "sale_price": "",
+                "sku_number": "1875160",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Palette 5",
+            "hero_image": "/productimages/sku/s1875160-main-grid.jpg",
+            "id": "P411826",
+            "more_colors": 12,
+            "product_url": "/eyeshadow-palette-5-P411826",
+            "quick_look_desc": "A palette with five shadows in shades that beautifully pair together on skin for breathtaking eye looks.",
+            "rating": 4.6364,
+            "sku_ids": [
+                "1875095",
+                "1875186",
+                "1875160",
+                "1875129",
+                "1875145",
+                "1875137",
+                "1875194",
+                "1875087",
+                "1875079",
+                "1875152",
+                "1875178",
+                "1875111",
+                "1875103"
+            ]
+        },
+        {
+            "brand_name": "Laura Mercier",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Laura Mercier - Eye Art Artist's Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "55.00",
+                "sale_price": "",
+                "sku_number": "1677848",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye Art Artist's Palette",
+            "hero_image": "/productimages/sku/s1677848-main-grid.jpg",
+            "id": "P383070",
+            "product_url": "/artist-palette-for-eyes-P383070",
+            "quick_look_desc": "An elegant and modern eye palette featuring a dozen eye shadows that range from cool to warm shades.",
+            "rating": 4.4281,
+            "sku_ids": [
+                "1677848"
+            ]
+        },
+        {
+            "brand_name": "Dior",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Dior - 5-Colour Eyeshadow",
+                "list_price": "62.00",
+                "sale_price": "",
+                "sku_number": "1617307",
+                "sku_type": "Standard"
+            },
+            "display_name": "5-Colour Eyeshadow",
+            "hero_image": "/productimages/sku/s1617307-main-grid.jpg",
+            "id": "P280400",
+            "more_colors": 5,
+            "product_url": "/5-colour-eyeshadow-P280400",
+            "quick_look_desc": "A five-color eye shadow palette to add a splash of color to the eyes.",
+            "rating": 4.3743,
+            "sku_ids": [
+                "1689678",
+                "1649474",
+                "1649482",
+                "1649458",
+                "1649466",
+                "1617307"
+            ]
+        },
+        {
+            "brand_name": "Ciat\u00e9 London",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Ciat\u00e9 London - Chloe Morello Beauty Haul Makeup Set",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1842343",
+                "sku_type": "Standard",
+                "value_price": "219.00"
+            },
+            "display_name": "Chloe Morello Beauty Haul Makeup Set",
+            "hero_image": "/productimages/sku/s1842343-main-grid.jpg",
+            "id": "P413813",
+            "product_url": "/chloe-morello-beauty-haul-makeup-set-P413813",
+            "quick_look_desc": "A kit of Ciat&#233; London beauty must-haves, hand-picked by Chloe Morello.",
+            "rating": 4.5893,
+            "sku_ids": [
+                "1842343"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA+PANTONE UNIVERSE",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA+PANTONE UNIVERSE - Modern Watercolors Eyes Palette",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "is_sephora_exclusive": true,
+                "list_price": "39.00",
+                "sale_price": "19.00",
+                "sku_number": "1770676",
+                "sku_type": "Standard"
+            },
+            "display_name": "Modern Watercolors Eyes Palette",
+            "hero_image": "/productimages/sku/s1770676-main-grid.jpg",
+            "id": "P403760",
+            "product_url": "/modern-watercolors-eyes-palette-P403760",
+            "quick_look_desc": "An exclusive palette of 24 deliciously enticing shimmer and matte eyshadow shades, including the two Color of the Year shades: Rose Quartz and Serenity.",
+            "rating": 3.7423,
+            "sku_ids": [
+                "1770676"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Ombr\u00e9 Obsession Eyeshadow Palette",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "34.00",
+                "sale_price": "21.00",
+                "sku_number": "1713130",
+                "sku_type": "Standard",
+                "value_price": "175.00"
+            },
+            "display_name": "Ombr\u00e9 Obsession Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1713130-main-grid.jpg",
+            "id": "P400516",
+            "product_url": "/ombre-obsession-eyeshadow-palette-P400516",
+            "quick_look_desc": "An eye shadow palette with four ombr&#233; shades and four solid shades.",
+            "rating": 3.8727,
+            "sku_ids": [
+                "1713130"
+            ]
+        },
+        {
+            "brand_name": "The Est\u00e9e Edit",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "The Est\u00e9e Edit - Gritty & Glow Magnetic Eye and Face Palettes",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "58.00",
+                "sale_price": "",
+                "sku_number": "1859990",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gritty & Glow Magnetic Eye and Face Palettes",
+            "hero_image": "/productimages/sku/s1859990-main-grid.jpg",
+            "id": "P413192",
+            "product_url": "/gritty-glow-magnetic-eye-face-palette-P413192",
+            "quick_look_desc": "A limited-edition set of two magnetic palettes with 12 ultra-soft, highly pearlized shades.",
+            "rating": 4.6719,
+            "sku_ids": [
+                "1859990"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Light It Up 3 Palette Set: Eyes Contour Lips",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "45.00",
+                "sale_price": "39.00",
+                "sku_number": "1860527",
+                "sku_type": "Standard",
+                "value_price": "82.00"
+            },
+            "display_name": "Light It Up 3 Palette Set: Eyes Contour Lips",
+            "hero_image": "/productimages/sku/s1860527-main-grid.jpg",
+            "id": "P413013",
+            "product_url": "/light-it-up-3-palette-set-eyes-contour-lips-P413013",
+            "quick_look_desc": "A coveted contour, eye shadow, and lipstick palette to instantly light up features.",
+            "rating": 3.8,
+            "sku_ids": [
+                "1860527"
+            ]
+        },
+        {
+            "brand_name": "stila",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "stila - Eyes Are the Window\u2122 Shadow Palettes",
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1631860",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyes Are the Window\u2122 Shadow Palettes",
+            "hero_image": "/productimages/sku/s1631860-main-grid.jpg",
+            "id": "P388525",
+            "more_colors": 2,
+            "product_url": "/eyes-are-the-window-shadow-palettes-P388525",
+            "quick_look_desc": "A luxurious palette with 12 eye shadows, curated to illuminate the wearer\u2019s inner beauty.",
+            "rating": 4.2765,
+            "sku_ids": [
+                "1631951",
+                "1631969",
+                "1631860"
+            ]
+        },
+        {
+            "brand_name": "Marc Jacobs Beauty",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Marc Jacobs Beauty - Object Of Desire Face and Eye Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "69.00",
+                "sale_price": "",
+                "sku_number": "1838119",
+                "sku_type": "Standard",
+                "value_price": "99.00"
+            },
+            "display_name": "Object Of Desire Face and Eye Palette",
+            "hero_image": "/productimages/sku/s1838119-main-grid.jpg",
+            "id": "P411244",
+            "product_url": "/object-desire-face-eye-palette-P411244",
+            "quick_look_desc": "An exclusive palette for the face and eyes with a blush, bronzer, a limited-edition luminizer, and six sumptuous eye shadows.",
+            "rating": 4.05,
+            "sku_ids": [
+                "1838119"
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Artist Palette Volume 1 \u2013 Nudes",
+                "is_sephora_exclusive": true,
+                "list_price": "44.00",
+                "sale_price": "",
+                "sku_number": "1688712",
+                "sku_type": "Standard",
+                "value_price": "136.00"
+            },
+            "display_name": "Artist Palette Volume 1 \u2013 Nudes",
+            "hero_image": "/productimages/sku/s1688712-main-grid.jpg",
+            "id": "P396409",
+            "product_url": "/nude-artist-palette-P396409",
+            "quick_look_desc": "A collectible, eye shadow palette with nine must-have Artist Shadow formulas in neutral tones.",
+            "rating": 4.2208,
+            "sku_ids": [
+                "1688712"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Boudoir Eyes Soft & Sexy Eye Shadow Collection",
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1493907",
+                "sku_type": "Standard"
+            },
+            "display_name": "Boudoir Eyes Soft & Sexy Eye Shadow Collection",
+            "hero_image": "/productimages/sku/s1493907-main-grid.jpg",
+            "id": "P377630",
+            "product_url": "/boudoir-eyes-soft-sexy-eye-shadow-collection-P377630",
+            "quick_look_desc": "A handpicked collection of eye shadows to create looks for the bedroom and beyond. ",
+            "rating": 4.4617,
+            "sku_ids": [
+                "1493907"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "NARS - Give In Take Dual-Intensity Eye & Cheek Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "69.00",
+                "sale_price": "",
+                "sku_number": "1860659",
+                "sku_type": "Standard",
+                "value_price": "114.00"
+            },
+            "display_name": "Give In Take Dual-Intensity Eye & Cheek Palette",
+            "hero_image": "/productimages/sku/s1860659-main-grid.jpg",
+            "id": "P413928",
+            "product_url": "/give-in-take-dual-intensity-eye-cheek-palette-P413928",
+            "quick_look_desc": "A limited-edition eye and cheek palette with dual-intensity shades that transition from sheer to saturated.",
+            "rating": 3.0667,
+            "sku_ids": [
+                "1860659"
+            ]
+        },
+        {
+            "brand_name": "bareMinerals",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "bareMinerals - READY\u2122 8.0 Power Neutrals",
+                "list_price_max": "41.00",
+                "list_price_min": "40.00",
+                "sale_price": "",
+                "sku_number": "1687995",
+                "sku_type": "Standard"
+            },
+            "display_name": "READY\u2122 8.0 Power Neutrals",
+            "hero_image": "/productimages/sku/s1687995-main-grid.jpg",
+            "id": "P380694",
+            "more_colors": 3,
+            "product_url": "/ready-8-0-power-neutrals-P380694",
+            "quick_look_desc": " An exquisite palette featuring pure, intense, and provocative pigment in eight amped-up neutrals.",
+            "rating": 4.2289,
+            "sku_ids": [
+                "1844331",
+                "1687995",
+                "1687987",
+                "1687979"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Full Exposure Travel Palette",
+                "list_price": "25.00",
+                "sale_price": "",
+                "sku_number": "1634856",
+                "sku_type": "Standard"
+            },
+            "display_name": "Full Exposure Travel Palette",
+            "hero_image": "/productimages/sku/s1634856-main-grid.jpg",
+            "id": "P387905",
+            "product_url": "/full-exposure-travel-palette-P387905",
+            "quick_look_desc": "A travel-size palette of eight, universal neutral shadows.",
+            "rating": 3.5659,
+            "sku_ids": [
+                "1634856"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Full Exposure Palette",
+                "list_price": "52.00",
+                "sale_price": "",
+                "sku_number": "1575018",
+                "sku_type": "Standard"
+            },
+            "display_name": "Full Exposure Palette",
+            "hero_image": "/productimages/sku/s1575018-main-grid.jpg",
+            "id": "P383775",
+            "product_url": "/full-exposure-palette-P383775",
+            "quick_look_desc": "A set with increased-pigment and universal, neutral eye shades, a high-volume mascara, and a get-the-look chart for six different eye shapes.",
+            "rating": 3.4279,
+            "sku_ids": [
+                "1575018"
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Artist Palette Volume 3 - Florals",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "44.00",
+                "sale_price": "34.00",
+                "sku_number": "1777564",
+                "sku_type": "Standard",
+                "value_price": "136.00"
+            },
+            "display_name": "Artist Palette Volume 3 - Florals",
+            "hero_image": "/productimages/sku/s1777564-main-grid.jpg",
+            "id": "P404039",
+            "product_url": "/artist-palette-volume-3-forals-P404039",
+            "quick_look_desc": "A collectible, makeup palette with eight must-have Artist Shadow formulas and one blush in fresh, neutral, and softly colorful shades.",
+            "rating": 3.7391,
+            "sku_ids": [
+                "1777564"
+            ]
+        },
+        {
+            "brand_name": "Viseart",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Viseart - Viseart Theory Palette",
+                "is_online_only": true,
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1784420",
+                "sku_type": "Standard"
+            },
+            "display_name": "Viseart Theory Palette",
+            "hero_image": "/productimages/sku/s1784420-main-grid.jpg",
+            "id": "P408032",
+            "more_colors": 2,
+            "product_url": "/viseart-theory-palette-P408032",
+            "quick_look_desc": "A six-piece, unique compact palette with matte and shimmer eye shadows and removable pans that also fold into a working easel.",
+            "rating": 4.0238,
+            "sku_ids": [
+                "1784446",
+                "1784420",
+                "1784438"
+            ]
+        },
+        {
+            "brand_name": "stila",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "stila - Perfect Me, Perfect Hue Eye & Cheek Palette",
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1776806",
+                "sku_type": "Standard"
+            },
+            "display_name": "Perfect Me, Perfect Hue Eye & Cheek Palette",
+            "hero_image": "/productimages/sku/s1776806-main-grid.jpg",
+            "id": "P406280",
+            "more_colors": 3,
+            "product_url": "/perfect-me-perfect-hue-eye-cheek-palette-P406280",
+            "quick_look_desc": "A collection of chic eye and cheek palettes with shades curated by pro makeup artists to complement your skintone.",
+            "rating": 4.5974,
+            "sku_ids": [
+                "1776814",
+                "1776822",
+                "1776830",
+                "1776806"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Showstopper Clay Palette",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1699487",
+                "sku_type": "Standard"
+            },
+            "display_name": "Showstopper Clay Palette",
+            "hero_image": "/productimages/sku/s1699487-main-grid.jpg",
+            "id": "P395239",
+            "product_url": "/showstopper-clay-palette-P395239",
+            "quick_look_desc": "A long-wearing, Amazonian clay-infused eye and cheek palette.",
+            "rating": 4.5317,
+            "sku_ids": [
+                "1699487"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - The Graceful Eyeshadow Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "24.00",
+                "sale_price": "",
+                "sku_number": "1802248",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Graceful Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1802248-main-grid.jpg",
+            "id": "P412561",
+            "product_url": "/the-graceful-eyeshadow-palette-P412561",
+            "quick_look_desc": "A palette of 16 eye shadows with a tutorial to enhance your eyes.",
+            "rating": 3.5,
+            "sku_ids": [
+                "1802248"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Photo Matte Eyes Travel Palette",
+                "list_price": "25.00",
+                "sale_price": "",
+                "sku_number": "1811934",
+                "sku_type": "Standard"
+            },
+            "display_name": "Photo Matte Eyes Travel Palette",
+            "hero_image": "/productimages/sku/s1811934-main-grid.jpg",
+            "id": "P406818",
+            "product_url": "/photo-matte-eyes-travel-palette-P406818",
+            "quick_look_desc": "A mini eye shadow palette with eight versatile matte shades, including stay-put shadows that double as liner to brow powders and go on as shadows.",
+            "rating": 3.9583,
+            "sku_ids": [
+                "1811934"
+            ]
+        },
+        {
+            "brand_name": "Marc Jacobs Beauty",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Marc Jacobs Beauty - Style Eye Con No 7 Plush Eyeshadow Palette",
+                "list_price": "59.00",
+                "sale_price": "",
+                "sku_number": "1505171",
+                "sku_type": "Standard"
+            },
+            "display_name": "Style Eye Con No 7 Plush Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1505171-main-grid.jpg",
+            "id": "P380704",
+            "more_colors": 7,
+            "product_url": "/style-eye-con-no-7-plush-shadow-P380704",
+            "quick_look_desc": "A super skinny, sleek eye shadow palette of seven eye shades in plush, sumptuous finishes.",
+            "rating": 4.1058,
+            "sku_ids": [
+                "1632272",
+                "1505171",
+                "1505197",
+                "1613371",
+                "1679190",
+                "1505189",
+                "1632280",
+                "1505205"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Photo Op Eye Shadow Trio",
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1349737",
+                "sku_type": "Standard"
+            },
+            "display_name": "Photo Op Eye Shadow Trio",
+            "hero_image": "/productimages/sku/s1349737-main-grid.jpg",
+            "id": "P292408",
+            "more_colors": 6,
+            "product_url": "/photo-op-eye-shadow-trio-P292408",
+            "quick_look_desc": "Create beautiful eyes effortlessly with Smashbox's award-winning, color-coordinated eye shadow trio.",
+            "rating": 4.4081,
+            "sku_ids": [
+                "1497064",
+                "1349737",
+                "1349729",
+                "1349745",
+                "1497056",
+                "1349687",
+                "1349844"
+            ]
+        },
+        {
+            "brand_name": "BURBERRY",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "BURBERRY - Complete Eye Palette",
+                "list_price": "60.00",
+                "sale_price": "",
+                "sku_number": "1852789",
+                "sku_type": "Standard"
+            },
+            "display_name": "Complete Eye Palette",
+            "hero_image": "/productimages/sku/s1852789-main-grid.jpg",
+            "id": "P399005",
+            "more_colors": 7,
+            "product_url": "/complete-eye-palette-P399005",
+            "quick_look_desc": "A four-shade eye palette with a luminizing base to highlight, two buildable colors to add shape, and an intense liner to define.",
+            "rating": 4.3111,
+            "sku_ids": [
+                "1741321",
+                "1741362",
+                "1741354",
+                "1741347",
+                "1852789",
+                "1741313",
+                "1741396",
+                "1741339"
+            ]
+        },
+        {
+            "brand_name": "CLINIQUE",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "CLINIQUE - All About Shadow 8-Pan Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "36.50",
+                "sale_price": "",
+                "sku_number": "1719244",
+                "sku_type": "Standard"
+            },
+            "display_name": "All About Shadow 8-Pan Palette",
+            "hero_image": "/productimages/sku/s1719244-main-grid.jpg",
+            "id": "P384505",
+            "more_colors": 7,
+            "product_url": "/all-about-shadow-8-pan-palette-P384505",
+            "quick_look_desc": "A deluxe palette with eight versatile eye shadows for day and night.",
+            "rating": 4.3611,
+            "sku_ids": [
+                "1661446",
+                "1719244",
+                "1631027",
+                "1661438",
+                "1661453",
+                "1661412",
+                "1561273",
+                "1661420"
+            ]
+        },
+        {
+            "brand_name": "Hourglass",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Hourglass - Modernist Eyeshadow Palette",
+                "list_price": "58.00",
+                "sale_price": "",
+                "sku_number": "1621176",
+                "sku_type": "Standard"
+            },
+            "display_name": "Modernist Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1621176-main-grid.jpg",
+            "id": "P392707",
+            "more_colors": 6,
+            "product_url": "/modernist-eyeshadow-palette-P392707",
+            "quick_look_desc": "An artist-inspired, eye shadow palette with seamless color transitions&#151;offering effortless blending in a single pan.",
+            "rating": 3.631,
+            "sku_ids": [
+                "1621168",
+                "1621176",
+                "1621184",
+                "1621150",
+                "1662469",
+                "1621143",
+                "1621192"
+            ]
+        },
+        {
+            "brand_name": "Yves Saint Laurent",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Yves Saint Laurent - Couture Palette",
+                "list_price": "60.00",
+                "sale_price": "",
+                "sku_number": "1627397",
+                "sku_type": "Standard"
+            },
+            "display_name": "Couture Palette",
+            "hero_image": "/productimages/sku/s1627397-main-grid.jpg",
+            "id": "P387052",
+            "more_colors": 8,
+            "product_url": "/couture-palette-P387052",
+            "quick_look_desc": "A single color palette with five intense, ready-to-wear eyeshadows.",
+            "rating": 4.3971,
+            "sku_ids": [
+                "1627439",
+                "1627363",
+                "1627405",
+                "1627371",
+                "1627447",
+                "1627421",
+                "1627462",
+                "1627454",
+                "1627397"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Matte Exposure Palette",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1844125",
+                "sku_type": "Standard"
+            },
+            "display_name": "Matte Exposure Palette",
+            "hero_image": "/productimages/sku/s1844125-main-grid.jpg",
+            "id": "P410004",
+            "product_url": "/matte-exposure-palette-P410004",
+            "quick_look_desc": "An all-matte eye palette with soft, versatile neutrals in deep, smoldering hues.",
+            "rating": 3.8621,
+            "sku_ids": [
+                "1844125"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Tarteist Pro Custom Magnetic Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "17.00",
+                "sale_price": "",
+                "sku_number": "1885987",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tarteist Pro Custom Magnetic Palette",
+            "hero_image": "/productimages/sku/s1885987-main-grid.jpg",
+            "id": "P413958",
+            "product_url": "/tarteist-pro-custom-magnetic-palette-P413958",
+            "quick_look_desc": "An empty, refillable magnetic palette for a tailor-made eye and cheek makeup wardrobe.    ",
+            "rating": 5,
+            "sku_ids": [
+                "1885987"
+            ]
+        },
+        {
+            "brand_name": "Dior",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Dior - Total Glow Nude Eye Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "62.00",
+                "sale_price": "",
+                "sku_number": "1871045",
+                "sku_type": "Standard"
+            },
+            "display_name": "Total Glow Nude Eye Palette",
+            "hero_image": "/productimages/sku/s1871045-main-grid.jpg",
+            "id": "P414371",
+            "product_url": "/total-glow-nude-eye-palette-P414371",
+            "quick_look_desc": "A runway-inspired essential nude palette that creates a fresh glow on the eyelids and brows.",
+            "rating": 4.2,
+            "sku_ids": [
+                "1871045"
+            ]
+        },
+        {
+            "brand_name": "Laura Mercier",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Laura Mercier - Master Class Colour Essentials Collection 2nd Edition",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "125.00",
+                "sale_price": "",
+                "sku_number": "1877315",
+                "sku_type": "Standard"
+            },
+            "display_name": "Master Class Colour Essentials Collection 2nd Edition",
+            "hero_image": "/productimages/sku/s1877315-main-grid.jpg",
+            "id": "P414610",
+            "product_url": "/master-class-colour-essentials-collection-2nd-edition-P414610",
+            "quick_look_desc": "A limited-edition collection with 12 eye colors, three cheek colors, two tightline cake eyeliners, a long-wearing cream eye pencil, and two travel eye brushes.",
+            "rating": 5,
+            "sku_ids": [
+                "1877315"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - They\u2019re Real! Big Sexy Eye Kit",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1876515",
+                "sku_type": "Standard",
+                "value_price": "72.00"
+            },
+            "display_name": "They\u2019re Real! Big Sexy Eye Kit",
+            "hero_image": "/productimages/sku/s1876515-main-grid.jpg",
+            "id": "P413171",
+            "product_url": "/theyre-real-big-sexy-eye-kit-P413171",
+            "quick_look_desc": "An eye shadow palette with three they're real! eyeshadow duos for a total of six shades.",
+            "rating": 3.2632,
+            "sku_ids": [
+                "1876515"
+            ]
+        },
+        {
+            "brand_name": "Giorgio Armani Beauty",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Giorgio Armani Beauty - Light and Shadow Eyes and Face Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "140.00",
+                "sale_price": "",
+                "sku_number": "1878933",
+                "sku_type": "Standard"
+            },
+            "display_name": "Light and Shadow Eyes and Face Palette",
+            "hero_image": "/productimages/sku/s1878933-main-grid.jpg",
+            "id": "P413934",
+            "product_url": "/light-shadow-eyes-face-palette-P413934",
+            "quick_look_desc": "A two-tiered, eye and face palette.",
+            "rating": 5,
+            "sku_ids": [
+                "1878933"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Z Palette",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price_max": "28.00",
+                "list_price_min": "18.00",
+                "sale_price": "",
+                "sku_number": "1573211",
+                "sku_type": "Standard"
+            },
+            "display_name": "Z Palette",
+            "hero_image": "/productimages/sku/s1573211-main-grid.jpg",
+            "id": "P384677",
+            "more_sizes": 1,
+            "product_url": "/z-palette-P384677",
+            "quick_look_desc": "The original, empty magnetic makeup palette with a clear window that can hold all of your favorite makeup in one easy place.  ",
+            "rating": 4.561,
+            "sku_ids": [
+                "1573229",
+                "1573211"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Colorful Eyeshadow Filter Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1669969",
+                "sku_type": "Standard"
+            },
+            "display_name": "Colorful Eyeshadow Filter Palette",
+            "hero_image": "/productimages/sku/s1669969-main-grid.jpg",
+            "id": "P398082",
+            "more_colors": 2,
+            "product_url": "/colorful-eyeshadow-filter-palette-P398082",
+            "quick_look_desc": "A palette featuring 10 wearable shades inspired by photo filtering effects.",
+            "rating": 3.1709,
+            "sku_ids": [
+                "1669977",
+                "1669969",
+                "1723899"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Totally Cute Palette",
+                "is_limited_edition": true,
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1833417",
+                "sku_type": "Standard"
+            },
+            "display_name": "Totally Cute Palette",
+            "hero_image": "/productimages/sku/s1833417-main-grid.jpg",
+            "id": "P409776",
+            "product_url": "/totally-cute-palette-P409776",
+            "quick_look_desc": "A limited-edition, eye shadow palette with nine shades and stickers to decorate your palette.",
+            "rating": 4.3676,
+            "sku_ids": [
+                "1833417"
+            ]
+        },
+        {
+            "brand_name": "BECCA",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "BECCA - Ombre Rouge Eye Palette",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1721232",
+                "sku_type": "Standard"
+            },
+            "display_name": "Ombre Rouge Eye Palette",
+            "hero_image": "/productimages/sku/s1721232-main-grid.jpg",
+            "id": "P398421",
+            "product_url": "/ombre-rouge-eye-palette-P398421",
+            "quick_look_desc": "An eye shadow palette with five perfectly matte nudes.",
+            "rating": 4.55,
+            "sku_ids": [
+                "1721232"
+            ]
+        },
+        {
+            "brand_name": "bareMinerals",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "bareMinerals - Be Beautiful Ready Face and Eye Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1865369",
+                "sku_type": "Standard",
+                "value_price": "126.00"
+            },
+            "display_name": "Be Beautiful Ready Face and Eye Palette",
+            "hero_image": "/productimages/sku/s1865369-main-grid.jpg",
+            "id": "P413514",
+            "product_url": "/be-beautiful-ready-face-eye-palette-P413514",
+            "quick_look_desc": "This set features four eye shadows, a finishing powder, a blush, and two all-over face colors for glowing looks.",
+            "rating": 3.6,
+            "sku_ids": [
+                "1865369"
+            ]
+        },
+        {
+            "brand_name": "Givenchy",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Givenchy - Palette Ors Audacieux Intense & Radiant Eyeshadow",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "63.00",
+                "sale_price": "",
+                "sku_number": "1871870",
+                "sku_type": "Standard"
+            },
+            "display_name": "Palette Ors Audacieux Intense & Radiant Eyeshadow",
+            "hero_image": "/productimages/sku/s1871870-main-grid.jpg",
+            "id": "P414375",
+            "product_url": "/palette-ors-audacieux-intense-radiant-eyeshadow-P414375",
+            "quick_look_desc": "An audacious and golden eye palette with four high-intensity colors.",
+            "rating": 3.8,
+            "sku_ids": [
+                "1871870"
+            ]
+        },
+        {
+            "brand_name": "Dior",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Dior - Eye Reviver Backstage Pros Illuminating Neutrals Eye Palette",
+                "list_price": "62.00",
+                "sale_price": "",
+                "sku_number": "1689645",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye Reviver Backstage Pros Illuminating Neutrals Eye Palette",
+            "hero_image": "/productimages/sku/s1689645-main-grid.jpg",
+            "id": "P396812",
+            "product_url": "/eye-reviver-backstage-pros-illuminating-neutrals-eye-palette-P396812",
+            "quick_look_desc": "A neutral eye palette for layered eye looks.",
+            "rating": 3.9355,
+            "sku_ids": [
+                "1689645"
+            ]
+        },
+        {
+            "brand_name": "BECCA",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "BECCA - Ombre Nudes Eye Palette",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1616887",
+                "sku_type": "Standard"
+            },
+            "display_name": "Ombre Nudes Eye Palette",
+            "hero_image": "/productimages/sku/s1616887-main-grid.jpg",
+            "id": "P388118",
+            "product_url": "/ombre-nudes-eye-palette-P388118",
+            "quick_look_desc": "An eye shadow palette with five perfectly matte nudes.",
+            "rating": 4.3077,
+            "sku_ids": [
+                "1616887"
+            ]
+        },
+        {
+            "brand_name": "Laura Mercier",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Laura Mercier - Eye Art Caviar Colour-Inspired Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "55.00",
+                "sale_price": "",
+                "sku_number": "1833433",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye Art Caviar Colour-Inspired Palette",
+            "hero_image": "/productimages/sku/s1833433-main-grid.jpg",
+            "id": "P409356",
+            "product_url": "/eye-art-caviar-colour-inspired-palette-P409356",
+            "quick_look_desc": "An eye shadow palette featuring a curated collection of 12 shades inspired by cult-favorite Caviar Stick Eye Colour.",
+            "rating": 3.56,
+            "sku_ids": [
+                "1833433"
+            ]
+        },
+        {
+            "brand_name": "Lanc\u00f4me",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Lanc\u00f4me - Color Design 5 Shadow & Liner Palette",
+                "list_price": "50.00",
+                "sale_price": "",
+                "sku_number": "1313642",
+                "sku_type": "Standard"
+            },
+            "display_name": "Color Design 5 Shadow & Liner Palette",
+            "hero_image": "/productimages/sku/s1313642-main-grid.jpg",
+            "id": "P280465",
+            "more_colors": 8,
+            "product_url": "/color-design-5-shadow-liner-palette-P280465",
+            "quick_look_desc": "A vibrant eye shadow palette in five pigmented shades.",
+            "rating": 4.2977,
+            "sku_ids": [
+                "1313659",
+                "1313675",
+                "1593706",
+                "1717156",
+                "1593698",
+                "1402197",
+                "1313667",
+                "1313642",
+                "1313709"
+            ]
+        },
+        {
+            "brand_name": "Buxom",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Buxom - Stone Cold Babe Set",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "42.00",
+                "sale_price": "29.00",
+                "sku_number": "1867688",
+                "sku_type": "Standard",
+                "value_price": "95.00"
+            },
+            "display_name": "Stone Cold Babe Set",
+            "hero_image": "/productimages/sku/s1867688-main-grid.jpg",
+            "id": "P413519",
+            "product_url": "/stone-cold-babe-set-P413519",
+            "quick_look_desc": "A 12-shade, limited-edition eye shadow palette and a bestselling mini mascara.",
+            "rating": 3.5,
+            "sku_ids": [
+                "1867688"
+            ]
+        },
+        {
+            "brand_name": "Givenchy",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Givenchy - Le Prisme Superstellar Intense & Radiant Eyeshadow",
+                "is_limited_edition": true,
+                "list_price": "63.00",
+                "sale_price": "",
+                "sku_number": "1862051",
+                "sku_type": "Standard"
+            },
+            "display_name": "Le Prisme Superstellar Intense & Radiant Eyeshadow",
+            "hero_image": "/productimages/sku/s1862051-main-grid.jpg",
+            "id": "P410770",
+            "product_url": "/le-prisme-superstellar-intense-radiant-eyeshadow-P410770",
+            "quick_look_desc": "A cosmic star-shaped palette with three shades to illuminate and define eyes and complexion.",
+            "rating": 4.75,
+            "sku_ids": [
+                "1862051"
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Artist Palette Volume 4 \u2013 Shadows",
+                "list_price": "44.00",
+                "sale_price": "",
+                "sku_number": "1843879",
+                "sku_type": "Standard",
+                "value_price": "136.00"
+            },
+            "display_name": "Artist Palette Volume 4 \u2013 Shadows",
+            "hero_image": "/productimages/sku/s1843879-main-grid.jpg",
+            "id": "P410513",
+            "product_url": "/artist-palette-volume-4-shadows-P410513",
+            "quick_look_desc": "A collectible, eye shadow palette with nine groundbreaking Artist Shadow formulas in must-have matte shades.",
+            "rating": 4.0294,
+            "sku_ids": [
+                "1843879"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Colorful 5 Eye Contouring Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "25.00",
+                "sale_price": "",
+                "sku_number": "1782945",
+                "sku_type": "Standard"
+            },
+            "display_name": "Colorful 5 Eye Contouring Palette",
+            "hero_image": "/productimages/sku/s1782945-main-grid.jpg",
+            "id": "P409026",
+            "more_colors": 2,
+            "product_url": "/colorful-5-eye-contouring-palette-P409026",
+            "quick_look_desc": "An irresistible palette, featuring five shades designed to enhance, lift, sculpt, or emphasize eyes.",
+            "rating": 3.8889,
+            "sku_ids": [
+                "1782952",
+                "1782960",
+                "1782945"
+            ]
+        },
+        {
+            "brand_name": "Dior",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Dior - Total Matte Smokey Eye Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "62.00",
+                "sale_price": "",
+                "sku_number": "1871037",
+                "sku_type": "Standard"
+            },
+            "display_name": "Total Matte Smokey Eye Palette",
+            "hero_image": "/productimages/sku/s1871037-main-grid.jpg",
+            "id": "P414369",
+            "product_url": "/total-matte-smokey-eye-palette-P414369",
+            "quick_look_desc": "A five-shade smoky eye palette for bold and vibrant makeup looks.",
+            "rating": 4,
+            "sku_ids": [
+                "1871037"
+            ]
+        },
+        {
+            "brand_name": "Buxom",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Buxom - Dolly's Wild Side\u2122 Eyeshadow Palette",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1700293",
+                "sku_type": "Standard",
+                "value_price": "85.00"
+            },
+            "display_name": "Dolly's Wild Side\u2122 Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1700293-main-grid.jpg",
+            "id": "P397506",
+            "product_url": "/dolly-s-wild-side-P397506",
+            "quick_look_desc": "A refillable, six-shade eye palette with expertly curated, primer-infused, neutral to mauve shades.",
+            "rating": 4.5595,
+            "sku_ids": [
+                "1700293"
+            ]
+        },
+        {
+            "brand_name": "Ciat\u00e9 London",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Ciat\u00e9 London - The Pretty Eyeshadow Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "35.00",
+                "sale_price": "",
+                "sku_number": "1783604",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Pretty Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1783604-main-grid.jpg",
+            "id": "P409066",
+            "product_url": "/the-pretty-palette-P409066",
+            "quick_look_desc": "A portable, nine-shade eye shadow palette, featuring highly pigmented, ultra-blendable, universally flattering colors.",
+            "rating": 4.4706,
+            "sku_ids": [
+                "1783604"
+            ]
+        },
+        {
+            "brand_name": "Natasha Denona",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Natasha Denona - Eyeshadow Palette 10",
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "95.00",
+                "sale_price": "",
+                "sku_number": "1875061",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Palette 10",
+            "hero_image": "/productimages/sku/s1875061-main-grid.jpg",
+            "id": "P411827",
+            "product_url": "/eyeshadow-palette-10-P411827",
+            "quick_look_desc": "An eye shadow palette with 10 shades for an array of eye looks.",
+            "rating": 5,
+            "sku_ids": [
+                "1875061"
+            ]
+        },
+        {
+            "brand_name": "Viseart",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Viseart - Viseart Corrector, Contour, Camouflage HD Palette",
+                "is_online_only": true,
+                "list_price": "80.00",
+                "sale_price": "",
+                "sku_number": "1665660",
+                "sku_type": "Standard"
+            },
+            "display_name": "Viseart Corrector, Contour, Camouflage HD Palette",
+            "hero_image": "/productimages/sku/s1665660-main-grid.jpg",
+            "id": "P391305",
+            "more_colors": 1,
+            "product_url": "/viseart-corrector-contour-camouflage-hd-palette-P391305",
+            "quick_look_desc": "A selection of 12 essential concealer cream shades that camouflage, conceal, correct, or contour the skintone.",
+            "rating": 3.9259,
+            "sku_ids": [
+                "1665678",
+                "1665660"
+            ]
+        },
+        {
+            "brand_name": "Ciat\u00e9 London",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Ciat\u00e9 London - The Fearless Eyeshadow Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "35.00",
+                "sale_price": "",
+                "sku_number": "1783620",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Fearless Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1783620-main-grid.jpg",
+            "id": "P409064",
+            "product_url": "/the-fearless-palette-P409064",
+            "quick_look_desc": "An essential eye shadow palette with nine shades&#151;from buildable, to everyday, to high-fashion shades.",
+            "rating": 4.5,
+            "sku_ids": [
+                "1783620"
+            ]
+        },
+        {
+            "brand_name": "Lanc\u00f4me",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Lanc\u00f4me - AUDA[CITY] in PARIS",
+                "list_price": "69.00",
+                "sale_price": "49.00",
+                "sku_number": "1712348",
+                "sku_type": "Standard"
+            },
+            "display_name": "AUDA[CITY] in PARIS",
+            "hero_image": "/productimages/sku/s1712348-main-grid.jpg",
+            "id": "P399504",
+            "product_url": "/auda-city-in-paris-P399504",
+            "quick_look_desc": "An eye palette by Lisa Eldridge featuring 16 shades, ranging from nude neutrals to deep purples&#151;inspired by the streets of Paris.",
+            "rating": 3.5342,
+            "sku_ids": [
+                "1712348"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - World Famous Neutrals - Sexiest Nudes Ever",
+                "is_sephora_exclusive": true,
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1476480",
+                "sku_type": "Standard",
+                "value_price": "48.00"
+            },
+            "display_name": "World Famous Neutrals - Sexiest Nudes Ever",
+            "hero_image": "/productimages/sku/s1476480-main-grid.jpg",
+            "id": "P377295",
+            "product_url": "/world-famous-neutrals-sexiest-nudes-ever-P377295",
+            "quick_look_desc": "An eyeshadow kit featuring the sexiest nudes ever!",
+            "rating": 4.3008,
+            "sku_ids": [
+                "1476480"
+            ]
+        },
+        {
+            "brand_name": "Buxom",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Buxom - May Contain Nudity\u2122 Eyeshadow Palette",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1700285",
+                "sku_type": "Standard",
+                "value_price": "85.00"
+            },
+            "display_name": "May Contain Nudity\u2122 Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1700285-main-grid.jpg",
+            "id": "P397508",
+            "product_url": "/may-contain-nudity-P397508",
+            "quick_look_desc": "A refillable, six-shade eye palette with expertly curated, primer-infused, nude shades.",
+            "rating": 4.1538,
+            "sku_ids": [
+                "1700285"
+            ]
+        },
+        {
+            "brand_name": "surratt beauty",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "surratt beauty - Artistique Custom Palette Case",
+                "list_price_max": "22.00",
+                "list_price_min": "17.00",
+                "sale_price": "",
+                "sku_number": "1672948",
+                "sku_type": "Standard"
+            },
+            "display_name": "Artistique Custom Palette Case",
+            "hero_image": "/productimages/sku/s1672948-main-grid.jpg",
+            "id": "P394162",
+            "more_sizes": 1,
+            "product_url": "/artistique-custom-palette-case-P394162",
+            "quick_look_desc": "A refillable artist\u2019s palette for curating Surratt Beauty eye shadows and blushes.",
+            "rating": 3.6,
+            "sku_ids": [
+                "1673490",
+                "1672948"
+            ]
+        },
+        {
+            "brand_name": "Givenchy",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Givenchy - Prisme Quatuor",
+                "is_sephora_exclusive": true,
+                "list_price": "59.00",
+                "sale_price": "",
+                "sku_number": "1665967",
+                "sku_type": "Standard"
+            },
+            "display_name": "Prisme Quatuor",
+            "hero_image": "/productimages/sku/s1665967-main-grid.jpg",
+            "id": "P393132",
+            "more_colors": 3,
+            "product_url": "/prisme-quatuor-P393132",
+            "quick_look_desc": "A velvety-smooth and easy-to-apply, quad eye shadow palette.",
+            "rating": 3.0476,
+            "sku_ids": [
+                "1665967",
+                "1665900",
+                "1665983",
+                "1665926"
+            ]
+        },
+        {
+            "brand_name": "Marc Jacobs Beauty",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Marc Jacobs Beauty - Style Eye-Con No.3 - Plush Shadow",
+                "is_sephora_exclusive": true,
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1505163",
+                "sku_type": "Standard"
+            },
+            "display_name": "Style Eye-Con No.3 - Plush Shadow",
+            "hero_image": "/productimages/sku/s1505163-main-grid.jpg",
+            "id": "P380703",
+            "more_colors": 7,
+            "product_url": "/style-eye-con-no-3-plush-shadow-P380703",
+            "quick_look_desc": "A petite set of three plush eye shadows that harmoniously provide a creamy, sumptuous finish.",
+            "rating": 3.9302,
+            "sku_ids": [
+                "1505148",
+                "1505155",
+                "1640895",
+                "1505163",
+                "1632298",
+                "1632306",
+                "1505122",
+                "1505130"
+            ]
+        },
+        {
+            "brand_name": "Dior",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Dior - Dior Designer 5-Colour Palette",
+                "list_price": "62.00",
+                "sale_price": "",
+                "sku_number": "1705797",
+                "sku_type": "Standard"
+            },
+            "display_name": "Dior Designer 5-Colour Palette",
+            "hero_image": "/productimages/sku/s1705797-main-grid.jpg",
+            "id": "P396818",
+            "more_colors": 4,
+            "product_url": "/dior-designer-5-colour-palette-P396818",
+            "quick_look_desc": "A five-shade eye palette with a shadow base, two eye shadows, a highlighter, an eyeliner, and a five-step tutorial with professional-inspired techniques.",
+            "rating": 3.2857,
+            "sku_ids": [
+                "1705797",
+                "1705771",
+                "1705789",
+                "1705763",
+                "1705805"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Colorful Eyeshadow Custom Palette Case",
+                "is_sephora_exclusive": true,
+                "list_price": "14.00",
+                "sale_price": "11.00",
+                "sku_number": "1441963",
+                "sku_type": "Standard"
+            },
+            "display_name": "Colorful Eyeshadow Custom Palette Case",
+            "hero_image": "/productimages/sku/s1441963-main-grid.jpg",
+            "id": "P377373",
+            "product_url": "/colorful-eyeshadow-custom-palette-case-P377373",
+            "quick_look_desc": "An innovative magnetic carrying case that securely carries a customizable, interchangeable palette of Colorful Eyeshadows. ",
+            "rating": 4.3537,
+            "sku_ids": [
+                "1441963"
+            ]
+        },
+        {
+            "brand_name": "BURBERRY",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "BURBERRY - Festive Complete Eye Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "60.00",
+                "sale_price": "",
+                "sku_number": "1875533",
+                "sku_type": "Standard"
+            },
+            "display_name": "Festive Complete Eye Palette",
+            "hero_image": "/productimages/sku/s1875533-main-grid.jpg",
+            "id": "P414341",
+            "product_url": "/festive-complete-eye-palette-P414341",
+            "quick_look_desc": "A four-shade eye palette with a base, two buildable eye shades, and a liner to define. ",
+            "rating": 4,
+            "sku_ids": [
+                "1875533"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Palette 5 Couleurs",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "69.00",
+                "sale_price": "",
+                "sku_number": "1861590",
+                "sku_type": "Standard"
+            },
+            "display_name": "Palette 5 Couleurs",
+            "hero_image": "/productimages/sku/s1861590-main-grid.jpg",
+            "id": "P412121",
+            "more_colors": 3,
+            "product_url": "/palette-5-couleurs-P412121",
+            "quick_look_desc": "An eye shadow palette with five nude to bold colors in a sleek compact.",
+            "rating": 3,
+            "sku_ids": [
+                "1861640",
+                "1861590",
+                "1861632",
+                "1861608"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Double Exposure Travel Palette",
+                "list_price": "24.00",
+                "sale_price": "",
+                "sku_number": "1718808",
+                "sku_type": "Standard"
+            },
+            "display_name": "Double Exposure Travel Palette",
+            "hero_image": "/productimages/sku/s1718808-main-grid.jpg",
+            "id": "P398373",
+            "product_url": "/double-exposure-travel-palette-P398373",
+            "quick_look_desc": "A travel eye shadow palette with eight shades that transform when wet.",
+            "rating": 3.3659,
+            "sku_ids": [
+                "1718808"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Shadow Box",
+                "is_online_only": true,
+                "list_price": "34.00",
+                "sale_price": "18.00",
+                "sku_number": "1694223",
+                "sku_type": "Standard"
+            },
+            "display_name": "Shadow Box",
+            "hero_image": "/productimages/sku/s1694223-main-grid.jpg",
+            "id": "P395545",
+            "product_url": "/shadow-box-P395545",
+            "quick_look_desc": "An all-in-one eye shadow palette with a dozen shades that range from pale and deep, to matte and sparkly hues.",
+            "rating": 4.0429,
+            "sku_ids": [
+                "1694223"
+            ]
+        },
+        {
+            "brand_name": "Chosungah 22",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Chosungah 22 - Dong Gong Minn Jello Color Eyeshadow Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1789742",
+                "sku_type": "Standard"
+            },
+            "display_name": "Dong Gong Minn Jello Color Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1789742-main-grid.jpg",
+            "id": "P401103",
+            "more_colors": 1,
+            "product_url": "/dong-gong-minn-jello-color-eyeshadow-palette-P401103",
+            "quick_look_desc": "An eye shadow palette with six shades in a unique, bouncy, jelly texture.",
+            "rating": 3.2826,
+            "sku_ids": [
+                "1721620",
+                "1789742"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - 6 Color Eyeshadow Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "93.00",
+                "sale_price": "",
+                "sku_number": "1670355",
+                "sku_type": "Standard"
+            },
+            "display_name": "6 Color Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1670355-main-grid.jpg",
+            "id": "P271301",
+            "product_url": "/6-color-eyeshadow-palette-P271301",
+            "quick_look_desc": "An alluring eye shadow palette that caters to your every whim, offering a range of iridescent, matte, and satin shadows.",
+            "rating": 4.4737,
+            "sku_ids": [
+                "1670355"
+            ]
+        },
+        {
+            "brand_name": "Est\u00e9e Lauder",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Est\u00e9e Lauder - Pure Color Envy Sculpting EyeShadow 5-Color Palette",
+                "list_price": "52.00",
+                "sale_price": "",
+                "sku_number": "1647239",
+                "sku_type": "Standard"
+            },
+            "display_name": "Pure Color Envy Sculpting EyeShadow 5-Color Palette",
+            "hero_image": "/productimages/sku/s1647239-main-grid.jpg",
+            "id": "P388206",
+            "product_url": "/pure-color-envy-sculpting-eyeshadow-5-color-palette-P388206",
+            "quick_look_desc": "A palette with five lightweight, ultraluxe eye shadows with plush, creamy finishes.",
+            "rating": 4.2,
+            "sku_ids": [
+                "1647239"
+            ]
+        },
+        {
+            "brand_name": "Dior",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Dior - Diorshow Iconic Overcurl Set",
+                "is_new": true,
+                "list_price": "29.50",
+                "sale_price": "",
+                "sku_number": "1846344",
+                "sku_type": "Standard"
+            },
+            "display_name": "Diorshow Iconic Overcurl Set",
+            "hero_image": "/productimages/sku/s1846344-main-grid.jpg",
+            "id": "P414361",
+            "product_url": "/diorshow-iconic-overcurl-set-P414361",
+            "quick_look_desc": "An iconic mascara and five-shade eye shadow palette designed to define the eyes.",
+            "rating": 4.7273,
+            "sku_ids": [
+                ""
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Artistic Eye Shadow Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "49.00",
+                "sale_price": "39.00",
+                "sku_number": "1868025",
+                "sku_type": "Standard",
+                "value_price": "95.00"
+            },
+            "display_name": "Artistic Eye Shadow Palette",
+            "hero_image": "/productimages/sku/s1868025-main-grid.jpg",
+            "id": "P412328",
+            "product_url": "/artistic-eye-shadow-palette-P412328",
+            "quick_look_desc": "A limited-edition, holiday eye shadow palette, featuring nine Artist Shadows boasting vivid color and super blendability.",
+            "rating": 3,
+            "sku_ids": [
+                "1868025"
+            ]
+        },
+        {
+            "brand_name": "Ciat\u00e9 London",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Ciat\u00e9 London - The Fun Eyeshadow Palette",
+                "is_sephora_exclusive": true,
+                "list_price": "35.00",
+                "sale_price": "",
+                "sku_number": "1783612",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Fun Eyeshadow Palette",
+            "hero_image": "/productimages/sku/s1783612-main-grid.jpg",
+            "id": "P409065",
+            "product_url": "/the-fun-palette-P409065",
+            "quick_look_desc": "A portable, nine-shade eye shadow palette with highly pigmented and ultra-blendable, fun, on-trend shades.",
+            "rating": 4.4,
+            "sku_ids": [
+                "1783612"
+            ]
+        },
+        {
+            "brand_name": "Shiseido",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Shiseido - Luminizing Satin Eye Color Trio",
+                "is_online_only": true,
+                "list_price": "33.00",
+                "sale_price": "",
+                "sku_number": "1316785",
+                "sku_type": "Standard"
+            },
+            "display_name": "Luminizing Satin Eye Color Trio",
+            "hero_image": "/productimages/sku/s1316785-main-grid.jpg",
+            "id": "P267819",
+            "more_colors": 5,
+            "product_url": "/luminizing-satin-eye-color-trio-P267819",
+            "quick_look_desc": "A versatile ensemble of silky, highly pigmented eye shadows. ",
+            "rating": 4.4032,
+            "sku_ids": [
+                "1555648",
+                "1492982",
+                "1316777",
+                "1276542",
+                "1276476",
+                "1316785"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Eye And Blush Palette",
+                "is_limited_edition": true,
+                "list_price": "90.00",
+                "sale_price": "",
+                "sku_number": "1745785",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye And Blush Palette",
+            "hero_image": "/productimages/sku/s1745785-main-grid.jpg",
+            "id": "P402117",
+            "product_url": "/eye-blush-palette-P402117",
+            "quick_look_desc": "A limited-edition eye and blush makeup palette.",
+            "rating": 4.2222,
+            "sku_ids": [
+                "1745785"
+            ]
+        },
+        {
+            "brand_name": "Viseart",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "Viseart - Viseart Eyeshadow & Eyebrow Palette",
+                "is_online_only": true,
+                "is_sephora_exclusive": true,
+                "list_price": "80.00",
+                "sale_price": "",
+                "sku_number": "1784404",
+                "sku_type": "Standard"
+            },
+            "display_name": "Viseart Eyeshadow & Eyebrow Palette",
+            "hero_image": "/productimages/sku/s1784404-main-grid.jpg",
+            "id": "P405604",
+            "product_url": "/viseart-eyeshadow-eyebrow-palette-P405604",
+            "quick_look_desc": "An all-in-one brow and eye palette with three wax-based tones for brows and nine colors for matte shadow looks.",
+            "rating": 4.375,
+            "sku_ids": [
+                "1784404"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "bi_exclusivity_level": "Rouge",
+                "image_alt_text": "Smashbox - Cover Shot: Eye Palettes",
+                "is_beauty_insider": true,
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "is_sephora_exclusive": true,
+                "list_price": "29.00",
+                "sale_price": "",
+                "sku_number": "1877836",
+                "sku_type": "Standard"
+            },
+            "display_name": "Cover Shot: Eye Palettes",
+            "hero_image": "/productimages/sku/s1877836-main-grid.jpg",
+            "id": "P19267373",
+            "more_colors": 6,
+            "product_url": "/cover-shot-eye-palettes-P19267373",
+            "quick_look_desc": "A collection of seven travel-size palettes, inspired by trends seen at the studio&#151;from matte to metallic to bold.",
+            "rating": 0,
+            "sku_ids": [
+                "1877851",
+                "1877836",
+                "1877885",
+                "1877828",
+                "1877877",
+                "1877869",
+                "1877844"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Tarteist Pro To Go Amazonian Clay Palette",
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "23.00",
+                "sale_price": "",
+                "sku_number": "1895523",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tarteist Pro To Go Amazonian Clay Palette",
+            "hero_image": "/productimages/sku/s1895523-main-grid.jpg",
+            "id": "P414992",
+            "product_url": "/tarteist-pro-to-go-amazonian-clay-palette-P414992",
+            "quick_look_desc": "A professional effect eyeshadow palette with universally flattering colors that create pro looks with ease.",
+            "rating": 0,
+            "sku_ids": [
+                "1895523"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "image_alt_text": "tarte - Tarteist\u2122 Pro Amazonian Clay Palette",
+                "is_new": true,
+                "list_price": "53.00",
+                "sale_price": "",
+                "sku_number": "1876549",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tarteist\u2122 Pro Amazonian Clay Palette",
+            "hero_image": "/productimages/sku/s1876549-main-grid.jpg",
+            "id": "P413177",
+            "product_url": "/tarteist-pro-amazonian-clay-palette-P413177",
+            "quick_look_desc": "A pro-level, everyday eye shadow palette with 20 ultra-pigmented shades, powered by naturally-derived Amazonian clay.",
+            "rating": 0,
+            "sku_ids": [
+                "1876549"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "eyeshadow",
+            "derived_sku": {
+                "bi_exclusivity_level": "Rouge",
+                "image_alt_text": "Too Faced - White Chocolate Chip Palette",
+                "is_beauty_insider": true,
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "is_sephora_exclusive": true,
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1884212",
+                "sku_type": "Standard"
+            },
+            "display_name": "White Chocolate Chip Palette",
+            "hero_image": "/productimages/sku/s1884212-main-grid.jpg",
+            "id": "P63084555",
+            "product_url": "/white-chocolate-chip-palette-P63084555",
+            "quick_look_desc": "A delicious eyeshadow palette with a large array of cocoa powder-infused shades in a portable case. ",
+            "rating": 0,
+            "sku_ids": [
+                "1884212"
+            ]
+        }
+    ],
+    "total_products": 125
+}

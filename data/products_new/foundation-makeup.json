@@ -1,0 +1,4 @@
+{
+    "product_endpoint": "http://www.sephora.com/rest/products/?categoryName=foundation-makeup&include_categories=true&includeAll&pageSize=100",
+    "products": []
+}

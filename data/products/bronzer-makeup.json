@@ -1,0 +1,2371 @@
+{
+    "categories": {
+        "id": "cat140006",
+        "name": "Makeup",
+        "seo_path": "/makeup-cosmetics",
+        "sub_categories": {
+            "id": "cat1650031",
+            "name": "Cheek",
+            "seo_path": "/cheek-makeup",
+            "sub_categories": [
+                {
+                    "id": "cat1650032",
+                    "name": "Cheek Palettes",
+                    "seo_path": "/cheek-palettes"
+                },
+                {
+                    "id": "cat60016",
+                    "name": "Blush",
+                    "seo_path": "/blush"
+                },
+                {
+                    "bottom_content": "<div class=\"c-Image \" style=\"margin-left: -24px;\"> <a href=\"/giftcards?icid2=nongiftnthlevel_giftcardbottombanners_holiday110116_us\" target=\"\" title=\"One Card Fits All. Gift cards of $50 or more come with a complimentary 45-minute Custom Makeover. Shop Now > Limited Time Only. While Supplies Last.\" > <img src=\"/images/blank.gif\" class=\"c-Image-img \" data-lazyload=\"true\" data-seph-lazy-src=\"/contentimages/holiday/2016/giftcards/banners/holiday_giftcard_nthlevel_bbanner_110216_image.gif\" alt=\"One Card Fits All. Gift cards of $50 or more come with a complimentary 45-minute Custom Makeover. Shop Now > Limited Time Only. While Supplies Last.\" height=\"150\" width=\"777\" > </a> </div> <div class=\"c-HTML \" > <p><span style=\"font-size: 11px; color: #666666\">Looking for bronzer? We\u2019re here to help. Our bronzing powder selections create the perfect sunkissed look, from a golden glow to a deep tan.</span></p></div> ",
+                    "id": "cat60018",
+                    "is_selected": true,
+                    "name": "Bronzer",
+                    "seo_path": "/bronzer-makeup"
+                },
+                {
+                    "id": "cat1650033",
+                    "name": "Contour",
+                    "seo_path": "/contour"
+                },
+                {
+                    "id": "cat1650034",
+                    "name": "Highlighter",
+                    "seo_path": "/cheek-highlighter"
+                }
+            ]
+        }
+    },
+    "page_size": 100,
+    "products": [
+        {
+            "brand_name": "Anastasia Beverly Hills",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Anastasia Beverly Hills - Contour Kit",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1615186",
+                "sku_type": "Standard"
+            },
+            "display_name": "Contour Kit",
+            "hero_image": "/productimages/sku/s1615186-main-grid.jpg",
+            "id": "P386335",
+            "more_colors": 2,
+            "product_url": "/contour-kit-P386335",
+            "quick_look_desc": "A sleek palette with six shades: three for highlighting and three for contouring.",
+            "rating": 4.0684,
+            "sku_ids": [
+                "1615186",
+                "1658830",
+                "1798735"
+            ]
+        },
+        {
+            "brand_name": "Hourglass",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Hourglass - Ambient\u00ae Lighting Edit - Surreal Light",
+                "is_limited_edition": true,
+                "is_new": true,
+                "list_price": "80.00",
+                "sale_price": "",
+                "sku_number": "1845668",
+                "sku_type": "Standard"
+            },
+            "display_name": "Ambient\u00ae Lighting Edit - Surreal Light",
+            "hero_image": "/productimages/sku/s1845668-main-grid.jpg",
+            "id": "P410774",
+            "product_url": "/ambient-lighting-edit-surreal-light-P410774",
+            "quick_look_desc": "A limited-edition palette of universally-flattering powder, bronzer, blushes, and a covetable highlighter&#151;only for this holiday season.",
+            "rating": 3.5714,
+            "sku_ids": [
+                "1845668"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - Hoola Matte Bronzer",
+                "list_price_max": "29.00",
+                "list_price_min": "15.00",
+                "sale_price": "",
+                "sku_number": "513234",
+                "sku_type": "Standard"
+            },
+            "display_name": "Hoola Matte Bronzer",
+            "hero_image": "/productimages/sku/s513234-main-grid.jpg",
+            "id": "P290636",
+            "more_colors": 1,
+            "product_url": "/hoola-matte-bronzer-P290636",
+            "quick_look_desc": "An award-winning matte bronzer.",
+            "rating": 4.5778,
+            "sku_ids": [
+                "1782259",
+                "513234"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "NARS - Bronzing Powder",
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "537878",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzing Powder",
+            "hero_image": "/productimages/sku/s537878-main-grid.jpg",
+            "id": "P12790",
+            "more_colors": 1,
+            "product_url": "/bronzing-powder-P12790",
+            "quick_look_desc": "A bronzer with a gold shimmer finish. ",
+            "rating": 4.7062,
+            "sku_ids": [
+                "537878",
+                "670232"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Soleil Matte Bronzer",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1511823",
+                "sku_type": "Standard"
+            },
+            "display_name": "Soleil Matte Bronzer",
+            "hero_image": "/productimages/sku/s1511823-main-grid.jpg",
+            "id": "P229406",
+            "more_colors": 2,
+            "product_url": "/chocolate-soleil-medium-deep-matte-bronzer-P229406",
+            "quick_look_desc": "A delectable matte bronzer.",
+            "rating": 4.6649,
+            "sku_ids": [
+                "1511831",
+                "1511823",
+                "1664929"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "NARS - The Multiple",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1888759",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Multiple",
+            "hero_image": "/productimages/sku/s1888759-main-grid.jpg",
+            "id": "P2866",
+            "more_colors": 11,
+            "product_url": "/the-multiple-P2866",
+            "quick_look_desc": "Nars The Multiple is the original all-in-one, cream-to-powder, multipurpose makeup stick. With fingertip application, The Multiple highlights, sculpts, and warms eyes, cheeks, lips, and body.",
+            "rating": 4.3552,
+            "sku_ids": [
+                "537860",
+                "832626",
+                "1203181",
+                "1498492",
+                "1577535",
+                "1017920",
+                "1888759",
+                "222125",
+                "1365048",
+                "583138",
+                "222133",
+                "222117"
+            ]
+        },
+        {
+            "brand_name": "Bobbi Brown",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Bobbi Brown - Bobbi To Glow Shimmer Brick Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "69.00",
+                "sale_price": "",
+                "sku_number": "1857580",
+                "sku_type": "Standard",
+                "value_price": "122.00"
+            },
+            "display_name": "Bobbi To Glow Shimmer Brick Palette",
+            "hero_image": "/productimages/sku/s1857580-main-grid.jpg",
+            "id": "P413011",
+            "product_url": "/bobbi-to-glow-shimmer-brick-palette-P413011",
+            "quick_look_desc": "A glow-amplifying palette with three of Bobbi Brown\u2019s iconic Shimmer Brick highlighters in bestselling shades that are designed to flatter all skintones.",
+            "rating": 4.5179,
+            "sku_ids": [
+                "1857580"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - Cheekathon Blush & Bronzer Palette",
+                "is_limited_edition": true,
+                "list_price": "58.00",
+                "sale_price": "",
+                "sku_number": "1798875",
+                "sku_type": "Standard",
+                "value_price": "145.00"
+            },
+            "display_name": "Cheekathon Blush & Bronzer Palette",
+            "hero_image": "/productimages/sku/s1798875-main-grid.jpg",
+            "id": "P405573",
+            "product_url": "/cheekathon-blush-bronzer-palette-P405573",
+            "quick_look_desc": "A must-have palette featuring five bestselling, full-size, box o\u2019 powder blushes and bronzers.",
+            "rating": 4.2495,
+            "sku_ids": [
+                "1798875"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Step-By-Step Contour Kit",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1629500",
+                "sku_type": "Standard"
+            },
+            "display_name": "Step-By-Step Contour Kit",
+            "hero_image": "/productimages/sku/s1629500-main-grid.jpg",
+            "id": "P387426",
+            "more_colors": 1,
+            "product_url": "/step-by-step-contour-kit-P387426",
+            "quick_look_desc": "A cult-favorite, contouring kit that teaches you how to sculpt, shape, and define your features with three shades for defining, bronzing, and highlighting any complexion.",
+            "rating": 3.9871,
+            "sku_ids": [
+                "1728112",
+                "1629500"
+            ]
+        },
+        {
+            "brand_name": "BECCA",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "BECCA - Shimmering Skin Perfector\u2122 Poured Cr\u00e8me",
+                "is_sephora_exclusive": true,
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1830868",
+                "sku_type": "Standard"
+            },
+            "display_name": "Shimmering Skin Perfector\u2122 Poured Cr\u00e8me",
+            "hero_image": "/productimages/sku/s1830868-main-grid.jpg",
+            "id": "P395159",
+            "more_colors": 5,
+            "product_url": "/shimmering-skin-perfector-poured-P395159",
+            "quick_look_desc": "A rich, smooth cream formula that provides high color payoff for a soft, mattified, luminous finish.  ",
+            "rating": 3.9895,
+            "sku_ids": [
+                "1699594",
+                "1699636",
+                "1699610",
+                "1699628",
+                "1699602",
+                "1830868"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked Flushed",
+                "list_price": "32.00",
+                "sale_price": "",
+                "sku_number": "1475540",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked Flushed",
+            "hero_image": "/productimages/sku/s1475540-main-grid.jpg",
+            "id": "P377706",
+            "more_colors": 2,
+            "product_url": "/naked-flushed-P377706",
+            "quick_look_desc": "A silky bronzer, highlighter, and blush in a sleek, travel-ready compact.  ",
+            "rating": 4.2444,
+            "sku_ids": [
+                "1475540",
+                "1614536",
+                "1614528"
+            ]
+        },
+        {
+            "brand_name": "Laura Mercier",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Laura Mercier - Matte Radiance Baked Powder Compact",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1522184",
+                "sku_type": "Standard"
+            },
+            "display_name": "Matte Radiance Baked Powder Compact",
+            "hero_image": "/productimages/sku/s1522184-main-grid.jpg",
+            "id": "P379031",
+            "more_colors": 3,
+            "product_url": "/matte-radiance-baked-powder-compact-P379031",
+            "quick_look_desc": "An ultrasmooth baked face powder that provides natural color with soft matte radiance.",
+            "rating": 4.616,
+            "sku_ids": [
+                "1562917",
+                "1562891",
+                "1562909",
+                "1522184"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "NARS - Blush/Bronzer Duo",
+                "list_price_max": "42.00",
+                "list_price_min": "24.00",
+                "sale_price": "",
+                "sku_number": "832642",
+                "sku_type": "Standard"
+            },
+            "display_name": "Blush/Bronzer Duo",
+            "hero_image": "/productimages/sku/s832642-main-grid.jpg",
+            "id": "P104006",
+            "more_colors": 2,
+            "product_url": "/blush-bronzer-duo-P104006",
+            "quick_look_desc": "This Blush-Bronzer Duo contains the incomparable combination of Nars' Blush and Bronzer.",
+            "rating": 4.5025,
+            "sku_ids": [
+                "1479922",
+                "888479",
+                "832642"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Passport To Bronze Deluxe Bronzer & Flatbuki Brush Set",
+                "is_sephora_exclusive": true,
+                "list_price": "25.00",
+                "sale_price": "",
+                "sku_number": "1834159",
+                "sku_type": "Standard"
+            },
+            "display_name": "Passport To Bronze Deluxe Bronzer & Flatbuki Brush Set",
+            "hero_image": "/productimages/sku/s1834159-main-grid.jpg",
+            "id": "P411236",
+            "product_url": "/passport-to-bronze-deluxe-bronzer-flatbuki-brush-set-P411236",
+            "quick_look_desc": "A limited-edition bronzing set with three bronzers and a mini brush for the ultimate glow.",
+            "rating": 4.4444,
+            "sku_ids": [
+                "1834159"
+            ]
+        },
+        {
+            "brand_name": "Bobbi Brown",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Bobbi Brown - Bronzing Powder",
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1287986",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzing Powder",
+            "hero_image": "/productimages/sku/s1287986-main-grid.jpg",
+            "id": "P270548",
+            "more_colors": 6,
+            "product_url": "/bronzing-powder-P270548",
+            "quick_look_desc": "A soft and matte, silky-smooth bronzer that instantly gives skin the look of a natural tan.",
+            "rating": 4.6844,
+            "sku_ids": [
+                "1813203",
+                "1287986",
+                "1289545",
+                "1813195",
+                "1288000",
+                "1288018",
+                "1288026"
+            ]
+        },
+        {
+            "brand_name": "Hourglass",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Hourglass - Ambient\u00ae Lighting Bronzer",
+                "list_price_max": "50.00",
+                "list_price_min": "24.00",
+                "sale_price": "",
+                "sku_number": "1688860",
+                "sku_type": "Standard"
+            },
+            "display_name": "Ambient\u00ae Lighting Bronzer",
+            "hero_image": "/productimages/sku/s1688860-main-grid.jpg",
+            "id": "P395697",
+            "more_colors": 2,
+            "product_url": "/ambient-bronzer-P395697",
+            "quick_look_desc": "An illuminating bronzer with Photoluminescent Technology, featuring bronze pigments that deliver a natural-looking, sunkissed glow while flaunting depth and dimension.",
+            "rating": 4.4081,
+            "sku_ids": [
+                "1688878",
+                "1688860",
+                "1833755"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "tarte - Amazonian Clay Matte Waterproof Bronzer",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1239599",
+                "sku_type": "Standard"
+            },
+            "display_name": "Amazonian Clay Matte Waterproof Bronzer",
+            "hero_image": "/productimages/sku/s1239599-main-grid.jpg",
+            "id": "P262113",
+            "product_url": "/matte-waterproof-bronzer-P262113",
+            "quick_look_desc": "A bestselling matte bronzing powder in the iconic Park Ave Princess&trade; shade.",
+            "rating": 4.5487,
+            "sku_ids": [
+                "1239599"
+            ]
+        },
+        {
+            "brand_name": "Bobbi Brown",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Bobbi Brown - Shimmer Brick",
+                "list_price_max": "46.00",
+                "list_price_min": "25.00",
+                "sale_price": "",
+                "sku_number": "1780675",
+                "sku_type": "Standard"
+            },
+            "display_name": "Shimmer Brick",
+            "hero_image": "/productimages/sku/s1780675-main-grid.jpg",
+            "id": "P270545",
+            "more_colors": 4,
+            "product_url": "/shimmer-brick-bronze-P270545",
+            "quick_look_desc": "An iconic highlighter that instantly delivers soft-focus, lit-from-within color with a flattering combination of pale, golden, and rosy pinks.",
+            "rating": 4.4099,
+            "sku_ids": [
+                "1780675",
+                "1289511",
+                "1289503",
+                "1287978",
+                "1289529"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Blush, Bronzed and Ready to Glow! Face Palette",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "32.00",
+                "sale_price": "",
+                "sku_number": "1817279",
+                "sku_type": "Standard",
+                "value_price": "96.00"
+            },
+            "display_name": "Blush, Bronzed and Ready to Glow! Face Palette",
+            "hero_image": "/productimages/sku/s1817279-main-grid.jpg",
+            "id": "P412559",
+            "product_url": "/blush-bronzed-ready-to-glow-face-palette-P412559",
+            "quick_look_desc": "A face palette with two blushes, a bronzer, and a highlighter for a glowing look. ",
+            "rating": 4.15,
+            "sku_ids": [
+                "1817279"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "NARS - Contour Blush",
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1614049",
+                "sku_type": "Standard"
+            },
+            "display_name": "Contour Blush",
+            "hero_image": "/productimages/sku/s1614049-main-grid.jpg",
+            "id": "P386664",
+            "more_colors": 4,
+            "product_url": "/contour-blush-P386664",
+            "quick_look_desc": "A duo of contouring shades to sculpt the face.",
+            "rating": 4.3074,
+            "sku_ids": [
+                "1846955",
+                "1614049",
+                "1846948",
+                "1614023",
+                "1614031"
+            ]
+        },
+        {
+            "brand_name": "Giorgio Armani Beauty",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Giorgio Armani Beauty - Fluid Sheer",
+                "list_price_max": "62.00",
+                "list_price_min": "40.00",
+                "sale_price": "",
+                "sku_number": "1364785",
+                "sku_type": "Standard"
+            },
+            "display_name": "Fluid Sheer",
+            "hero_image": "/productimages/sku/s1364785-main-grid.jpg",
+            "id": "P393402",
+            "more_colors": 15,
+            "product_url": "/fluid-sheer-P393402",
+            "quick_look_desc": "A cult-favorite, multitasking illuminator and complexion perfector.",
+            "rating": 3.6941,
+            "sku_ids": [
+                "1803345",
+                "1803337",
+                "1803360",
+                "1364819",
+                "1803352",
+                "1580414",
+                "1682434",
+                "1580422",
+                "1580406",
+                "1694470",
+                "1364785",
+                "1580430",
+                "1364793",
+                "1364801",
+                "1694447",
+                "1803329"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Terracotta Bronzing Powder",
+                "list_price": "53.00",
+                "sale_price": "",
+                "sku_number": "1795236",
+                "sku_type": "Standard"
+            },
+            "display_name": "Terracotta Bronzing Powder",
+            "hero_image": "/productimages/sku/s1795236-main-grid.jpg",
+            "id": "P284710",
+            "more_colors": 7,
+            "product_url": "/terracotta-bronzing-powder-P284710",
+            "quick_look_desc": "A classic bronzer with a light texture and natural finish.",
+            "rating": 4.507,
+            "sku_ids": [
+                "1795244",
+                "1795236",
+                "1795269",
+                "1795293",
+                "1795285",
+                "1795277",
+                "1795251",
+                "1795301"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - MicroSmooth Baked Sculpting Contour Trio",
+                "is_sephora_exclusive": true,
+                "list_price_max": "21.00",
+                "list_price_min": "11.00",
+                "sku_number": "1483601",
+                "sku_type": "Standard"
+            },
+            "display_name": "MicroSmooth Baked Sculpting Contour Trio",
+            "hero_image": "/productimages/sku/s1483601-main-grid.jpg",
+            "id": "P378685",
+            "more_colors": 5,
+            "product_url": "/microsmooth-baked-sculpting-contour-trio-P378685",
+            "quick_look_desc": "An exclusive, must-have trio featuring a luminizer, matte-satin blush, and bronzer to contour and highlight perfectly . ",
+            "rating": 4.2848,
+            "sku_ids": [
+                "1483619",
+                "1483593",
+                "1644327",
+                "1483627",
+                "1483601",
+                "1644319"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Sun Bunny Natural Bronzer",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1511781",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sun Bunny Natural Bronzer",
+            "hero_image": "/productimages/sku/s1511781-main-grid.jpg",
+            "id": "P48406",
+            "product_url": "/sun-bunny-natural-bronzer-P48406",
+            "quick_look_desc": "A perfectly tan-like bronzer. ",
+            "rating": 4.528,
+            "sku_ids": [
+                "1511781"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Bronzer Powder",
+                "is_online_only": true,
+                "is_sephora_exclusive": true,
+                "list_price": "17.00",
+                "sale_price": "",
+                "sku_number": "1646702",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzer Powder",
+            "hero_image": "/productimages/sku/s1646702-main-grid.jpg",
+            "id": "P284106",
+            "more_colors": 5,
+            "product_url": "/bronzer-P284106",
+            "quick_look_desc": "A bronzing powder that provides an instant ultra-natural tanned and radiant complexion with either a matte or a shimmer finish.",
+            "rating": 4.3743,
+            "sku_ids": [
+                "1295211",
+                "1646751",
+                "1295237",
+                "1316439",
+                "1646744",
+                "1646728",
+                "1646702"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "NARS - Sculpting Multiple Duo",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1846997",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sculpting Multiple Duo",
+            "hero_image": "/productimages/sku/s1846997-main-grid.jpg",
+            "id": "P410531",
+            "more_colors": 2,
+            "product_url": "/sculpting-multiple-duo-P410531",
+            "quick_look_desc": "A portable, dual-ended stick that contours, highlights, and provides luminous color to cheeks, lips, and eyes.",
+            "rating": 3.234,
+            "sku_ids": [
+                "1847003",
+                "1846997",
+                "1846989"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - I \u2764 Cushion Bronzer",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "16.00",
+                "sale_price": "7.00",
+                "sku_number": "1775204",
+                "sku_type": "Standard"
+            },
+            "display_name": "I \u2764 Cushion Bronzer",
+            "hero_image": "/productimages/sku/s1775204-main-grid.jpg",
+            "id": "P407313",
+            "more_colors": 1,
+            "product_url": "/i",
+            "quick_look_desc": "A first-to-market cushion compact bronzer that features an innovative delivery system for a sheer, bronzed look.",
+            "rating": 3.8636,
+            "sku_ids": [
+                "1775204",
+                "1775212"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "tarte - Amazonian Clay Waterproof Bronzer",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "828772",
+                "sku_type": "Standard"
+            },
+            "display_name": "Amazonian Clay Waterproof Bronzer",
+            "hero_image": "/productimages/sku/s828772-main-grid.jpg",
+            "id": "P99809",
+            "product_url": "/mineral-powder-bronzer-P99809",
+            "quick_look_desc": "An ultralight, mineral-based bronzing powder.",
+            "rating": 4.6207,
+            "sku_ids": [
+                "828772"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Pink Leopard Blushing Bronzer",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1511815",
+                "sku_type": "Standard"
+            },
+            "display_name": "Pink Leopard Blushing Bronzer",
+            "hero_image": "/productimages/sku/s1511815-main-grid.jpg",
+            "id": "P379413",
+            "product_url": "/pink-leopard-blushing-bronzer-P379413",
+            "quick_look_desc": "A stay-all-day universal bronzer that delivers a subtle shimmer. \r\n",
+            "rating": 4.2383,
+            "sku_ids": [
+                "1511815"
+            ]
+        },
+        {
+            "brand_name": "Hourglass",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Hourglass - Illume Sheer Color Trio",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "62.00",
+                "sale_price": "",
+                "sku_number": "1822816",
+                "sku_type": "Standard"
+            },
+            "display_name": "Illume Sheer Color Trio",
+            "hero_image": "/productimages/sku/s1822816-main-grid.jpg",
+            "id": "P407707",
+            "product_url": "/illume-sheer-color-trio-P407707",
+            "quick_look_desc": "A makeup artist-coveted trio with a bronzer, blush, and highlighter&#151;now refreshed in lightweight, cream-to-satin formulas for a radiant, natural-looking finish.",
+            "rating": 4.375,
+            "sku_ids": [
+                "1822816"
+            ]
+        },
+        {
+            "brand_name": "KEVYN AUCOIN",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "KEVYN AUCOIN - The Contour Palette 4-in-1 Face Essentials Sculpt.Highlight.Bronze.Blush",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_sephora_exclusive": true,
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1869932",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Contour Palette 4-in-1 Face Essentials Sculpt.Highlight.Bronze.Blush",
+            "hero_image": "/productimages/sku/s1869932-main-grid.jpg",
+            "id": "P414169",
+            "product_url": "/the-contour-palette-4-in-1-face-essentials-sculpt-highlight-bronze-blush-P414169",
+            "quick_look_desc": "A four-shade palette for the face to contour, accentuate, define, and create dimension.",
+            "rating": 3.6667,
+            "sku_ids": [
+                "1869932"
+            ]
+        },
+        {
+            "brand_name": "bareMinerals",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "bareMinerals - bareMinerals READY\u2122 Bronzer",
+                "list_price": "25.00",
+                "sale_price": "",
+                "sku_number": "1396209",
+                "sku_type": "Standard"
+            },
+            "display_name": "bareMinerals READY\u2122 Bronzer",
+            "hero_image": "/productimages/sku/s1396209-main-grid.jpg",
+            "id": "P307009",
+            "more_colors": 1,
+            "product_url": "/bareminerals-ready-bronzer-P307009",
+            "quick_look_desc": "A bronzer with antiaging benefits.",
+            "rating": 4.4381,
+            "sku_ids": [
+                "1396191",
+                "1396209"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Contouring 101 Face Palette",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "20.00",
+                "sale_price": "15.00",
+                "sku_number": "1658376",
+                "sku_type": "Standard"
+            },
+            "display_name": "Contouring 101 Face Palette",
+            "hero_image": "/productimages/sku/s1658376-main-grid.jpg",
+            "id": "P393266",
+            "product_url": "/contouring-101-face-palette-P393266",
+            "quick_look_desc": "An exclusive pressed powder palette for contouring and highlighting.",
+            "rating": 3.4292,
+            "sku_ids": [
+                "1658376"
+            ]
+        },
+        {
+            "brand_name": "TOM FORD",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "TOM FORD - Large Bronzing Powder",
+                "list_price": "98.00",
+                "sale_price": "",
+                "sku_number": "1813500",
+                "sku_type": "Standard"
+            },
+            "display_name": "Large Bronzing Powder",
+            "hero_image": "/productimages/sku/s1813500-main-grid.jpg",
+            "id": "P407341",
+            "more_colors": 2,
+            "product_url": "/large-bronzing-powder-large-P407341",
+            "quick_look_desc": "A large, oil-free bronzing powder in a silky, lightweight texture for perfect, natural-looking radiance.",
+            "rating": 5,
+            "sku_ids": [
+                "1813518",
+                "1813500",
+                "1813526"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Fusion Soft Lights",
+                "list_price": "32.00",
+                "sale_price": "",
+                "sku_number": "1057967",
+                "sku_type": "Standard"
+            },
+            "display_name": "Fusion Soft Lights",
+            "hero_image": "/productimages/sku/s1057967-main-grid.jpg",
+            "id": "P136014",
+            "more_colors": 1,
+            "product_url": "/fusion-soft-lights-P136014",
+            "quick_look_desc": "A disc of five baked, glimmering shades to bring a soft veil of shimmer to the complexion.\r\n",
+            "rating": 4.182,
+            "sku_ids": [
+                "1057967",
+                "1701887"
+            ]
+        },
+        {
+            "brand_name": "bareMinerals",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "bareMinerals - bareMinerals Faux Tan All-Over Face Color",
+                "list_price": "21.00",
+                "sale_price": "",
+                "sku_number": "1164805",
+                "sku_type": "Standard"
+            },
+            "display_name": "bareMinerals Faux Tan All-Over Face Color",
+            "hero_image": "/productimages/sku/s1164805-main-grid.jpg",
+            "id": "P158509",
+            "product_url": "/P158509",
+            "quick_look_desc": "A bronzing All Over Face Color.",
+            "rating": 4.5211,
+            "sku_ids": [
+                "1164805"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - Dallas Box o\u2019 Powder Blush",
+                "list_price": "29.00",
+                "sale_price": "",
+                "sku_number": "892406",
+                "sku_type": "Standard"
+            },
+            "display_name": "Dallas Box o\u2019 Powder Blush",
+            "hero_image": "/productimages/sku/s892406-main-grid.jpg",
+            "id": "P133173",
+            "product_url": "/dallas-box-o-powder-blush-P133173",
+            "quick_look_desc": "Benefit's pressed powder is a sunkissed rose glow for rich, enviable beauty. Sweep Dallas across cheeks, chin, and forehead to lift away signs of dullness and give your complexion a radiant glow.",
+            "rating": 4.6171,
+            "sku_ids": [
+                "892406"
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Pro Bronze Fusion Bronzer",
+                "is_sephora_exclusive": true,
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1688803",
+                "sku_type": "Standard"
+            },
+            "display_name": "Pro Bronze Fusion Bronzer",
+            "hero_image": "/productimages/sku/s1688803-main-grid.jpg",
+            "id": "P396005",
+            "more_colors": 5,
+            "product_url": "/pro-bronze-fusion-bronzer-P396005",
+            "quick_look_desc": "A gel-power bronzer that blends seamlessly for a lightweight, foolproof, luminous glow.",
+            "rating": 3.8783,
+            "sku_ids": [
+                "1688829",
+                "1688779",
+                "1688753",
+                "1688811",
+                "1688761",
+                "1688803"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Beached Bronzer",
+                "is_online_only": true,
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1814326",
+                "sku_type": "Standard"
+            },
+            "display_name": "Beached Bronzer",
+            "hero_image": "/productimages/sku/s1814326-main-grid.jpg",
+            "id": "P407435",
+            "more_colors": 1,
+            "product_url": "/beached-bronzer-P407435",
+            "quick_look_desc": "A super-soft powder bronzer in universally wearable, luminous matte shades.",
+            "rating": 4.4425,
+            "sku_ids": [
+                "1814334",
+                "1814326"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Sweethearts Bronzer",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1806587",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sweethearts Bronzer",
+            "hero_image": "/productimages/sku/s1806587-main-grid.jpg",
+            "id": "P407911",
+            "product_url": "/sweethearts-bronzer-P407911",
+            "quick_look_desc": "A baked bronzer for a luminous glow.",
+            "rating": 4.626,
+            "sku_ids": [
+                "1806587"
+            ]
+        },
+        {
+            "brand_name": "TOM FORD",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "TOM FORD - Bronzing Powder",
+                "list_price": "68.00",
+                "sale_price": "",
+                "sku_number": "1813559",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzing Powder",
+            "hero_image": "/productimages/sku/s1813559-main-grid.jpg",
+            "id": "P407307",
+            "more_colors": 2,
+            "product_url": "/bronzing-powder-P407307",
+            "quick_look_desc": "An oil-free bronzing powder with a silky, lightweight texture for perfect, natural-looking radiance.",
+            "rating": 4.4091,
+            "sku_ids": [
+                "1813534",
+                "1813542",
+                "1813559"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Perfection Mist Airbrush Bronzer Face and Body",
+                "is_sephora_exclusive": true,
+                "list_price": "28.00",
+                "sale_price": "19.00",
+                "sku_number": "1672211",
+                "sku_type": "Standard"
+            },
+            "display_name": "Perfection Mist Airbrush Bronzer Face and Body",
+            "hero_image": "/productimages/sku/s1672211-main-grid.jpg",
+            "id": "P395526",
+            "more_colors": 1,
+            "product_url": "/perfection-mist-airbrush-bronzer-face-body-P395526",
+            "quick_look_desc": "An instant airbrush bronzing spray for face and body.",
+            "rating": 3.62,
+            "sku_ids": [
+                "1672211",
+                "1672229"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "NARS - Laguna Tiare Bronzer",
+                "list_price": "59.00",
+                "sale_price": "",
+                "sku_number": "1805902",
+                "sku_type": "Standard"
+            },
+            "display_name": "Laguna Tiare Bronzer",
+            "hero_image": "/productimages/sku/s1805902-main-grid.jpg",
+            "id": "P407711",
+            "product_url": "/laguna-tiare-bronzer-P407711",
+            "quick_look_desc": "A cult-classic bronzer, ideal for all skintones, that is now scented with the radiant aura of Monoi.",
+            "rating": 4.6308,
+            "sku_ids": [
+                "1805902"
+            ]
+        },
+        {
+            "brand_name": "Marc Jacobs Beauty",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Marc Jacobs Beauty - O!Mega Bronzer Perfect Tan",
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1505106",
+                "sku_type": "Standard"
+            },
+            "display_name": "O!Mega Bronzer Perfect Tan",
+            "hero_image": "/productimages/sku/s1505106-main-grid.jpg",
+            "id": "P379415",
+            "product_url": "/o-mega-bronze-perfect-tan-P379415",
+            "quick_look_desc": "A radiant-matte powder bronzer in an oversized compact for the perfect tan for face and body.",
+            "rating": 4.4497,
+            "sku_ids": [
+                "1505106"
+            ]
+        },
+        {
+            "brand_name": "Laura Mercier",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Laura Mercier - Bronzing Pressed Powder",
+                "list_price": "34.00",
+                "sale_price": "",
+                "sku_number": "1242932",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzing Pressed Powder",
+            "hero_image": "/productimages/sku/s1242932-main-grid.jpg",
+            "id": "P261402",
+            "product_url": "/bronzing-pressed-powder-P261402",
+            "quick_look_desc": "A silky-smooth bronzing powder that glides on evenly, giving the skin a soft luminosity and healthy, sunny glow without looking unnatural or heavy.",
+            "rating": 4.5625,
+            "sku_ids": [
+                "1242932"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Terracotta Light Bronzing Powder",
+                "list_price": "57.00",
+                "sale_price": "",
+                "sku_number": "905497",
+                "sku_type": "Standard"
+            },
+            "display_name": "Terracotta Light Bronzing Powder",
+            "hero_image": "/productimages/sku/s905497-main-grid.jpg",
+            "id": "P136300",
+            "more_colors": 3,
+            "product_url": "/terracotta-light-bronzing-powder-P136300",
+            "quick_look_desc": "A lightweight, iridescent bronzing powder.",
+            "rating": 4.4416,
+            "sku_ids": [
+                "905521",
+                "1401397",
+                "905497",
+                "1401389"
+            ]
+        },
+        {
+            "brand_name": "Est\u00e9e Lauder",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Est\u00e9e Lauder - Bronze Goddess Powder Bronzer",
+                "list_price": "37.00",
+                "sale_price": "",
+                "sku_number": "1503382",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronze Goddess Powder Bronzer",
+            "hero_image": "/productimages/sku/s1503382-main-grid.jpg",
+            "id": "P384112",
+            "more_colors": 2,
+            "product_url": "/bronze-goddess-powder-bronzer-P384112",
+            "quick_look_desc": "A deeply luxurious powder bronzer.",
+            "rating": 4.7042,
+            "sku_ids": [
+                "1599232",
+                "1503382",
+                "1590744"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "tarte - Brazilliance\u2122 PLUS+ Self-Tanner + Mitt",
+                "is_sephora_exclusive": true,
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1795327",
+                "sku_type": "Standard"
+            },
+            "display_name": "Brazilliance\u2122 PLUS+ Self-Tanner + Mitt",
+            "hero_image": "/productimages/sku/s1795327-main-grid.jpg",
+            "id": "P407616",
+            "product_url": "/brazilliance-tm-plus-self-tanner-mitt-P407616",
+            "quick_look_desc": "A skin care-infused version of tarte\u2019s best-selling self-tanner with a custom application mitt.",
+            "rating": 4.2397,
+            "sku_ids": [
+                "1795327"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "NARS - Laguna Liquid Bronzer",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1805910",
+                "sku_type": "Standard"
+            },
+            "display_name": "Laguna Liquid Bronzer",
+            "hero_image": "/productimages/sku/s1805910-main-grid.jpg",
+            "id": "P407629",
+            "product_url": "/laguna-liquid-bronzer-P407629",
+            "quick_look_desc": "A breakthrough fluid formula of the iconic Laguna bronzer.",
+            "rating": 4.4,
+            "sku_ids": [
+                "1805910"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Bronze Lights",
+                "list_price": "34.00",
+                "sale_price": "",
+                "sku_number": "1701879",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronze Lights",
+            "hero_image": "/productimages/sku/s1701879-main-grid.jpg",
+            "id": "P209445",
+            "more_colors": 1,
+            "product_url": "/bronze-lights-P209445",
+            "quick_look_desc": "An eight-hour wear, refined bronzer with coated pigments that make it easier to blend.",
+            "rating": 4.7373,
+            "sku_ids": [
+                "1701861",
+                "1701879"
+            ]
+        },
+        {
+            "brand_name": "CLINIQUE",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "CLINIQUE - True Bronze Pressed Powder Bronzer",
+                "list_price": "27.50",
+                "sale_price": "",
+                "sku_number": "847517",
+                "sku_type": "Standard"
+            },
+            "display_name": "True Bronze Pressed Powder Bronzer",
+            "hero_image": "/productimages/sku/s847517-main-grid.jpg",
+            "id": "P122807",
+            "product_url": "/true-bronze-pressed-powder-bronzer-P122807",
+            "quick_look_desc": "A lightweight powder bronzer that gives skin a sunkissed glow. ",
+            "rating": 4.5694,
+            "sku_ids": [
+                "847517"
+            ]
+        },
+        {
+            "brand_name": "TOM FORD",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "TOM FORD - Soleil Contouring Compact",
+                "list_price": "108.00",
+                "sale_price": "",
+                "sku_number": "1813567",
+                "sku_type": "Standard"
+            },
+            "display_name": "Soleil Contouring Compact",
+            "hero_image": "/productimages/sku/s1813567-main-grid.jpg",
+            "id": "P407339",
+            "product_url": "/soleil-contouring-compact-P407339",
+            "quick_look_desc": "A face palette trio with sensual, blush, highlighter, and bronzer summer shades in sheer-to-medium, cream-like powder formulas.",
+            "rating": 4.1111,
+            "sku_ids": [
+                "1813567"
+            ]
+        },
+        {
+            "brand_name": "Yves Saint Laurent",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Yves Saint Laurent - Les Sahariennes - Healthy Glow Balm-Powder",
+                "list_price": "55.00",
+                "sale_price": "",
+                "sku_number": "1694710",
+                "sku_type": "Standard"
+            },
+            "display_name": "Les Sahariennes - Healthy Glow Balm-Powder",
+            "hero_image": "/productimages/sku/s1694710-main-grid.jpg",
+            "id": "P396335",
+            "more_colors": 5,
+            "product_url": "/healthy-glow-balm-powder-P396335",
+            "quick_look_desc": "A revolutionary balm-to-powder formula that delivers a natural-looking, sunkissed glow.",
+            "rating": 3.9722,
+            "sku_ids": [
+                "1694710",
+                "1694702",
+                "1694686",
+                "1694736",
+                "1694728",
+                "1694694"
+            ]
+        },
+        {
+            "brand_name": "KEVYN AUCOIN",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "KEVYN AUCOIN - The Celestial Bronzing Veil",
+                "list_price": "48.00",
+                "sale_price": "",
+                "sku_number": "1697176",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Celestial Bronzing Veil",
+            "hero_image": "/productimages/sku/s1697176-main-grid.jpg",
+            "id": "P393962",
+            "more_colors": 1,
+            "product_url": "/the-celestial-bronzing-veil-P393962",
+            "quick_look_desc": "A unique, multipurpose powder that can be used to bronze, highlight, and sculpt the face.",
+            "rating": 4.7179,
+            "sku_ids": [
+                "1697168",
+                "1697176"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Terracotta 4 Seasons Contour and Bronzing Powder",
+                "list_price": "76.00",
+                "sale_price": "",
+                "sku_number": "1506195",
+                "sku_type": "Standard"
+            },
+            "display_name": "Terracotta 4 Seasons Contour and Bronzing Powder",
+            "hero_image": "/productimages/sku/s1506195-main-grid.jpg",
+            "id": "P379045",
+            "more_colors": 5,
+            "product_url": "/terracotta-4-seasons-contour-and-bronzing-powder-P379045",
+            "quick_look_desc": "A versatile palette with four buildable, matte shades for bronzing and contouring.",
+            "rating": 4.4054,
+            "sku_ids": [
+                "1717180",
+                "1506161",
+                "1506195",
+                "1515220",
+                "1506187",
+                "1506179"
+            ]
+        },
+        {
+            "brand_name": "Bobbi Brown",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Bobbi Brown - Illuminating Bronzing Powder",
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1291426",
+                "sku_type": "Standard"
+            },
+            "display_name": "Illuminating Bronzing Powder",
+            "hero_image": "/productimages/sku/s1291426-main-grid.jpg",
+            "id": "P270585",
+            "more_colors": 1,
+            "product_url": "/illuminating-bronzing-powder-P270585",
+            "quick_look_desc": "A shimmering bronzer that instantly gives skin a healthy, sunkissed glow. This ultra-soft and smooth pressed powder is formulated with a unique and innovative blend of sheer powder and micropearls. ",
+            "rating": 4.5909,
+            "sku_ids": [
+                "1291418",
+                "1291426"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - MicroSmooth Baked Bronzer Duo",
+                "is_sephora_exclusive": true,
+                "list_price": "19.00",
+                "sale_price": "",
+                "sku_number": "1381664",
+                "sku_type": "Standard"
+            },
+            "display_name": "MicroSmooth Baked Bronzer Duo",
+            "hero_image": "/productimages/sku/s1381664-main-grid.jpg",
+            "id": "P310718",
+            "more_colors": 1,
+            "product_url": "/baked-bronzer-duo-P310718",
+            "quick_look_desc": "A perfectly coordinated duet of bronzing formulas in one compact for a seamless finish.\r\n",
+            "rating": 4.2186,
+            "sku_ids": [
+                "1381664",
+                "1381672"
+            ]
+        },
+        {
+            "brand_name": "KEVYN AUCOIN",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "KEVYN AUCOIN - The Neo Bronzer",
+                "list_price": "58.00",
+                "sale_price": "",
+                "sku_number": "1813237",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Neo Bronzer",
+            "hero_image": "/productimages/sku/s1813237-main-grid.jpg",
+            "id": "P408308",
+            "more_colors": 1,
+            "product_url": "/the-neo-bronzer-P408308",
+            "quick_look_desc": "An innovative, three-in-one face palette that has everything you need to achieve beautiful, sunkissed skin.",
+            "rating": 4.3488,
+            "sku_ids": [
+                "1813237",
+                "1813245"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Snow Bunny Luminous Bronzer",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1511799",
+                "sku_type": "Standard"
+            },
+            "display_name": "Snow Bunny Luminous Bronzer",
+            "hero_image": "/productimages/sku/s1511799-main-grid.jpg",
+            "id": "P110409",
+            "product_url": "/snow-bunny-luminous-bronzer-P110409",
+            "quick_look_desc": "A naturally naughty, perfectly natural bronzer.",
+            "rating": 4.4716,
+            "sku_ids": [
+                "1511799"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "tarte - Colored Clay Bronzer Blush",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1620947",
+                "sku_type": "Standard"
+            },
+            "display_name": "Colored Clay Bronzer Blush",
+            "hero_image": "/productimages/sku/s1620947-main-grid.jpg",
+            "id": "P389556",
+            "more_colors": 1,
+            "product_url": "/colored-clay-bronzer-blush-P389556",
+            "quick_look_desc": "An allover, buildable bronzer blush infused with color-correcting colored clay for a natural-looking glow.",
+            "rating": 3.6604,
+            "sku_ids": [
+                "1687110",
+                "1620947"
+            ]
+        },
+        {
+            "brand_name": "Giorgio Armani Beauty",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Giorgio Armani Beauty - Sun Fabric Sheer Bronzer",
+                "list_price": "56.00",
+                "sale_price": "",
+                "sku_number": "1575794",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sun Fabric Sheer Bronzer",
+            "hero_image": "/productimages/sku/s1575794-main-grid.jpg",
+            "id": "P393432",
+            "more_colors": 3,
+            "product_url": "/sun-fabric-sheer-bronzer-P393432",
+            "quick_look_desc": "A sheer, velvety-soft bronzing powder that leaves a natural-looking finish.",
+            "rating": 4.95,
+            "sku_ids": [
+                "1575810",
+                "1575802",
+                "1575828",
+                "1575794"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Beach Bunny Custom-Blend Bronzer",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1511807",
+                "sku_type": "Standard"
+            },
+            "display_name": "Beach Bunny Custom-Blend Bronzer",
+            "hero_image": "/productimages/sku/s1511807-main-grid.jpg",
+            "id": "P190255",
+            "product_url": "/beach-bunny-custom-blend-bronzer-P190255",
+            "quick_look_desc": "A pressed-powder, multicolored bronzer and luminizer.",
+            "rating": 4.4919,
+            "sku_ids": [
+                "1511807"
+            ]
+        },
+        {
+            "brand_name": "Perricone MD",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Perricone MD - No Bronzer Bronzer SPF 30",
+                "list_price": "35.00",
+                "primary_concern": "Dark spots",
+                "sale_price": "",
+                "sku_number": "1608439",
+                "sku_type": "Standard"
+            },
+            "display_name": "No Bronzer Bronzer SPF 30",
+            "hero_image": "/productimages/sku/s1608439-main-grid.jpg",
+            "id": "P386466",
+            "product_url": "/no-bronzer-bronzer-spf-30-P386466",
+            "quick_look_desc": "An innovative serum designed to contour youthful definition while imparting an elegant veil of warm color and protecting with an SPF 30.",
+            "rating": 4.3576,
+            "sku_ids": [
+                "1608439"
+            ]
+        },
+        {
+            "brand_name": "Laura Mercier",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Laura Mercier - Baked Blush Bronze Compact",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1523638",
+                "sku_type": "Standard"
+            },
+            "display_name": "Baked Blush Bronze Compact",
+            "hero_image": "/productimages/sku/s1523638-main-grid.jpg",
+            "id": "P379030",
+            "product_url": "/baked-blush-bronze-compact-P379030",
+            "quick_look_desc": "A baked powder in five complimentary shades for the face and cheeks.",
+            "rating": 4.6116,
+            "sku_ids": [
+                "1523638"
+            ]
+        },
+        {
+            "brand_name": "stila",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "stila - Stay All Day\u00ae Bronzer For Face and Body",
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1705391",
+                "sku_type": "Standard"
+            },
+            "display_name": "Stay All Day\u00ae Bronzer For Face and Body",
+            "hero_image": "/productimages/sku/s1705391-main-grid.jpg",
+            "id": "P396337",
+            "more_colors": 2,
+            "product_url": "/stay-all-day-bronzer-for-face-body-P396337",
+            "quick_look_desc": "A lightweight, matte-satin bronzing powder for the face and body.",
+            "rating": 4.7073,
+            "sku_ids": [
+                "1705391",
+                "1710730",
+                "1705383"
+            ]
+        },
+        {
+            "brand_name": "BECCA",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "BECCA - Shadow & Light Bronze/ Contour Perfector\u2122",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1590603",
+                "sku_type": "Standard"
+            },
+            "display_name": "Shadow & Light Bronze/ Contour Perfector\u2122",
+            "hero_image": "/productimages/sku/s1590603-main-grid.jpg",
+            "id": "P386404",
+            "product_url": "/shadow-light-bronze-contour-perfector-P386404",
+            "quick_look_desc": "A duo with contrasting, creamy powder shades that create the ultimate always bronzed, never orange, burnished glow.",
+            "rating": 4.2045,
+            "sku_ids": [
+                "1590603"
+            ]
+        },
+        {
+            "brand_name": "CLINIQUE",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "CLINIQUE - Sun-Kissed Face Gelee Complextion Multitasker",
+                "is_online_only": true,
+                "list_price": "26.50",
+                "sale_price": "",
+                "sku_number": "1798073",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sun-Kissed Face Gelee Complextion Multitasker",
+            "hero_image": "/productimages/sku/s1798073-main-grid.jpg",
+            "id": "P407381",
+            "product_url": "/sun-kissed-face-gelee-complextion-multitasker-P407381",
+            "quick_look_desc": "A oil-free gel that revives the look of skin and creates a warm, healthy-looking glow.",
+            "rating": 4.875,
+            "sku_ids": [
+                "1798073"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "tarte - The Sculptor Contouring Face Slenderizer",
+                "list_price": "24.00",
+                "sale_price": "",
+                "sku_number": "1604925",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Sculptor Contouring Face Slenderizer",
+            "hero_image": "/productimages/sku/s1604925-main-grid.jpg",
+            "id": "P385762",
+            "product_url": "/the-sculptor-contouring-face-slenderizer-P385762",
+            "quick_look_desc": "An exclusive contouring and sculpting stick that highlights the face for a slimmer look.",
+            "rating": 3.277,
+            "sku_ids": [
+                "1604925"
+            ]
+        },
+        {
+            "brand_name": "COVER FX",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "COVER FX - Bronzer",
+                "is_sephora_exclusive": true,
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1515725",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzer",
+            "hero_image": "/productimages/sku/s1515725-main-grid.jpg",
+            "id": "P379126",
+            "more_colors": 2,
+            "product_url": "/bronzer-P379126",
+            "quick_look_desc": "A healthy bronzer that improves your skin's appearance over time.",
+            "rating": 4.7377,
+            "sku_ids": [
+                "1515717",
+                "1515725",
+                "1515709"
+            ]
+        },
+        {
+            "brand_name": "bareMinerals",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "bareMinerals - bareSkin\u00ae Sheer Sun\u2122 Serum Bronzer",
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1784958",
+                "sku_type": "Standard"
+            },
+            "display_name": "bareSkin\u00ae Sheer Sun\u2122 Serum Bronzer",
+            "hero_image": "/productimages/sku/s1784958-main-grid.jpg",
+            "id": "P405041",
+            "product_url": "/bareskin-reg-sheer-sun-trade-serum-bronzer-P405041",
+            "quick_look_desc": "A silky, sheer bronzer and serum in one.",
+            "rating": 4.5794,
+            "sku_ids": [
+                "1784958"
+            ]
+        },
+        {
+            "brand_name": "Giorgio Armani Beauty",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Giorgio Armani Beauty - Maestro Liquid Summer SPF 15",
+                "list_price": "64.00",
+                "sale_price": "",
+                "sku_number": "1575786",
+                "sku_type": "Standard"
+            },
+            "display_name": "Maestro Liquid Summer SPF 15",
+            "hero_image": "/productimages/sku/s1575786-main-grid.jpg",
+            "id": "P393603",
+            "more_colors": 2,
+            "product_url": "/maestro-liquid-summer-spf-15-P393603",
+            "quick_look_desc": "A lightweight, warm liquid bronzer with SPF 15.",
+            "rating": 4.5897,
+            "sku_ids": [
+                "1694413",
+                "1694421",
+                "1575786"
+            ]
+        },
+        {
+            "brand_name": "BECCA",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "BECCA - Lowlight Sculpting Perfector\u2122",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1616895",
+                "sku_type": "Standard"
+            },
+            "display_name": "Lowlight Sculpting Perfector\u2122",
+            "hero_image": "/productimages/sku/s1616895-main-grid.jpg",
+            "id": "P387827",
+            "product_url": "/lowlight-sculpting-perfector-P387827",
+            "quick_look_desc": "A natural shadowing cream for sculpted perfection that creates depth and dimension for a naturally-contoured look.",
+            "rating": 3.9032,
+            "sku_ids": [
+                "1616895"
+            ]
+        },
+        {
+            "brand_name": "Yves Saint Laurent",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Yves Saint Laurent - LES SAHARIENNES Bronzing Stones Sun-Kissed Glow Creator",
+                "list_price": "55.00",
+                "sale_price": "",
+                "sku_number": "1811462",
+                "sku_type": "Standard"
+            },
+            "display_name": "LES SAHARIENNES Bronzing Stones Sun-Kissed Glow Creator",
+            "hero_image": "/productimages/sku/s1811462-main-grid.jpg",
+            "id": "P408107",
+            "more_colors": 2,
+            "product_url": "/les-sahariennes-bronzing-stones-P408107",
+            "quick_look_desc": "A silky-matte bronzer that instantly gives skin effortless, natural-looking radiance without the shine. ",
+            "rating": 4.7143,
+            "sku_ids": [
+                "1811611",
+                "1811454",
+                "1811462"
+            ]
+        },
+        {
+            "brand_name": "MILK MAKEUP",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "MILK MAKEUP - Matte Bronzer",
+                "list_price": "24.00",
+                "sale_price": "",
+                "sku_number": "1782077",
+                "sku_type": "Standard"
+            },
+            "display_name": "Matte Bronzer",
+            "hero_image": "/productimages/sku/s1782077-main-grid.jpg",
+            "id": "P404797",
+            "product_url": "/matte-bronzer-P404797",
+            "quick_look_desc": "A matte bronzer stick for the face and body that provides instant hydration and a glowing look.",
+            "rating": 4.2766,
+            "sku_ids": [
+                "1782077"
+            ]
+        },
+        {
+            "brand_name": "Lanc\u00f4me",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Lanc\u00f4me - STAR BRONZER - Magic Bronzing Brush - Automatic Powder Brush for Face and Body",
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "856336",
+                "sku_type": "Standard"
+            },
+            "display_name": "STAR BRONZER - Magic Bronzing Brush - Automatic Powder Brush for Face and Body",
+            "hero_image": "/productimages/sku/s856336-main-grid.jpg",
+            "id": "P54541",
+            "product_url": "/star-bronzer-magic-bronzing-brush-automatic-powder-brush-for-face-body-P54541",
+            "quick_look_desc": "A dual-ended, bronzing powder and silky-soft brush for a natural-looking glow.",
+            "rating": 4.2195,
+            "sku_ids": [
+                "856336"
+            ]
+        },
+        {
+            "brand_name": "rms beauty",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "rms beauty - Buriti Bronzer",
+                "is_online_only": true,
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1833565",
+                "sku_type": "Standard"
+            },
+            "display_name": "Buriti Bronzer",
+            "hero_image": "/productimages/sku/s1833565-main-grid.jpg",
+            "id": "P408971",
+            "product_url": "/buriti-bronzer-P408971",
+            "quick_look_desc": "A cream bronzer with a glowing, sunkissed finish.",
+            "rating": 4.7083,
+            "sku_ids": [
+                "1833565"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - Sun Beam Golden-Bronze Liquid Highlighter",
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1391705",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sun Beam Golden-Bronze Liquid Highlighter",
+            "hero_image": "/productimages/sku/s1391705-main-grid.jpg",
+            "id": "P302633",
+            "product_url": "/sun-beam-P302633",
+            "quick_look_desc": "A golden bronze complexion highlighter.",
+            "rating": 4.293,
+            "sku_ids": [
+                "1391705"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - Dew the Hoola Soft Matte Liquid Bronzer",
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1790419",
+                "sku_type": "Standard"
+            },
+            "display_name": "Dew the Hoola Soft Matte Liquid Bronzer",
+            "hero_image": "/productimages/sku/s1790419-main-grid.jpg",
+            "id": "P404613",
+            "product_url": "/dew-hoola-soft-matte-liquid-bronzer-P404613",
+            "quick_look_desc": "A soft-matte liquid bronzer for the face.",
+            "rating": 2.9719,
+            "sku_ids": [
+                "1790419"
+            ]
+        },
+        {
+            "brand_name": "Givenchy",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Givenchy - Healthy Glow Bronzer",
+                "list_price": "52.00",
+                "sale_price": "",
+                "sku_number": "1817402",
+                "sku_type": "Standard"
+            },
+            "display_name": "Healthy Glow Bronzer",
+            "hero_image": "/productimages/sku/s1817402-main-grid.jpg",
+            "id": "P409230",
+            "more_colors": 4,
+            "product_url": "/healthy-glow-bronzer-P409230",
+            "quick_look_desc": "A weightless bronzer for a healthy-looking glow.",
+            "rating": 3.8,
+            "sku_ids": [
+                "1817402",
+                "1817378",
+                "1817394",
+                "1817386",
+                "1817410"
+            ]
+        },
+        {
+            "brand_name": "BECCA",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "BECCA - Bronzing Skin Perfector\u00ae",
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1462068",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzing Skin Perfector\u00ae",
+            "hero_image": "/productimages/sku/s1462068-main-grid.jpg",
+            "id": "P376796",
+            "product_url": "/bronzing-skin-perfector-P376796",
+            "quick_look_desc": "A universally flattering bronzing primer with a lustrous bronze color that smooths and perfects the skin. ",
+            "rating": 4.4878,
+            "sku_ids": [
+                "1462068"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Terracotta Bronzing Face and Body Mist",
+                "list_price": "64.00",
+                "sale_price": "",
+                "sku_number": "981605",
+                "sku_type": "Standard"
+            },
+            "display_name": "Terracotta Bronzing Face and Body Mist",
+            "hero_image": "/productimages/sku/s981605-main-grid.jpg",
+            "id": "P175200",
+            "more_colors": 1,
+            "product_url": "/terracotta-bronzing-face-and-body-mist-P175200",
+            "quick_look_desc": "With the effect of a makeup bronzer and the ease of a gentle spray, Terracotta Spray is an entirely new way to get a temporary sunny glow. ",
+            "rating": 4.267,
+            "sku_ids": [
+                "981621",
+                "981605"
+            ]
+        },
+        {
+            "brand_name": "Lanc\u00f4me",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Lanc\u00f4me - STAR BRONZER NATURAL GLOW Long Lasting Bronzing Powder",
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1327527",
+                "sku_type": "Standard"
+            },
+            "display_name": "STAR BRONZER NATURAL GLOW Long Lasting Bronzing Powder",
+            "hero_image": "/productimages/sku/s1327527-main-grid.jpg",
+            "id": "P287901",
+            "more_colors": 1,
+            "product_url": "/star-bronzer-natural-glow-long-lasting-bronzing-powder-P287901",
+            "quick_look_desc": "A lightweight, long-lasting bronzing powder. This sheer and silky powder delivers a natural sun-kissed glow for any season.",
+            "rating": 4.1071,
+            "sku_ids": [
+                "1327527",
+                "1327543"
+            ]
+        },
+        {
+            "brand_name": "The Est\u00e9e Edit",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "The Est\u00e9e Edit - The Barest Bronzer",
+                "is_sephora_exclusive": true,
+                "list_price": "32.00",
+                "sale_price": "",
+                "sku_number": "1801463",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Barest Bronzer",
+            "hero_image": "/productimages/sku/s1801463-main-grid.jpg",
+            "id": "P407668",
+            "more_colors": 1,
+            "product_url": "/the-barest-bronzer-P407668",
+            "quick_look_desc": "A bronzer that gives skin the perfect summery, sunkissed look year round.",
+            "rating": 4.3103,
+            "sku_ids": [
+                "1801463",
+                "1801471"
+            ]
+        },
+        {
+            "brand_name": "Wander Beauty",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Wander Beauty - On-The-Glow Bronzer and Illuminator",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1813922",
+                "sku_type": "Standard"
+            },
+            "display_name": "On-The-Glow Bronzer and Illuminator",
+            "hero_image": "/productimages/sku/s1813922-main-grid.jpg",
+            "id": "P408440",
+            "more_colors": 1,
+            "product_url": "/on-the-glow-bronzer-illuminator-P408440",
+            "quick_look_desc": "A dual-ended, multitasking bronzer and illuminator stick that creates a natural-looking tan and glowing look all year round.",
+            "rating": 4.625,
+            "sku_ids": [
+                "1813930",
+                "1813922"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "NARS - Monoi Body Glow I",
+                "list_price": "59.00",
+                "sale_price": "",
+                "sku_number": "1817311",
+                "sku_type": "Standard"
+            },
+            "display_name": "Monoi Body Glow I",
+            "hero_image": "/productimages/sku/s1817311-main-grid.jpg",
+            "id": "P2856",
+            "product_url": "/body-glow-P2856",
+            "quick_look_desc": "Monoi de Tahiti oil conjures the luxury and tradition of French Polynesia in Nars Body Glow. ",
+            "rating": 3.8993,
+            "sku_ids": [
+                "1817311"
+            ]
+        },
+        {
+            "brand_name": "Ciat\u00e9 London",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Ciat\u00e9 London - BAMBOO BRONZER Longwear Bronzing Powder",
+                "is_sephora_exclusive": true,
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1687078",
+                "sku_type": "Standard"
+            },
+            "display_name": "BAMBOO BRONZER Longwear Bronzing Powder",
+            "hero_image": "/productimages/sku/s1687078-main-grid.jpg",
+            "id": "P396721",
+            "more_colors": 1,
+            "product_url": "/bamboo-bronzer-longwear-bronzing-powder-P396721",
+            "quick_look_desc": "A lightweight matte finish powder bronzer with oil-controlling ingredients for a shine-free, warm, radiant glow.",
+            "rating": 4.5385,
+            "sku_ids": [
+                "1687078",
+                "1687060"
+            ]
+        },
+        {
+            "brand_name": "Dior",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Dior - Diorskin Nude Air Tan Powder",
+                "list_price": "56.00",
+                "sale_price": "",
+                "sku_number": "1665397",
+                "sku_type": "Standard"
+            },
+            "display_name": "Diorskin Nude Air Tan Powder",
+            "hero_image": "/productimages/sku/s1665397-main-grid.jpg",
+            "id": "P393999",
+            "more_colors": 2,
+            "product_url": "/diorskin-nude-air-tan-powder-P393999",
+            "quick_look_desc": "A lightweight, pressed powder compact for a natural-looking, sun-kissed effect.",
+            "rating": 4.25,
+            "sku_ids": [
+                "1665397",
+                "1665371",
+                "1665363"
+            ]
+        },
+        {
+            "brand_name": "Est\u00e9e Lauder",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Est\u00e9e Lauder - Bronze Goddess Summer Glow Multi-Palette",
+                "is_limited_edition": true,
+                "list_price": "50.00",
+                "sale_price": "",
+                "sku_number": "1814219",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronze Goddess Summer Glow Multi-Palette",
+            "hero_image": "/productimages/sku/s1814219-main-grid.jpg",
+            "id": "P407164",
+            "product_url": "/bronze-goddess-summer-glow-multi-palette-P407164",
+            "quick_look_desc": "A palette of seductive shades for face, cheeks, and eyes.",
+            "rating": 3.5882,
+            "sku_ids": [
+                "1814219"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Bronzing Powder Kit",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "53.00",
+                "sale_price": "",
+                "sku_number": "1854223",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzing Powder Kit",
+            "hero_image": "/productimages/sku/s1854223-main-grid.jpg",
+            "id": "P410533",
+            "product_url": "/bronzing-powder-kit-P410533",
+            "quick_look_desc": "A limited-edition duo with an amber-toned bronzing powder and a mini bronzing brush.",
+            "rating": 0,
+            "sku_ids": [
+                "1854223"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Terracotta Healthy Glow Blush Bronzer Powder Duo",
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1689876",
+                "sku_type": "Standard"
+            },
+            "display_name": "Terracotta Healthy Glow Blush Bronzer Powder Duo",
+            "hero_image": "/productimages/sku/s1689876-main-grid.jpg",
+            "id": "P394336",
+            "more_colors": 3,
+            "product_url": "/terracotta-healthy-glow-blush-bronzer-powder-duo-P394336",
+            "quick_look_desc": "A harmony of two shades that give the complexion a natural-looking, healthy glow.  ",
+            "rating": 3.8824,
+            "sku_ids": [
+                "1689850",
+                "1689876",
+                "1689843",
+                "1689868"
+            ]
+        },
+        {
+            "brand_name": "SWEAT COSMETICS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SWEAT COSMETICS - Mineral Bronzer SPF 25",
+                "is_online_only": true,
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1842129",
+                "sku_type": "Standard"
+            },
+            "display_name": "Mineral Bronzer SPF 25",
+            "hero_image": "/productimages/sku/s1842129-main-grid.jpg",
+            "id": "P411046",
+            "product_url": "/sweat-mineral-bronzer-spf-25-P411046",
+            "quick_look_desc": "A natural water- and sweat-resistant mineral bronzer with SPF 25 protection and all-natural, skin-friendly ingredients.",
+            "rating": 4,
+            "sku_ids": [
+                "1842129"
+            ]
+        },
+        {
+            "brand_name": "Shiseido",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Shiseido - Face Color Enhancing Trio",
+                "is_online_only": true,
+                "list_price": "37.00",
+                "sale_price": "",
+                "sku_number": "1671544",
+                "sku_type": "Standard"
+            },
+            "display_name": "Face Color Enhancing Trio",
+            "hero_image": "/productimages/sku/s1671544-main-grid.jpg",
+            "id": "P391920",
+            "more_colors": 2,
+            "product_url": "/face-color-enhancing-trio-P391920",
+            "quick_look_desc": "A multicolored face trio to blush, contour, and highlight in one stroke.",
+            "rating": 4.125,
+            "sku_ids": [
+                "1671528",
+                "1671544",
+                "1671551"
+            ]
+        },
+        {
+            "brand_name": "Peter Thomas Roth",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Peter Thomas Roth - Radiant Instant Mineral Brush-On Bronzer Sunscreen SPF 30",
+                "list_price": "35.00",
+                "sale_price": "",
+                "sku_number": "1699297",
+                "sku_type": "Standard"
+            },
+            "display_name": "Radiant Instant Mineral Brush-On Bronzer Sunscreen SPF 30",
+            "hero_image": "/productimages/sku/s1699297-main-grid.jpg",
+            "id": "P396531",
+            "product_url": "/radiant-instant-mineral-brush-on-bronzer-sunscreen-spf-30-P396531",
+            "quick_look_desc": "An instant mineral bronzing powder that offers SPF 30 sun protection.",
+            "rating": 3.6296,
+            "sku_ids": [
+                "1699297"
+            ]
+        },
+        {
+            "brand_name": "Shiseido",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Shiseido - Bronzer Oil-Free",
+                "is_online_only": true,
+                "list_price": "35.00",
+                "sale_price": "",
+                "sku_number": "1316538",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronzer Oil-Free",
+            "hero_image": "/productimages/sku/s1316538-main-grid.jpg",
+            "id": "P280948",
+            "more_colors": 2,
+            "product_url": "/bronzer-oil-free-P280948",
+            "quick_look_desc": "An oil-free bronzing powder.",
+            "rating": 4.5652,
+            "sku_ids": [
+                "1316546",
+                "1316538",
+                "1316553"
+            ]
+        },
+        {
+            "brand_name": "KEVYN AUCOIN",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "KEVYN AUCOIN - The Matte Bronzing Veil",
+                "is_online_only": true,
+                "list_price": "48.00",
+                "sale_price": "",
+                "sku_number": "1821941",
+                "sku_type": "Standard"
+            },
+            "display_name": "The Matte Bronzing Veil",
+            "hero_image": "/productimages/sku/s1821941-main-grid.jpg",
+            "id": "P407921",
+            "more_colors": 1,
+            "product_url": "/the-matte-bronzing-veil-P407921",
+            "quick_look_desc": "A unique, multipurpose matte bronzing powder that can be used to bronze and sculpt the face.",
+            "rating": 4,
+            "sku_ids": [
+                "1821958",
+                "1821941"
+            ]
+        },
+        {
+            "brand_name": "stila",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "stila - Aqua Glow Perfecting Bronzer",
+                "is_online_only": true,
+                "list_price": "32.00",
+                "sale_price": "",
+                "sku_number": "1716497",
+                "sku_type": "Standard"
+            },
+            "display_name": "Aqua Glow Perfecting Bronzer",
+            "hero_image": "/productimages/sku/s1716497-main-grid.jpg",
+            "id": "P396906",
+            "product_url": "/aqua-glow-perfecting-bronzer-P396906",
+            "quick_look_desc": "A lightweight, water-based gel bronzer that provides a sheer veil of bronzed color and matches perfectly to your skintone.",
+            "rating": 3.6667,
+            "sku_ids": [
+                "1716497"
+            ]
+        },
+        {
+            "brand_name": "Tata Harper",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Tata Harper - Very Bronzing Cheek Tint",
+                "is_online_only": true,
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1771690",
+                "sku_type": "Standard"
+            },
+            "display_name": "Very Bronzing Cheek Tint",
+            "hero_image": "/productimages/sku/s1771690-main-grid.jpg",
+            "id": "P403320",
+            "product_url": "/very-bronzing-cheek-tint-P403320",
+            "quick_look_desc": "A universally flattering medium brown bronzer that delivers contouring and slenderizing effects with pure natural pigments.",
+            "rating": 3,
+            "sku_ids": [
+                "1771690"
+            ]
+        },
+        {
+            "brand_name": "Guerlain",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Guerlain - Terracotta Summer Limited Edition Bronzing Powder",
+                "is_limited_edition": true,
+                "list_price": "53.00",
+                "sale_price": "",
+                "sku_number": "1795319",
+                "sku_type": "Standard"
+            },
+            "display_name": "Terracotta Summer Limited Edition Bronzing Powder",
+            "hero_image": "/productimages/sku/s1795319-main-grid.jpg",
+            "id": "P395329",
+            "product_url": "/terracotta-summer-limited-edition-bronzing-powder-P395329",
+            "quick_look_desc": "A limited-edition bronzer with a light texture and natural-looking finish.",
+            "rating": 4.8571,
+            "sku_ids": [
+                "1795319"
+            ]
+        },
+        {
+            "brand_name": "SWEAT COSMETICS",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SWEAT COSMETICS - Refill: Sweat Mineral Bronzer SPF 25",
+                "is_online_only": true,
+                "list_price": "24.00",
+                "sale_price": "",
+                "sku_number": "1842137",
+                "sku_type": "Standard"
+            },
+            "display_name": "Refill: Sweat Mineral Bronzer SPF 25",
+            "hero_image": "/productimages/sku/s1842137-main-grid.jpg",
+            "id": "P411568",
+            "product_url": "/refill-sweat-mineral-bronzer-spf-25-P411568",
+            "quick_look_desc": "A water- and sweat-resistant mineral bronzer with SPF 25 and skin-friendly ingredients.",
+            "rating": 5,
+            "sku_ids": [
+                "1842137"
+            ]
+        },
+        {
+            "brand_name": "BURBERRY",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "BURBERRY - Warm Glow - Natural Bronzer",
+                "list_price": "52.00",
+                "sale_price": "",
+                "sku_number": "1742006",
+                "sku_type": "Standard"
+            },
+            "display_name": "Warm Glow - Natural Bronzer",
+            "hero_image": "/productimages/sku/s1742006-main-grid.jpg",
+            "id": "P398998",
+            "more_colors": 1,
+            "product_url": "/warm-glow-natural-bronzer-P398998",
+            "quick_look_desc": "A lightweight powder bronzer that creates a natural, sun-touched glow.",
+            "rating": 3.8,
+            "sku_ids": [
+                "1742006",
+                "1741982"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Sun Disk Bronzer",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "24.00",
+                "sale_price": "15.00",
+                "sku_number": "1646686",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sun Disk Bronzer",
+            "hero_image": "/productimages/sku/s1646686-main-grid.jpg",
+            "id": "P395557",
+            "product_url": "/sun-disk-limited-edition-P395557",
+            "quick_look_desc": "A limited-edition bronzing powder that offers the perfect combination of three complementary shades in a limited-edition zebra design.",
+            "rating": 4.2821,
+            "sku_ids": [
+                "1646686"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Naked Skin Bronzing Beauty Balm Broad Spectrum SPF 20",
+                "list_price": "34.00",
+                "primary_concern": "Fine lines/Wrinkles",
+                "sale_price": "",
+                "sku_number": "1614544",
+                "sku_type": "Standard"
+            },
+            "display_name": "Naked Skin Bronzing Beauty Balm Broad Spectrum SPF 20",
+            "hero_image": "/productimages/sku/s1614544-main-grid.jpg",
+            "id": "P386137",
+            "product_url": "/naked-skin-bronzing-beauty-balm-broad-spectrum-spf-20-P386137",
+            "quick_look_desc": "A five-in-one, luminous bronzing beauty balm that instantly enriches skintone, minimizes flaws, and supports firmer skin in just eight weeks.",
+            "rating": 3.9688,
+            "sku_ids": [
+                "1614544"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "bronzer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - All A Glow Contouring Face Palette",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "is_sephora_exclusive": true,
+                "list_price": "34.00",
+                "sale_price": "25.00",
+                "sku_number": "1603810",
+                "sku_type": "Standard",
+                "value_price": "90.00"
+            },
+            "display_name": "All A Glow Contouring Face Palette",
+            "hero_image": "/productimages/sku/s1603810-main-grid.jpg",
+            "id": "P389825",
+            "product_url": "/all-glow-contouring-face-palette-P389825",
+            "quick_look_desc": "A wallet-size all-in-one complexion palette for the face.",
+            "rating": 3.8438,
+            "sku_ids": [
+                "1603810"
+            ]
+        }
+    ],
+    "total_products": 103
+}

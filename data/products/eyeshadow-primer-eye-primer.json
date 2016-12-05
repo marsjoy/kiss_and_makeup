@@ -1,0 +1,1101 @@
+{
+    "categories": {
+        "id": "cat140006",
+        "name": "Makeup",
+        "seo_path": "/makeup-cosmetics",
+        "sub_categories": {
+            "id": "cat130054",
+            "name": "Eye",
+            "seo_path": "/eye-makeup",
+            "sub_categories": [
+                {
+                    "id": "cat60045",
+                    "name": "Eye Palettes",
+                    "seo_path": "/eyeshadow-palettes"
+                },
+                {
+                    "id": "cat60026",
+                    "name": "Mascara",
+                    "seo_path": "/mascara"
+                },
+                {
+                    "id": "cat60028",
+                    "name": "Eyeliner",
+                    "seo_path": "/eyeliner"
+                },
+                {
+                    "id": "cat60037",
+                    "name": "Eyebrow",
+                    "seo_path": "/eyebrow-makeup-pencils"
+                },
+                {
+                    "id": "cat60030",
+                    "name": "Eyeshadow",
+                    "seo_path": "/eyeshadow"
+                },
+                {
+                    "bottom_content": "<div class=\"c-HTML \" > <p><span style=\"font-size: 11px; color: #666666\">Looking for eyeshadow primer? We\u2019re here to help. Our eye primers offer the perfect base for long wear, skin benefits, or special effects.</span></p></div> ",
+                    "id": "cat60033",
+                    "is_selected": true,
+                    "name": "Eye Primer",
+                    "seo_path": "/eyeshadow-primer-eye-primer"
+                },
+                {
+                    "id": "cat60035",
+                    "name": "Under-Eye Concealer",
+                    "seo_path": "/under-eye-concealer"
+                },
+                {
+                    "id": "cat60041",
+                    "name": "False Eyelashes",
+                    "seo_path": "/fake-eyelashes-false-eyelashes"
+                },
+                {
+                    "id": "cat1650035",
+                    "name": "Eye Sets",
+                    "seo_path": "/eye-sets"
+                }
+            ]
+        }
+    },
+    "page_size": 100,
+    "products": [
+        {
+            "brand_name": "Urban Decay",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Eyeshadow Primer Potion - Original",
+                "list_price_max": "20.00",
+                "list_price_min": "12.00",
+                "sale_price": "",
+                "sku_number": "1704402",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Primer Potion - Original",
+            "hero_image": "/productimages/sku/s1704402-main-grid.jpg",
+            "id": "P284716",
+            "more_sizes": 1,
+            "product_url": "/eyeshadow-primer-potion-tube-original-P284716",
+            "quick_look_desc": "A 24-hour wear, nude eye shadow primer that ensures vibrant, crease-free wear.",
+            "rating": 4.6267,
+            "sku_ids": [
+                "1704444",
+                "1704402"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Makeup Lockdown Travel Duo",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "is_sephora_exclusive": true,
+                "list_price": "19.00",
+                "sale_price": "",
+                "sku_number": "1871235",
+                "sku_type": "Standard",
+                "value_price": "27.00"
+            },
+            "display_name": "Makeup Lockdown Travel Duo",
+            "hero_image": "/productimages/sku/s1871235-main-grid.jpg",
+            "id": "P33154769",
+            "is_hide_social": true,
+            "product_url": "/makeup-lockdown-travel-duo-P33154769",
+            "quick_look_desc": " A travel-size duo featuring Urban Decay\u2019s Eyeshadow Primer Potion and All Nighter Makeup Setting Spray.",
+            "rating": 5,
+            "sku_ids": [
+                "1871235"
+            ]
+        },
+        {
+            "brand_name": "Dior",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Dior - Diorshow Maximizer 3D Triple volume plumping lash primer",
+                "list_price": "29.50",
+                "sale_price": "",
+                "sku_number": "1812387",
+                "sku_type": "Standard"
+            },
+            "display_name": "Diorshow Maximizer 3D Triple volume plumping lash primer",
+            "hero_image": "/productimages/sku/s1812387-main-grid.jpg",
+            "id": "P408966",
+            "product_url": "/diorshow-maximizer-3d-triple-volume-plumping-lash-primer-P408966",
+            "quick_look_desc": "A lash primer with an air-pumped texture that coats each lash with a dense, lightweight layer to intensify the effects of the mascara.",
+            "rating": 4.4856,
+            "sku_ids": [
+                "1812387"
+            ]
+        },
+        {
+            "brand_name": "Lanc\u00f4me",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Lanc\u00f4me - CILS BOOSTER XL Super-Enhancing Mascara Base",
+                "list_price": "25.50",
+                "sale_price": "",
+                "sku_number": "852939",
+                "sku_type": "Standard"
+            },
+            "display_name": "CILS BOOSTER XL Super-Enhancing Mascara Base",
+            "hero_image": "/productimages/sku/s852939-main-grid.jpg",
+            "id": "P128706",
+            "product_url": "/cils-booster-xl-super-enhancing-mascara-base-P128706",
+            "quick_look_desc": "A lash-conditioning, mascara primer in the same great formula and new packaging that conditions and primes lashes to maximize results&#151;creating even longer and more volumized lashes.",
+            "rating": 4.5161,
+            "sku_ids": [
+                "852939"
+            ]
+        },
+        {
+            "brand_name": "NARS",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "NARS - Pro-Prime\u2122 Smudge Proof Eyeshadow Base",
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1236843",
+                "sku_type": "Standard"
+            },
+            "display_name": "Pro-Prime\u2122 Smudge Proof Eyeshadow Base",
+            "hero_image": "/productimages/sku/s1236843-main-grid.jpg",
+            "id": "P261211",
+            "product_url": "/pro-prime-smudge-proof-eyeshadow-base-P261211",
+            "quick_look_desc": "A lightweight primer that creates a seamless canvas that keeps cream and powder eye color looking brilliant, fresh, and just-applied all day.",
+            "rating": 4.6859,
+            "sku_ids": [
+                "1236843"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Eyeshadow Primer Potion - Anti-Aging",
+                "list_price_max": "24.00",
+                "list_price_min": "10.00",
+                "sku_number": "1704410",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Primer Potion - Anti-Aging",
+            "hero_image": "/productimages/sku/s1704410-main-grid.jpg",
+            "id": "P381306",
+            "more_sizes": 2,
+            "product_url": "/eyeshadow-primer-potion-anti-aging-P381306",
+            "quick_look_desc": "A 24-hour wear, creamy eye shadow primer that supports antiaging and ensures that eye shades stay vibrant and crease-free.\r\n",
+            "rating": 4.0677,
+            "sku_ids": [
+                "1704451",
+                "1531839",
+                "1704410"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Shadow Insurance",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1777671",
+                "sku_type": "Standard"
+            },
+            "display_name": "Shadow Insurance",
+            "hero_image": "/productimages/sku/s1777671-main-grid.jpg",
+            "id": "P202625",
+            "product_url": "/shadow-insurance-P202625",
+            "quick_look_desc": " A crease-free, lasting eye shadow primer that lasts all day.",
+            "rating": 4.6162,
+            "sku_ids": [
+                "1777671"
+            ]
+        },
+        {
+            "brand_name": "bareMinerals",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "bareMinerals - bareMinerals Broad Spectrum Multi-Tasking Face",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1073063",
+                "sku_type": "Standard"
+            },
+            "display_name": "bareMinerals Broad Spectrum Multi-Tasking Face",
+            "hero_image": "/productimages/sku/s1073063-main-grid.jpg",
+            "id": "P61006",
+            "more_colors": 4,
+            "product_url": "/bareminerals-broad-spectrum-multi-tasking-face-P61006",
+            "quick_look_desc": "A versatile, mineral-based powder that can be used as a concealer and an eye shadow base.",
+            "rating": 4.5077,
+            "sku_ids": [
+                "879247",
+                "1073063",
+                "1073022",
+                "1073030",
+                "1221621"
+            ]
+        },
+        {
+            "brand_name": "Laura Mercier",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Laura Mercier - Eye Basics",
+                "list_price": "27.00",
+                "sale_price": "",
+                "sku_number": "1098805",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye Basics",
+            "hero_image": "/productimages/sku/s1098805-main-grid.jpg",
+            "id": "P109927",
+            "more_colors": 5,
+            "product_url": "/eye-basics-P109927",
+            "quick_look_desc": "A water-resistant eyelid primer that camouflages imperfections and discolorations, while it enhances the durability of eye makeup. ",
+            "rating": 4.4421,
+            "sku_ids": [
+                "1098854",
+                "1098839",
+                "1098805",
+                "1098847",
+                "1098821",
+                "1098862"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Eyeshadow Primer Potion - Minor Sin",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1704428",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Primer Potion - Minor Sin",
+            "hero_image": "/productimages/sku/s1704428-main-grid.jpg",
+            "id": "P284717",
+            "product_url": "/eyeshadow-primer-potion-tube-sin-P284717",
+            "quick_look_desc": "A creamy eye shadow primer in a champagne shimmer shade that gives you vibrant, crease-free wear for 24 hours.",
+            "rating": 4.5009,
+            "sku_ids": [
+                "1704428"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - Stay Don\u2019t Stray 360 Degree Stay Put Eyeshadow Primer",
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1229384",
+                "sku_type": "Standard"
+            },
+            "display_name": "Stay Don\u2019t Stray 360 Degree Stay Put Eyeshadow Primer",
+            "hero_image": "/productimages/sku/s1229384-main-grid.jpg",
+            "id": "P253113",
+            "product_url": "/stay-don-t-stray-360-degree-stay-put-eyeshadow-primer-P253113",
+            "quick_look_desc": "A primer for concealers and eye shadows. ",
+            "rating": 3.7802,
+            "sku_ids": [
+                "1229384"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Subversion Lash Primer",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1635788",
+                "sku_type": "Standard"
+            },
+            "display_name": "Subversion Lash Primer",
+            "hero_image": "/productimages/sku/s1635788-main-grid.jpg",
+            "id": "P387594",
+            "product_url": "/subversion-lash-primer-P387594",
+            "quick_look_desc": "A whipped, creamy lash primer that conditions and preps for the perfect mascara application.",
+            "rating": 4.2216,
+            "sku_ids": [
+                "1635788"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - They\u2019re Real! Tinted Lash Primer",
+                "list_price_max": "24.00",
+                "list_price_min": "12.00",
+                "sale_price": "",
+                "sku_number": "1777242",
+                "sku_type": "Standard"
+            },
+            "display_name": "They\u2019re Real! Tinted Lash Primer",
+            "hero_image": "/productimages/sku/s1777242-main-grid.jpg",
+            "id": "P403707",
+            "more_sizes": 1,
+            "product_url": "/they-re-real-tinted-lash-primer-P403707",
+            "quick_look_desc": "A mink-brown lash primer that tints, defines, and primes lashes for a natural, feathery look&#151;plus, it can be paired with your favorite mascara for boosted length and separation.",
+            "rating": 4.3029,
+            "sku_ids": [
+                "1777242",
+                "1862127"
+            ]
+        },
+        {
+            "brand_name": "Urban Decay",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Urban Decay - Eyeshadow Primer Potion - Eden",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1704436",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Primer Potion - Eden",
+            "hero_image": "/productimages/sku/s1704436-main-grid.jpg",
+            "id": "P284718",
+            "product_url": "/eyeshadow-primer-potion-tube-eden-P284718",
+            "quick_look_desc": "A creamy, nude matte primer that gives you vibrant, crease-free eye shadow for 24 hours.",
+            "rating": 4.3372,
+            "sku_ids": [
+                "1704436"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - 24 Hour Photo Finish Shadow Primer",
+                "list_price": "21.00",
+                "sale_price": "",
+                "sku_number": "1575000",
+                "sku_type": "Standard"
+            },
+            "display_name": "24 Hour Photo Finish Shadow Primer",
+            "hero_image": "/productimages/sku/s1575000-main-grid.jpg",
+            "id": "P385398",
+            "product_url": "/24-hour-photo-finish-shadow-primer-P385398",
+            "quick_look_desc": "A shadow primer that locks on more vibrant color for a full 24 hours. ",
+            "rating": 4.5391,
+            "sku_ids": [
+                "1575000"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Photo Finish Hydrating Under Eye Primer",
+                "list_price": "29.00",
+                "sale_price": "",
+                "sku_number": "1434638",
+                "sku_type": "Standard"
+            },
+            "display_name": "Photo Finish Hydrating Under Eye Primer",
+            "hero_image": "/productimages/sku/s1434638-main-grid.jpg",
+            "id": "P375100",
+            "product_url": "/photo-finish-hydrating-under-eye-primer-P375100",
+            "quick_look_desc": "An innovative primer dedicated to the delicate skin under eyes.",
+            "rating": 3.9346,
+            "sku_ids": [
+                "1434638"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "tarte - Opening Act Lash Primer",
+                "list_price": "22.00",
+                "sale_price": "",
+                "sku_number": "1707835",
+                "sku_type": "Standard"
+            },
+            "display_name": "Opening Act Lash Primer",
+            "hero_image": "/productimages/sku/s1707835-main-grid.jpg",
+            "id": "P397383",
+            "product_url": "/opening-act-lash-primer-P397383",
+            "quick_look_desc": "A travel-size mascara and a lash primer for dramatic volume and soft, silky lashes in one simple prep and a portable mascara.",
+            "rating": 4.4277,
+            "sku_ids": [
+                "1707835"
+            ]
+        },
+        {
+            "brand_name": "CLINIQUE",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "CLINIQUE - Lash Building Primer",
+                "list_price": "16.50",
+                "sale_price": "",
+                "sku_number": "741967",
+                "sku_type": "Standard"
+            },
+            "display_name": "Lash Building Primer",
+            "hero_image": "/productimages/sku/s741967-main-grid.jpg",
+            "id": "P122866",
+            "product_url": "/lash-building-primer-P122866",
+            "quick_look_desc": "A conditioning lash primer that boosts the benefits of Clinique mascaras. ",
+            "rating": 4.2989,
+            "sku_ids": [
+                "741967"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Shadow Insurance Glitter Glue Glitter Bonding Eye Shadow Primer",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1777689",
+                "sku_type": "Standard"
+            },
+            "display_name": "Shadow Insurance Glitter Glue Glitter Bonding Eye Shadow Primer",
+            "hero_image": "/productimages/sku/s1777689-main-grid.jpg",
+            "id": "P277300",
+            "product_url": "/shadow-insurance-glitter-glue-glitter-bonding-eye-shadow-primer-P277300",
+            "quick_look_desc": "A glue specifically formulated to lock down eye glitter and enhance its reflective quality.",
+            "rating": 4.7533,
+            "sku_ids": [
+                "1777689"
+            ]
+        },
+        {
+            "brand_name": "Too Faced",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Too Faced - Better Than False Lashes Extreme!",
+                "list_price": "35.00",
+                "sale_price": "",
+                "sku_number": "1664853",
+                "sku_type": "Standard"
+            },
+            "display_name": "Better Than False Lashes Extreme!",
+            "hero_image": "/productimages/sku/s1664853-main-grid.jpg",
+            "id": "P392018",
+            "product_url": "/better-than-false-lashes-extreme-33-P392018",
+            "quick_look_desc": "An instant lash extension kit featuring an improved formula with a mascara and lash fibers longer and thicker lashes.",
+            "rating": 3.3365,
+            "sku_ids": [
+                "1664853"
+            ]
+        },
+        {
+            "brand_name": "bareMinerals",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "bareMinerals - Prime Time Eyelid Primer",
+                "list_price": "19.00",
+                "sale_price": "",
+                "sku_number": "1310572",
+                "sku_type": "Standard"
+            },
+            "display_name": "Prime Time Eyelid Primer",
+            "hero_image": "/productimages/sku/s1310572-main-grid.jpg",
+            "id": "P279111",
+            "product_url": "/prime-time-eyelid-primer-repackaged-P279111",
+            "quick_look_desc": "A brightening primer for the eyelids that provides a smooth base to maximize the intensity and staying power of eye shadows.",
+            "rating": 4.5222,
+            "sku_ids": [
+                "1310572"
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Aqua Seal",
+                "is_sephora_exclusive": true,
+                "list_price": "21.00",
+                "sale_price": "",
+                "sku_number": "969352",
+                "sku_type": "Standard"
+            },
+            "display_name": "Aqua Seal",
+            "hero_image": "/productimages/sku/s969352-main-grid.jpg",
+            "id": "P169812",
+            "product_url": "/eye-seal-P169812",
+            "quick_look_desc": "A liquid converter that transforms powder formulas and pencils into smudge-proof, long lasting makeup.\r\n\r\n",
+            "rating": 4.1543,
+            "sku_ids": [
+                "969352"
+            ]
+        },
+        {
+            "brand_name": "Anastasia Beverly Hills",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Anastasia Beverly Hills - Pro Pencil",
+                "list_price": "18.00",
+                "sale_price": "",
+                "sku_number": "1622075",
+                "sku_type": "Standard"
+            },
+            "display_name": "Pro Pencil",
+            "hero_image": "/productimages/sku/s1622075-main-grid.jpg",
+            "id": "P386783",
+            "more_colors": 2,
+            "product_url": "/pro-pencil-P386783",
+            "quick_look_desc": "A multitasking pencil that works as a brow and facial highlighter, a concealer, or an ideal priming base for eye shadow.",
+            "rating": 4.1237,
+            "sku_ids": [
+                "1622075",
+                "1703800",
+                "1622067"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - Lemon-Aid Color-Correcting Eyelid Primer",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1074053",
+                "sku_type": "Standard"
+            },
+            "display_name": "Lemon-Aid Color-Correcting Eyelid Primer",
+            "hero_image": "/productimages/sku/s1074053-main-grid.jpg",
+            "id": "P1283",
+            "product_url": "/lemon-aid-P1283",
+            "quick_look_desc": "Benefit Lemon Aid is a miracle-working, soft-yellow, color-correcting eyelid cream that instantly hides redness and discoloration. In a snap, eyes look refreshed, frisky, and ready for fun.",
+            "rating": 4.1958,
+            "sku_ids": [
+                "1074053"
+            ]
+        },
+        {
+            "brand_name": "bareMinerals",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "bareMinerals - Well-Rested\u00ae CC Eye Primer",
+                "list_price": "20.00",
+                "primary_concern": "Puffiness",
+                "sale_price": "",
+                "sku_number": "1642008",
+                "sku_type": "Standard"
+            },
+            "display_name": "Well-Rested\u00ae CC Eye Primer",
+            "hero_image": "/productimages/sku/s1642008-main-grid.jpg",
+            "id": "P390973",
+            "product_url": "/well-rested-r-cc-eye-primer-P390973",
+            "quick_look_desc": "<b>What it is:</b><br>An eye primer with a revitalizing aloe, caffeine, and a mineral blend that instantly cools and recharges the skin around the eye.",
+            "rating": 4.0952,
+            "sku_ids": [
+                "1642008"
+            ]
+        },
+        {
+            "brand_name": "tarte",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "tarte - Clean Slate 360\u00b0 Creaseless 12-Hr Smoothing Eye Primer",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1404573",
+                "sku_type": "Standard"
+            },
+            "display_name": "Clean Slate 360\u00b0 Creaseless 12-Hr Smoothing Eye Primer",
+            "hero_image": "/productimages/sku/s1404573-main-grid.jpg",
+            "id": "P310020",
+            "product_url": "/clean-slate-360-creaseless-12-hr-smoothing-eye-primer-P310020",
+            "quick_look_desc": "A waterproof 12-hour smoothing eye shadow primer that locks eye shadow in place.\r\n",
+            "rating": 4.3425,
+            "sku_ids": [
+                "1404573"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Beauty Amplifier Perfecting & Smoothing Eye Primer",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "14.00",
+                "sale_price": "",
+                "sku_number": "1804608",
+                "sku_type": "Standard"
+            },
+            "display_name": "Beauty Amplifier Perfecting & Smoothing Eye Primer",
+            "hero_image": "/productimages/sku/s1804608-main-grid.jpg",
+            "id": "P409028",
+            "product_url": "/perfecting-smoothing-eye-primer-P409028",
+            "quick_look_desc": "A smoothing eye primer that keeps makeup in place all day. ",
+            "rating": 3.9791,
+            "sku_ids": [
+                "1804608"
+            ]
+        },
+        {
+            "brand_name": "Perfekt",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Perfekt - Lash Perfection Gel",
+                "list_price": "28.50",
+                "sale_price": "",
+                "sku_number": "1412931",
+                "sku_type": "Standard"
+            },
+            "display_name": "Lash Perfection Gel",
+            "hero_image": "/productimages/sku/s1412931-main-grid.jpg",
+            "id": "P309712",
+            "product_url": "/lash-perfection-gel-P309712",
+            "quick_look_desc": "A jellified primer, mascara, conditioner, and enhancer that gives the lashes extreme length and definition.",
+            "rating": 4.295,
+            "sku_ids": [
+                "1412931"
+            ]
+        },
+        {
+            "brand_name": "COVER FX",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "COVER FX - Anti-Age Smoothing Eye Primer",
+                "is_sephora_exclusive": true,
+                "list_price": "34.00",
+                "sale_price": "",
+                "sku_number": "1487404",
+                "sku_type": "Standard"
+            },
+            "display_name": "Anti-Age Smoothing Eye Primer",
+            "hero_image": "/productimages/sku/s1487404-main-grid.jpg",
+            "id": "P378102",
+            "product_url": "/anti-age-smoothing-eye-primer-P378102",
+            "quick_look_desc": "An innovative, instant eye smoothing primer with antiaging benefits that binds concealer and eye shadows to lids and eye area for even, color-true, and long-lasting wear. \r\n",
+            "rating": 3.6481,
+            "sku_ids": [
+                "1487404"
+            ]
+        },
+        {
+            "brand_name": "LASHFOOD",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "LASHFOOD - Conditioning Collagen Lash Primer",
+                "is_online_only": true,
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1809276",
+                "sku_type": "Standard"
+            },
+            "display_name": "Conditioning Collagen Lash Primer",
+            "hero_image": "/productimages/sku/s1809276-main-grid.jpg",
+            "id": "P406735",
+            "product_url": "/conditioning-collagen-lash-primer-P406735",
+            "quick_look_desc": "A three-in-one lash primer that stretches and sculpts the look of lashes, boosts volume, and nourishes, maximizing the effect of any LashFood mascara.",
+            "rating": 4.3333,
+            "sku_ids": [
+                "1809276"
+            ]
+        },
+        {
+            "brand_name": "LASHFOOD",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "LASHFOOD - Lash Transformation System",
+                "list_price": "98.00",
+                "sale_price": "",
+                "sku_number": "1585926",
+                "sku_type": "Standard",
+                "value_price": "156.00"
+            },
+            "display_name": "Lash Transformation System",
+            "hero_image": "/productimages/sku/s1585926-main-grid.jpg",
+            "id": "P384466",
+            "product_url": "/lash-transformation-system-P384466",
+            "quick_look_desc": "A five-piece, 24-hour system to create the appearance of fuller, longer, head-turning lashes in as little as four weeks.",
+            "rating": 3.5636,
+            "sku_ids": [
+                "1585926"
+            ]
+        },
+        {
+            "brand_name": "Givenchy",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Givenchy - Ombre Couture Cream Eyeshadow",
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1575281",
+                "sku_type": "Standard"
+            },
+            "display_name": "Ombre Couture Cream Eyeshadow",
+            "hero_image": "/productimages/sku/s1575281-main-grid.jpg",
+            "id": "P385745",
+            "more_colors": 9,
+            "product_url": "/ombre-couture-cream-eyeshadow-P385745",
+            "quick_look_desc": "A new generation of creamy, waterproof, long-lasting eye shadow.",
+            "rating": 3.9537,
+            "sku_ids": [
+                "1669522",
+                "1575307",
+                "1669530",
+                "1575349",
+                "1575273",
+                "1575315",
+                "1575265",
+                "1575331",
+                "1575281",
+                "1633536"
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Eye Prime",
+                "is_sephora_exclusive": true,
+                "list_price": "22.00",
+                "sale_price": "",
+                "sku_number": "1413947",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye Prime",
+            "hero_image": "/productimages/sku/s1413947-main-grid.jpg",
+            "id": "P310202",
+            "product_url": "/eye-prime-P310202",
+            "quick_look_desc": "An eyelid primer that reinforces eye shadow hold and intensifies its color.  ",
+            "rating": 3.9718,
+            "sku_ids": [
+                "1413947"
+            ]
+        },
+        {
+            "brand_name": "Kat Von D",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Kat Von D - Lock-It Color Correcting Eyeshadow Primer",
+                "is_sephora_exclusive": true,
+                "list_price": "18.00",
+                "sale_price": "",
+                "sku_number": "1776921",
+                "sku_type": "Standard"
+            },
+            "display_name": "Lock-It Color Correcting Eyeshadow Primer",
+            "hero_image": "/productimages/sku/s1776921-main-grid.jpg",
+            "id": "P405808",
+            "more_colors": 4,
+            "product_url": "/lock-it-color-correcting-eyeshadow-primer-P405808",
+            "quick_look_desc": "An eye shadow primer that color corrects and primes lids according to skintone, creating a smooth, even base for audacious eye looks. ",
+            "rating": 3.2586,
+            "sku_ids": [
+                "1776913",
+                "1776939",
+                "1776905",
+                "1776947",
+                "1776921"
+            ]
+        },
+        {
+            "brand_name": "Blinc",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Blinc - Black Lash Primer",
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1638139",
+                "sku_type": "Standard"
+            },
+            "display_name": "Black Lash Primer",
+            "hero_image": "/productimages/sku/s1638139-main-grid.jpg",
+            "id": "P388523",
+            "product_url": "/black-lash-primer-P388523",
+            "quick_look_desc": "A jet black lash primer that enhances, protects, and preps lashes for mascara application.",
+            "rating": 3.64,
+            "sku_ids": [
+                "1638139"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Photo Finish Lash Primer",
+                "list_price": "22.00",
+                "sale_price": "",
+                "sku_number": "1811926",
+                "sku_type": "Standard"
+            },
+            "display_name": "Photo Finish Lash Primer",
+            "hero_image": "/productimages/sku/s1811926-main-grid.jpg",
+            "id": "P406806",
+            "product_url": "/photo-finish-lash-primer-P406806",
+            "quick_look_desc": "A 10-in-one mascara primer for amped-up lashes.",
+            "rating": 3.2941,
+            "sku_ids": [
+                "1811926"
+            ]
+        },
+        {
+            "brand_name": "Est\u00e9e Lauder",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Est\u00e9e Lauder - Little Black Primer\u2122",
+                "list_price": "25.00",
+                "sale_price": "",
+                "sku_number": "1666692",
+                "sku_type": "Standard"
+            },
+            "display_name": "Little Black Primer\u2122",
+            "hero_image": "/productimages/sku/s1666692-main-grid.jpg",
+            "id": "P392600",
+            "product_url": "/little-black-primer-tm-P392600",
+            "quick_look_desc": "A primer that acts as an optimal mascara base&#151;boosting the volume, lift, and length of lashes.",
+            "rating": 4.3333,
+            "sku_ids": [
+                "1666692"
+            ]
+        },
+        {
+            "brand_name": "MAKE UP FOR EVER",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "MAKE UP FOR EVER - Lash Fibers",
+                "is_online_only": true,
+                "is_sephora_exclusive": true,
+                "list_price": "21.00",
+                "sale_price": "",
+                "sku_number": "1054808",
+                "sku_type": "Standard"
+            },
+            "display_name": "Lash Fibers",
+            "hero_image": "/productimages/sku/s1054808-main-grid.jpg",
+            "id": "P408706",
+            "product_url": "/lash-fibers-P408706",
+            "quick_look_desc": "A fiber-enriched lash primer that instantly lengthens and thickens for stand-out lashes.",
+            "rating": 4,
+            "sku_ids": [
+                "1054808"
+            ]
+        },
+        {
+            "brand_name": "Perfekt",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Perfekt - Eye Perfection Gel",
+                "list_price": "45.00",
+                "primary_concern": "Fine lines/Wrinkles",
+                "sale_price": "",
+                "sku_number": "1140193",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye Perfection Gel",
+            "hero_image": "/productimages/sku/s1140193-main-grid.jpg",
+            "id": "P226815",
+            "more_colors": 3,
+            "product_url": "/eye-perfection-gel-P226815",
+            "quick_look_desc": "A first-of-it's kind, eye perfection gel that\u2019s a tinted eye treatment and a color-correcting perfector.",
+            "rating": 3.8469,
+            "sku_ids": [
+                "1140201",
+                "1140219",
+                "1140235",
+                "1140193"
+            ]
+        },
+        {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Beauty Amplifier Lid and Liner Primer",
+                "is_sephora_exclusive": true,
+                "list_price": "12.00",
+                "sale_price": "",
+                "sku_number": "1771534",
+                "sku_type": "Standard"
+            },
+            "display_name": "Beauty Amplifier Lid and Liner Primer",
+            "hero_image": "/productimages/sku/s1771534-main-grid.jpg",
+            "id": "P409030",
+            "product_url": "/beauty-amplifier-lid-liner-primer-P409030",
+            "quick_look_desc": "An innovative powder eye primer that mattifies and creates a smooth surface for transfer-proof eyeliner and eye shadow application.",
+            "rating": 3.4615,
+            "sku_ids": [
+                "1771534"
+            ]
+        },
+        {
+            "brand_name": "Benefit Cosmetics",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Benefit Cosmetics - Air Patrol BB Cream Eyelid Primer",
+                "list_price": "29.00",
+                "sale_price": "",
+                "sku_number": "1742402",
+                "sku_type": "Standard"
+            },
+            "display_name": "Air Patrol BB Cream Eyelid Primer",
+            "hero_image": "/productimages/sku/s1742402-main-grid.jpg",
+            "id": "P400504",
+            "product_url": "/air-patrol-bb-cream-eyelid-primer-P400504",
+            "quick_look_desc": "A BB cream eyelid primer that color corrects while it protects with broad spectrum SPF 20.",
+            "rating": 3.0308,
+            "sku_ids": [
+                "1742402"
+            ]
+        },
+        {
+            "brand_name": "Natasha Denona",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Natasha Denona - Eyeshadow Base Primer",
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1874882",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eyeshadow Base Primer",
+            "hero_image": "/productimages/sku/s1874882-main-grid.jpg",
+            "id": "P411832",
+            "more_colors": 1,
+            "product_url": "/eyeshadow-base-primer-P411832",
+            "quick_look_desc": "A medium\u2013to-full coverage, liquid eye primer that adheres eye shadows to the lids for all-day color. ",
+            "rating": 4,
+            "sku_ids": [
+                "1874890",
+                "1874882"
+            ]
+        },
+        {
+            "brand_name": "Blinc",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Blinc - blinc Life Proof Eye Shadow Primer",
+                "is_online_only": true,
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1535913",
+                "sku_type": "Standard"
+            },
+            "display_name": "blinc Life Proof Eye Shadow Primer",
+            "hero_image": "/productimages/sku/s1535913-main-grid.jpg",
+            "id": "P379441",
+            "more_colors": 1,
+            "product_url": "/eye-shadow-primer-P379441",
+            "quick_look_desc": "A smudge-, fade-, and crease-proof, eye shadow primer that minimizes the appearance of fine lines while moisturizing the skin.\r\n",
+            "rating": 4.0714,
+            "sku_ids": [
+                "1535913",
+                "1535921"
+            ]
+        },
+        {
+            "brand_name": "Smashbox",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Smashbox - Photo Finish Lid Primer",
+                "list_price": "21.00",
+                "sale_price": "",
+                "sku_number": "1157791",
+                "sku_type": "Standard"
+            },
+            "display_name": "Photo Finish Lid Primer",
+            "hero_image": "/productimages/sku/s1157791-main-grid.jpg",
+            "id": "P232323",
+            "product_url": "/photo-finish-lid-primer-P232323",
+            "quick_look_desc": "An ultra-luxurious lid primer.",
+            "rating": 4.2822,
+            "sku_ids": [
+                "1157791"
+            ]
+        },
+        {
+            "brand_name": "stila",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "stila - Lash Stunner Extreme Lash Primer",
+                "list_price": "26.00",
+                "sale_price": "",
+                "sku_number": "1711340",
+                "sku_type": "Standard"
+            },
+            "display_name": "Lash Stunner Extreme Lash Primer",
+            "hero_image": "/productimages/sku/s1711340-main-grid.jpg",
+            "id": "P397902",
+            "product_url": "/lash-stunner-extreme-lash-primer-P397902",
+            "quick_look_desc": "A volumizing eyelash primer for a dynamic lash look.",
+            "rating": 3.5769,
+            "sku_ids": [
+                "1711340"
+            ]
+        },
+        {
+            "brand_name": "Ciat\u00e9 London",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Ciat\u00e9 London - Cooling Shadow Slick\u2122 Eyeshadow Primer",
+                "is_sephora_exclusive": true,
+                "list_price": "16.00",
+                "sale_price": "",
+                "sku_number": "1660166",
+                "sku_type": "Standard"
+            },
+            "display_name": "Cooling Shadow Slick\u2122 Eyeshadow Primer",
+            "hero_image": "/productimages/sku/s1660166-main-grid.jpg",
+            "id": "P393856",
+            "more_colors": 5,
+            "product_url": "/cooling-shadow-slick-tm-eyeshadow-primer-P393856",
+            "quick_look_desc": "An oil-free, long-wearing metallic cream cooling eye shadow primer that preps the eyes for color.",
+            "rating": 3.75,
+            "sku_ids": [
+                "1660158",
+                "1660166",
+                "1660117",
+                "1660141",
+                "1660125",
+                "1660133"
+            ]
+        },
+        {
+            "brand_name": "Ciat\u00e9 London",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "Ciat\u00e9 London - Partner In Prime Extreme Wear Eyeshadow Primer",
+                "is_sephora_exclusive": true,
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1726884",
+                "sku_type": "Standard"
+            },
+            "display_name": "Partner In Prime Extreme Wear Eyeshadow Primer",
+            "hero_image": "/productimages/sku/s1726884-main-grid.jpg",
+            "id": "P399507",
+            "product_url": "/partner-in-prime-extreme-wear-eye-eyeshadow-primer-P399507",
+            "quick_look_desc": "An air-whipped, eye shadow primer for budge-proof, crease resistant, long-lasting eye color.",
+            "rating": 4.4,
+            "sku_ids": [
+                "1726884"
+            ]
+        },
+        {
+            "brand_name": "BECCA",
+            "category": "primer",
+            "derived_sku": {
+                "image_alt_text": "BECCA - Eye Priming Perfector",
+                "list_price": "24.00",
+                "sale_price": "",
+                "sku_number": "1514306",
+                "sku_type": "Standard"
+            },
+            "display_name": "Eye Priming Perfector",
+            "hero_image": "/productimages/sku/s1514306-main-grid.jpg",
+            "id": "P378022",
+            "product_url": "/eye-priming-perfector-P378022",
+            "quick_look_desc": "A perfecting eye primer designed to smooth and even the lids, creating an invisible canvas for long-wearing, non-creasing eye shadow.",
+            "rating": 4.2857,
+            "sku_ids": [
+                "1514306"
+            ]
+        }
+    ],
+    "total_products": 48
+}

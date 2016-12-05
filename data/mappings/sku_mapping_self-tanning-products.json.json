@@ -1,0 +1,2096 @@
+{
+    "category": "self-tanning-products.json",
+    "mapping": {
+        "1173004": {
+            "brand_name": "Hampton Sun",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Hampton Sun - Sunless Tanning Gel",
+                "is_online_only": true,
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1173004",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sunless Tanning Gel",
+            "hero_image": "/productimages/sku/s1173004-main-grid.jpg",
+            "id": "P234458",
+            "product_url": "/sunless-tanning-gel-P234458",
+            "quick_look_desc": "A lightweight gel that creates a natural-looking, streak-free tan. ",
+            "rating": 4.1622,
+            "sku_ids": [
+                "1173004"
+            ]
+        },
+        "1189547": {
+            "brand_name": "Kate Somerville",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Kate Somerville - Somerville 360\u00b0\u2122 Tanning Towelettes",
+                "list_price": "48.00",
+                "sale_price": "",
+                "sku_number": "1189547",
+                "sku_type": "Standard"
+            },
+            "display_name": "Somerville 360\u00b0\u2122 Tanning Towelettes",
+            "hero_image": "/productimages/sku/s1189547-main-grid.jpg",
+            "id": "P238609",
+            "product_url": "/somerville-360-tanning-towelettes-P238609",
+            "quick_look_desc": "A packette of self-tanning towelettes for face and body that delivers a quick and even application with no streaking.",
+            "rating": 4.0461,
+            "sku_ids": [
+                "1189547"
+            ]
+        },
+        "1298314": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Tan Applicator Mitt",
+                "list_price": "6.50",
+                "sale_price": "",
+                "sku_number": "1298314",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tan Applicator Mitt",
+            "hero_image": "/productimages/sku/s1298314-main-grid.jpg",
+            "id": "P278310",
+            "product_url": "/tan-applicator-mitt-P278310",
+            "quick_look_desc": "A soft, washable mitt for applying self-tanning products. This mitt ensures an even, streak-free application of St. Tropez Mousse and Spray products and protects the palms from staining.",
+            "rating": 4.2456,
+            "sku_ids": [
+                "1298314"
+            ]
+        },
+        "1302629": {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Tinted Self-Tanning Body Mist",
+                "is_sephora_exclusive": true,
+                "list_price": "18.00",
+                "sale_price": "",
+                "sku_number": "1302629",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tinted Self-Tanning Body Mist",
+            "hero_image": "/productimages/sku/s1302629-main-grid.jpg",
+            "id": "P286510",
+            "product_url": "/tinted-self-tanning-body-mist-P286510",
+            "quick_look_desc": "A tinted bronzing mist for fast, easy application. This mist gives you a gorgeous, natural-looking tan effect without streaking&#151;year-round and without exposure to harmful UV rays.",
+            "rating": 4.3582,
+            "sku_ids": [
+                "1302629",
+                "1471143"
+            ]
+        },
+        "1325216": {
+            "brand_name": "Dr. Dennis Gross Skincare",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Dr. Dennis Gross Skincare - Alpha Beta\u00ae Glow Pads",
+                "list_price_max": "68.00",
+                "list_price_min": "35.00",
+                "sale_price": "",
+                "sku_number": "1325216",
+                "sku_type": "Standard"
+            },
+            "display_name": "Alpha Beta\u00ae Glow Pads",
+            "hero_image": "/productimages/sku/s1325216-main-grid.jpg",
+            "id": "P282415",
+            "more_sizes": 1,
+            "product_url": "/alpha-beta-glow-pads-P282415",
+            "quick_look_desc": "An exfoliating self-tanner with antiaging properties and vitamin D.  Alpha Beta Glow Pads provide a radiant, sun kissed glow year-round, without exposure to the sun's harmful UVA/UVB rays. ",
+            "rating": 4.056,
+            "sku_ids": [
+                "1325216",
+                "1395672"
+            ]
+        },
+        "1395672": {
+            "brand_name": "Dr. Dennis Gross Skincare",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Dr. Dennis Gross Skincare - Alpha Beta\u00ae Glow Pads",
+                "list_price_max": "68.00",
+                "list_price_min": "35.00",
+                "sale_price": "",
+                "sku_number": "1325216",
+                "sku_type": "Standard"
+            },
+            "display_name": "Alpha Beta\u00ae Glow Pads",
+            "hero_image": "/productimages/sku/s1325216-main-grid.jpg",
+            "id": "P282415",
+            "more_sizes": 1,
+            "product_url": "/alpha-beta-glow-pads-P282415",
+            "quick_look_desc": "An exfoliating self-tanner with antiaging properties and vitamin D.  Alpha Beta Glow Pads provide a radiant, sun kissed glow year-round, without exposure to the sun's harmful UVA/UVB rays. ",
+            "rating": 4.056,
+            "sku_ids": [
+                "1325216",
+                "1395672"
+            ]
+        },
+        "1412212": {
+            "brand_name": "Dr. Dennis Gross Skincare",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Dr. Dennis Gross Skincare - Alpha Beta\u00ae Glow Pad\u2122 For Body With Active Vitamin D",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1412212",
+                "sku_type": "Standard"
+            },
+            "display_name": "Alpha Beta\u00ae Glow Pad\u2122 For Body With Active Vitamin D",
+            "hero_image": "/productimages/sku/s1412212-main-grid.jpg",
+            "id": "P309104",
+            "product_url": "/alpha-beta-glow-pad-for-body-with-active-vitamin-d-P309104",
+            "quick_look_desc": "An exfoliating self tanner that firms and smooths skin while minimizing the need for shaving.",
+            "rating": 3.9194,
+            "sku_ids": [
+                "1412212"
+            ]
+        },
+        "1471143": {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Tinted Self-Tanning Body Mist",
+                "is_sephora_exclusive": true,
+                "list_price": "18.00",
+                "sale_price": "",
+                "sku_number": "1302629",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tinted Self-Tanning Body Mist",
+            "hero_image": "/productimages/sku/s1302629-main-grid.jpg",
+            "id": "P286510",
+            "product_url": "/tinted-self-tanning-body-mist-P286510",
+            "quick_look_desc": "A tinted bronzing mist for fast, easy application. This mist gives you a gorgeous, natural-looking tan effect without streaking&#151;year-round and without exposure to harmful UV rays.",
+            "rating": 4.3582,
+            "sku_ids": [
+                "1302629",
+                "1471143"
+            ]
+        },
+        "1482595": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Gradual Tan Plus Anti-Ageing Multi-Action Face",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1482595",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gradual Tan Plus Anti-Ageing Multi-Action Face",
+            "hero_image": "/productimages/sku/s1482595-main-grid.jpg",
+            "id": "P377265",
+            "product_url": "/gradual-tan-plus-anti-ageing-multi-action-face-P377265",
+            "quick_look_desc": "<b>What it is:</b><br>A multiaction moisturizer that prolongs youthful skin and creates a sun-kissed glow. ",
+            "rating": 3.4545,
+            "sku_ids": [
+                "1482595"
+            ]
+        },
+        "1521798": {
+            "brand_name": "Kate Somerville",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Kate Somerville - Somerville360\u00b0 Tan Enhancing Moisturizer",
+                "list_price": "48.00",
+                "sale_price": "",
+                "sku_number": "1521798",
+                "sku_type": "Standard"
+            },
+            "display_name": "Somerville360\u00b0 Tan Enhancing Moisturizer",
+            "hero_image": "/productimages/sku/s1521798-main-grid.jpg",
+            "id": "P378862",
+            "product_url": "/somerville360-tan-enhancing-moisturizer-P378862",
+            "quick_look_desc": "A unique formula that conditions and moisturizes skin for a longer lasting, sun-kissed tan.",
+            "rating": 4,
+            "sku_ids": [
+                "1521798"
+            ]
+        },
+        "1528991": {
+            "brand_name": "Caudalie",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Caudalie - Divine Legs",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1528991",
+                "sku_type": "Standard"
+            },
+            "display_name": "Divine Legs",
+            "hero_image": "/productimages/sku/s1528991-main-grid.jpg",
+            "id": "P379304",
+            "product_url": "/divine-legs-P379304",
+            "quick_look_desc": "A lightweight tinted body lotion to give legs a touch of sun without the use of a self-tanner.",
+            "rating": 3.4865,
+            "sku_ids": [
+                "1528991"
+            ]
+        },
+        "1529742": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Tanning Mitt",
+                "list_price": "6.50",
+                "sale_price": "",
+                "sku_number": "1529742",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tanning Mitt",
+            "hero_image": "/productimages/sku/s1529742-main-grid.jpg",
+            "id": "P379480",
+            "product_url": "/tanning-mitt-P379480",
+            "quick_look_desc": "A tanning mitt with extra soft flock surface for flawless tan application.",
+            "rating": 3.5524,
+            "sku_ids": [
+                "1529742"
+            ]
+        },
+        "1529759": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Fabulous Tinted Self Tanning Lotion",
+                "list_price_max": "37.50",
+                "list_price_min": "30.00",
+                "sale_price": "",
+                "sku_number": "1688944",
+                "sku_type": "Standard"
+            },
+            "display_name": "Fabulous Tinted Self Tanning Lotion",
+            "hero_image": "/productimages/sku/s1688944-main-grid.jpg",
+            "id": "P379479",
+            "more_colors": 1,
+            "product_url": "/fabulous-tinted-self-tanning-lotion-P379479",
+            "quick_look_desc": "A superbly hydrating lotion that gives a gorgeous instant color and then develops to a beautiful, natural-looking tan that lasts for up to seven days. ",
+            "rating": 4.3,
+            "sku_ids": [
+                "1688944",
+                "1529759"
+            ]
+        },
+        "1529767": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Mousse",
+                "is_sephora_exclusive": true,
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1529767",
+                "sku_type": "Standard"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Mousse",
+            "hero_image": "/productimages/sku/s1529767-main-grid.jpg",
+            "id": "P379476",
+            "more_colors": 2,
+            "product_url": "/phenomenal-2-3-week-tan-mousse-P379476",
+            "quick_look_desc": "A fast and easy-to-apply, long-lasting, odorless self-tan mousse for a natural-looking, streak-free tan.     ",
+            "rating": 3.9835,
+            "sku_ids": [
+                "1529767",
+                "1529866",
+                "1529775"
+            ]
+        },
+        "1529775": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Mousse",
+                "is_sephora_exclusive": true,
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1529767",
+                "sku_type": "Standard"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Mousse",
+            "hero_image": "/productimages/sku/s1529767-main-grid.jpg",
+            "id": "P379476",
+            "more_colors": 2,
+            "product_url": "/phenomenal-2-3-week-tan-mousse-P379476",
+            "quick_look_desc": "A fast and easy-to-apply, long-lasting, odorless self-tan mousse for a natural-looking, streak-free tan.     ",
+            "rating": 3.9835,
+            "sku_ids": [
+                "1529767",
+                "1529866",
+                "1529775"
+            ]
+        },
+        "1529783": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Rich Face Tinted Self Tan Lotion for Face",
+                "list_price": "29.00",
+                "sale_price": "",
+                "sku_number": "1529783",
+                "sku_type": "Standard"
+            },
+            "display_name": "Rich Face Tinted Self Tan Lotion for Face",
+            "hero_image": "/productimages/sku/s1529783-main-grid.jpg",
+            "id": "P379478",
+            "product_url": "/rich-face-tinted-self-tan-lotion-for-face-P379478",
+            "quick_look_desc": "A superbly hydrating face lotion that gives a gorgeous instant color and then develops to a beautiful subtle glow that can be applied regularly. ",
+            "rating": 4.0476,
+            "sku_ids": [
+                "1529783"
+            ]
+        },
+        "1529833": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Deep Face Untinted Self Tan Lotion",
+                "is_online_only": true,
+                "list_price": "29.00",
+                "sale_price": "",
+                "sku_number": "1529833",
+                "sku_type": "Standard"
+            },
+            "display_name": "Deep Face Untinted Self Tan Lotion",
+            "hero_image": "/productimages/sku/s1529833-main-grid.jpg",
+            "id": "P379484",
+            "product_url": "/deep-face-untinted-self-tan-lotion-P379484",
+            "quick_look_desc": "A superbly hydrating face lotion that applies clear and then develops to a beautiful, subtle glow that can be applied regularly. \t\t",
+            "rating": 3.9474,
+            "sku_ids": [
+                "1529833"
+            ]
+        },
+        "1529866": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Mousse",
+                "is_sephora_exclusive": true,
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1529767",
+                "sku_type": "Standard"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Mousse",
+            "hero_image": "/productimages/sku/s1529767-main-grid.jpg",
+            "id": "P379476",
+            "more_colors": 2,
+            "product_url": "/phenomenal-2-3-week-tan-mousse-P379476",
+            "quick_look_desc": "A fast and easy-to-apply, long-lasting, odorless self-tan mousse for a natural-looking, streak-free tan.     ",
+            "rating": 3.9835,
+            "sku_ids": [
+                "1529767",
+                "1529866",
+                "1529775"
+            ]
+        },
+        "1545763": {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Gradual Self-Tanning Face Water",
+                "is_sephora_exclusive": true,
+                "list_price": "18.00",
+                "sale_price": "",
+                "sku_number": "1545763",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gradual Self-Tanning Face Water",
+            "hero_image": "/productimages/sku/s1545763-main-grid.jpg",
+            "id": "P385699",
+            "product_url": "/gradual-self-tanning-face-water-P385699",
+            "quick_look_desc": "A lightweight self-tanning formula that gradually gives skin a beautiful, ultranatural golden glow.",
+            "rating": 4.0579,
+            "sku_ids": [
+                "1545763"
+            ]
+        },
+        "1545771": {
+            "brand_name": "SEPHORA COLLECTION",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "SEPHORA COLLECTION - Gradual Self-Tanning Body Lotion",
+                "is_sephora_exclusive": true,
+                "list_price": "18.00",
+                "sale_price": "",
+                "sku_number": "1545771",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gradual Self-Tanning Body Lotion",
+            "hero_image": "/productimages/sku/s1545771-main-grid.jpg",
+            "id": "P385697",
+            "product_url": "/gradual-self-tanning-body-lotion-P385697",
+            "quick_look_desc": "A self-tanning lotion that gives skin a beautiful golden glow that intensifies over the course of applications.  ",
+            "rating": 3.6774,
+            "sku_ids": [
+                "1545771"
+            ]
+        },
+        "1555952": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Sensitive Bronzing Lotion",
+                "is_sephora_exclusive": true,
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1555952",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Sensitive Bronzing Lotion",
+            "hero_image": "/productimages/sku/s1555952-main-grid.jpg",
+            "id": "P381193",
+            "product_url": "/self-tan-sensitive-bronzing-lotion-P381193",
+            "quick_look_desc": "A deeply moisturizing hypoallergenic lotion specially formulated for sensitive skin to deliver the natural-looking, streak-free tan you trust from St. Tropez.",
+            "rating": 2.8333,
+            "sku_ids": [
+                "1555952"
+            ]
+        },
+        "1568823": {
+            "brand_name": "Dr. Dennis Gross Skincare",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Dr. Dennis Gross Skincare - Alpha Beta\u00ae Daily Glow Moisture",
+                "list_price": "42.00",
+                "primary_concern": "Dullness/Uneven texture",
+                "sale_price": "",
+                "sku_number": "1568823",
+                "sku_type": "Standard"
+            },
+            "display_name": "Alpha Beta\u00ae Daily Glow Moisture",
+            "hero_image": "/productimages/sku/s1568823-main-grid.jpg",
+            "id": "P378607",
+            "product_url": "/alpha-beta-daily-glow-moisture-P378607",
+            "quick_look_desc": "A daily, oil-free moisturizer enriched with active vitamin D that enhances radiance with antiaging and exfoliating benefits.",
+            "rating": 2.614,
+            "sku_ids": [
+                "1568823"
+            ]
+        },
+        "1594712": {
+            "brand_name": "Bronze Buffer",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Bronze Buffer - Bronze Buffer Self-Tan Remover",
+                "list_price": "10.00",
+                "sale_price": "",
+                "sku_number": "1594712",
+                "sku_type": "Standard"
+            },
+            "display_name": "Bronze Buffer Self-Tan Remover",
+            "hero_image": "/productimages/sku/s1594712-main-grid.jpg",
+            "id": "P385212",
+            "product_url": "/bronze-buffer-self-tan-remover-P385212",
+            "quick_look_desc": "A set of reusable sponges that instantly wipe away self-tanner streaks and unwanted color.",
+            "rating": 2.7895,
+            "sku_ids": [
+                "1594712"
+            ]
+        },
+        "1600170": {
+            "brand_name": "Clarins",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Clarins - Radiance-Plus Golden Glow Booster",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1600170",
+                "sku_type": "Standard"
+            },
+            "display_name": "Radiance-Plus Golden Glow Booster",
+            "hero_image": "/productimages/sku/s1600170-main-grid.jpg",
+            "id": "P385261",
+            "product_url": "/radiance-plus-golden-glow-booster-P385261",
+            "quick_look_desc": "A skin booster to be mixed with your day and night cream for a radiant, sunkissed glow. ",
+            "rating": 4.1274,
+            "sku_ids": [
+                "1600170"
+            ]
+        },
+        "1604875": {
+            "brand_name": "tarte",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "tarte - Brazilliance\u2122 Skin Rejuvenating Maracuja Self Tanning Face Towelettes",
+                "list_price_max": "21.00",
+                "list_price_min": "10.00",
+                "sale_price": "",
+                "sku_number": "1604875",
+                "sku_type": "Standard"
+            },
+            "display_name": "Brazilliance\u2122 Skin Rejuvenating Maracuja Self Tanning Face Towelettes",
+            "hero_image": "/productimages/sku/s1604875-main-grid.jpg",
+            "id": "P386111",
+            "more_options": 1,
+            "product_url": "/brazilliance-skin-rejuvenating-maracuja-self-tanning-face-towelettes-P386111",
+            "quick_look_desc": "A set of bronzing, self-tanning towelettes.",
+            "rating": 3.7712,
+            "sku_ids": [
+                "1812643",
+                "1604875"
+            ]
+        },
+        "1606292": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Lotion",
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1606300",
+                "sku_type": "Standard"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Lotion",
+            "hero_image": "/productimages/sku/s1606300-main-grid.jpg",
+            "id": "P385513",
+            "more_colors": 1,
+            "product_url": "/phenomenal-2-3-week-tan-lotion-P385513",
+            "quick_look_desc": "A fast and easy-to-apply, long-lasting, odorless self-tan lotion for a natural-looking, streak-free tan.     ",
+            "rating": 3.5909,
+            "sku_ids": [
+                "1606292",
+                "1606300"
+            ]
+        },
+        "1606300": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Lotion",
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1606300",
+                "sku_type": "Standard"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Lotion",
+            "hero_image": "/productimages/sku/s1606300-main-grid.jpg",
+            "id": "P385513",
+            "more_colors": 1,
+            "product_url": "/phenomenal-2-3-week-tan-lotion-P385513",
+            "quick_look_desc": "A fast and easy-to-apply, long-lasting, odorless self-tan lotion for a natural-looking, streak-free tan.     ",
+            "rating": 3.5909,
+            "sku_ids": [
+                "1606292",
+                "1606300"
+            ]
+        },
+        "1606334": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Rapid Tan Mousse",
+                "list_price": "43.00",
+                "sale_price": "",
+                "sku_number": "1606334",
+                "sku_type": "Standard"
+            },
+            "display_name": "Rapid Tan Mousse",
+            "hero_image": "/productimages/sku/s1606334-main-grid.jpg",
+            "id": "P385512",
+            "product_url": "/rapid-tan-mousse-P385512",
+            "quick_look_desc": "A quick and easy-to-use, fast-acting tan mousse that develops over one to three or more hours, allowing you to choose your desired depth of tan.",
+            "rating": 3.1812,
+            "sku_ids": [
+                "1606334"
+            ]
+        },
+        "1607639": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Luxe Dry Oil",
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1607639",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Luxe Dry Oil",
+            "hero_image": "/productimages/sku/s1607639-main-grid.jpg",
+            "id": "P385518",
+            "product_url": "/self-tan-luxe-dry-oil-P385518",
+            "quick_look_desc": "An indulgent dry oil that provides a natural-looking, streak-free, golden tan that lasts for up to 10 days. ",
+            "rating": 3.5217,
+            "sku_ids": [
+                "1607639"
+            ]
+        },
+        "1624964": {
+            "brand_name": "Perfekt",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Perfekt - Matte Body Perfection Gel",
+                "list_price_max": "48.00",
+                "list_price_min": "17.50",
+                "sale_price": "",
+                "sku_number": "1624972",
+                "sku_type": "Standard"
+            },
+            "display_name": "Matte Body Perfection Gel",
+            "hero_image": "/productimages/sku/s1624972-main-grid.jpg",
+            "id": "P291214",
+            "more_colors": 1,
+            "product_url": "/matte-body-perfection-gel-P291214",
+            "quick_look_desc": "A one-shade-fits-all skin perfector, body moisturizer, body treatment, and natural matte tan in all new packaging with the same high-performance formulation.",
+            "rating": 4.2205,
+            "sku_ids": [
+                "1624964",
+                "1624972"
+            ]
+        },
+        "1624972": {
+            "brand_name": "Perfekt",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Perfekt - Matte Body Perfection Gel",
+                "list_price_max": "48.00",
+                "list_price_min": "17.50",
+                "sale_price": "",
+                "sku_number": "1624972",
+                "sku_type": "Standard"
+            },
+            "display_name": "Matte Body Perfection Gel",
+            "hero_image": "/productimages/sku/s1624972-main-grid.jpg",
+            "id": "P291214",
+            "more_colors": 1,
+            "product_url": "/matte-body-perfection-gel-P291214",
+            "quick_look_desc": "A one-shade-fits-all skin perfector, body moisturizer, body treatment, and natural matte tan in all new packaging with the same high-performance formulation.",
+            "rating": 4.2205,
+            "sku_ids": [
+                "1624964",
+                "1624972"
+            ]
+        },
+        "1633817": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1633825",
+                "sku_type": "Standard",
+                "value_price": "60.50"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+            "hero_image": "/productimages/sku/s1633825-main-grid.jpg",
+            "id": "P387192",
+            "more_colors": 2,
+            "product_url": "/phenomenal-2-3-week-tan-mousse-tanning-mitt-duo-P387192",
+            "quick_look_desc": "A long-lasting, easy-to-apply self-tan mousse for a natural-looking glow. ",
+            "rating": 3.7483,
+            "sku_ids": [
+                "1633833",
+                "1633825",
+                "1633817"
+            ]
+        },
+        "1633825": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1633825",
+                "sku_type": "Standard",
+                "value_price": "60.50"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+            "hero_image": "/productimages/sku/s1633825-main-grid.jpg",
+            "id": "P387192",
+            "more_colors": 2,
+            "product_url": "/phenomenal-2-3-week-tan-mousse-tanning-mitt-duo-P387192",
+            "quick_look_desc": "A long-lasting, easy-to-apply self-tan mousse for a natural-looking glow. ",
+            "rating": 3.7483,
+            "sku_ids": [
+                "1633833",
+                "1633825",
+                "1633817"
+            ]
+        },
+        "1633833": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1633825",
+                "sku_type": "Standard",
+                "value_price": "60.50"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+            "hero_image": "/productimages/sku/s1633825-main-grid.jpg",
+            "id": "P387192",
+            "more_colors": 2,
+            "product_url": "/phenomenal-2-3-week-tan-mousse-tanning-mitt-duo-P387192",
+            "quick_look_desc": "A long-lasting, easy-to-apply self-tan mousse for a natural-looking glow. ",
+            "rating": 3.7483,
+            "sku_ids": [
+                "1633833",
+                "1633825",
+                "1633817"
+            ]
+        },
+        "1658475": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Tanning Travel Essentials",
+                "is_sephora_exclusive": true,
+                "list_price": "35.00",
+                "sale_price": "",
+                "sku_number": "1658475",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tanning Travel Essentials",
+            "hero_image": "/productimages/sku/s1658475-main-grid.jpg",
+            "id": "P390172",
+            "product_url": "/tanning-travel-essentials-P390172",
+            "quick_look_desc": "A four piece set with everything you need for a safe, flawless, natural-looking tan for the holiday season. ",
+            "rating": 2.92,
+            "sku_ids": [
+                "1658475"
+            ]
+        },
+        "1673995": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Tanning Mitt",
+                "list_price": "6.50",
+                "sale_price": "",
+                "sku_number": "1673995",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tanning Mitt",
+            "hero_image": "/productimages/sku/s1673995-main-grid.jpg",
+            "id": "P391992",
+            "product_url": "/tanning-mitt-P391992",
+            "quick_look_desc": "A tanning mitt designed with a revolutionary protective membrane to ensure a smooth, streak-free, even result. ",
+            "rating": 2.9375,
+            "sku_ids": [
+                "1673995"
+            ]
+        },
+        "1686716": {
+            "brand_name": "BECCA",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "BECCA - Luminous Body Perfecting Mousse",
+                "list_price": "34.00",
+                "sale_price": "",
+                "sku_number": "1686716",
+                "sku_type": "Standard"
+            },
+            "display_name": "Luminous Body Perfecting Mousse",
+            "hero_image": "/productimages/sku/s1686716-main-grid.jpg",
+            "id": "P396034",
+            "product_url": "/luminous-body-perfecting-mousse-P396034",
+            "quick_look_desc": "A skin perfector that conceals imperfections and seamlessly evens skintone with subtle radiance and true bronze color. ",
+            "rating": 4.5227,
+            "sku_ids": [
+                "1686716"
+            ]
+        },
+        "1688894": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Trystal\u2122 Self Tanning Bronzing And Kabuki Brush Duo",
+                "is_sephora_exclusive": true,
+                "list_price": "55.00",
+                "sale_price": "",
+                "sku_number": "1688894",
+                "sku_type": "Standard"
+            },
+            "display_name": "Trystal\u2122 Self Tanning Bronzing And Kabuki Brush Duo",
+            "hero_image": "/productimages/sku/s1688894-main-grid.jpg",
+            "id": "P394129",
+            "product_url": "/trystal-tm-self-tanning-bronzing-kabuki-brush-duo-P394129",
+            "quick_look_desc": "A loose mineral bronzing powder that creates a tan lasting up to five days plus a luxury kabuki brush.",
+            "rating": 3.3929,
+            "sku_ids": [
+                "1688894"
+            ]
+        },
+        "1688902": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Trystal\u2122 Self Tanning Bronzing Minerals",
+                "is_sephora_exclusive": true,
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1688902",
+                "sku_type": "Standard"
+            },
+            "display_name": "Trystal\u2122 Self Tanning Bronzing Minerals",
+            "hero_image": "/productimages/sku/s1688902-main-grid.jpg",
+            "id": "P394128",
+            "product_url": "/trystal-tm-self-tanning-bronzing-minerals-P394128",
+            "quick_look_desc": "A loose mineral bronzing powder that creates a tan lasting up to five days&#151;the world\u2019s first self-tanning bronzer.",
+            "rating": 3.6471,
+            "sku_ids": [
+                "1688902"
+            ]
+        },
+        "1688910": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Self Tanning Night Moisture Mask",
+                "is_sephora_exclusive": true,
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1688910",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tanning Night Moisture Mask",
+            "hero_image": "/productimages/sku/s1688910-main-grid.jpg",
+            "id": "P394127",
+            "product_url": "/self-tanning-night-moisture-mask-P394127",
+            "quick_look_desc": "An incredible facial treatment that offers overnight antiage hydration and a stunning, natural-looking, lasting glow.",
+            "rating": 3.7018,
+            "sku_ids": [
+                "1688910"
+            ]
+        },
+        "1688928": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Fabulous Tinted Self Tanning Mousse",
+                "is_online_only": true,
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1688928",
+                "sku_type": "Standard"
+            },
+            "display_name": "Fabulous Tinted Self Tanning Mousse",
+            "hero_image": "/productimages/sku/s1688928-main-grid.jpg",
+            "id": "P379485",
+            "more_colors": 1,
+            "product_url": "/fabulous-tinted-self-tanning-mousse-P379485",
+            "quick_look_desc": "A super fast-drying tan mousse that gives a gorgeous instant color and then develops to a beautiful natural-looking tan that lasts for up to seven days. ",
+            "rating": 4.1429,
+            "sku_ids": [
+                "1688936",
+                "1688928"
+            ]
+        },
+        "1688936": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Fabulous Tinted Self Tanning Mousse",
+                "is_online_only": true,
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1688928",
+                "sku_type": "Standard"
+            },
+            "display_name": "Fabulous Tinted Self Tanning Mousse",
+            "hero_image": "/productimages/sku/s1688928-main-grid.jpg",
+            "id": "P379485",
+            "more_colors": 1,
+            "product_url": "/fabulous-tinted-self-tanning-mousse-P379485",
+            "quick_look_desc": "A super fast-drying tan mousse that gives a gorgeous instant color and then develops to a beautiful natural-looking tan that lasts for up to seven days. ",
+            "rating": 4.1429,
+            "sku_ids": [
+                "1688936",
+                "1688928"
+            ]
+        },
+        "1688944": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Fabulous Tinted Self Tanning Lotion",
+                "list_price_max": "37.50",
+                "list_price_min": "30.00",
+                "sale_price": "",
+                "sku_number": "1688944",
+                "sku_type": "Standard"
+            },
+            "display_name": "Fabulous Tinted Self Tanning Lotion",
+            "hero_image": "/productimages/sku/s1688944-main-grid.jpg",
+            "id": "P379479",
+            "more_colors": 1,
+            "product_url": "/fabulous-tinted-self-tanning-lotion-P379479",
+            "quick_look_desc": "A superbly hydrating lotion that gives a gorgeous instant color and then develops to a beautiful, natural-looking tan that lasts for up to seven days. ",
+            "rating": 4.3,
+            "sku_ids": [
+                "1688944",
+                "1529759"
+            ]
+        },
+        "1689041": {
+            "brand_name": "beautyblender",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "beautyblender - body.blender by beautyblender\u00ae",
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1689041",
+                "sku_type": "Standard"
+            },
+            "display_name": "body.blender by beautyblender\u00ae",
+            "hero_image": "/productimages/sku/s1689041-main-grid.jpg",
+            "id": "P394553",
+            "product_url": "/body-blender-by-beautyblender-reg-P394553",
+            "quick_look_desc": "A beautyblender&reg; that\u2019s large enough to cover the curves of your body and contoured enough to sit perfectly in the palm of your hand.",
+            "rating": 3.6364,
+            "sku_ids": [
+                "1689041"
+            ]
+        },
+        "1696988": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Fabulous Self Tanning Gradual Lotion with Marula Oil",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1696988",
+                "sku_type": "Standard"
+            },
+            "display_name": "Fabulous Self Tanning Gradual Lotion with Marula Oil",
+            "hero_image": "/productimages/sku/s1696988-main-grid.jpg",
+            "id": "P379477",
+            "product_url": "/fabulous-self-tanning-gradual-lotion-with-marula-oil-P379477",
+            "quick_look_desc": "A superbly hydrating lotion that applies clear like a moisturizer and then develops to a beautiful sunkissed glow that can be deepened with daily use. ",
+            "rating": 3.9778,
+            "sku_ids": [
+                "1696988"
+            ]
+        },
+        "1696996": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Fabulous Tinted Self Tanning Mousse",
+                "is_sephora_exclusive": true,
+                "list_price": "40.00",
+                "sale_price": "",
+                "sku_number": "1696996",
+                "sku_type": "Standard"
+            },
+            "display_name": "Fabulous Tinted Self Tanning Mousse",
+            "hero_image": "/productimages/sku/s1696996-main-grid.jpg",
+            "id": "P397311",
+            "product_url": "/fabulous-tinted-self-tanning-mousse-P397311",
+            "quick_look_desc": "A large-sized, super fast-drying tan mousse that gives a gorgeous instant color and then develops to a beautiful natural-looking tan that lasts for up to seven days. ",
+            "rating": 3.75,
+            "sku_ids": [
+                "1696996"
+            ]
+        },
+        "1702588": {
+            "brand_name": "Jurlique",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Jurlique - Sun Specialist Sunless Tanner",
+                "is_online_only": true,
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1702588",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sun Specialist Sunless Tanner",
+            "hero_image": "/productimages/sku/s1702588-main-grid.jpg",
+            "id": "P394700",
+            "product_url": "/sun-specialist-sunless-tanner-P394700",
+            "quick_look_desc": "A natural multi-benefit formula with botanical extracts that delivers a golden sunless tan for face and body.",
+            "rating": 4,
+            "sku_ids": [
+                "1702588"
+            ]
+        },
+        "1702869": {
+            "brand_name": "Perfekt",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Perfekt - Matte Tan Body Perfection Gel with SPF 30",
+                "is_sephora_exclusive": true,
+                "list_price": "48.00",
+                "sale_price": "",
+                "sku_number": "1702869",
+                "sku_type": "Standard"
+            },
+            "display_name": "Matte Tan Body Perfection Gel with SPF 30",
+            "hero_image": "/productimages/sku/s1702869-main-grid.jpg",
+            "id": "P397435",
+            "product_url": "/matte-tan-body-perfection-gel-with-spf-30-P397435",
+            "quick_look_desc": "A one-shade-fits-all skin perfecting SPF 30 bronzer, moisturizer, and treatment in a single high-performance formulation.",
+            "rating": 4.7143,
+            "sku_ids": [
+                "1702869"
+            ]
+        },
+        "1704105": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Luxe Facial Oil",
+                "is_sephora_exclusive": true,
+                "list_price": "35.00",
+                "sale_price": "",
+                "sku_number": "1704105",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Luxe Facial Oil",
+            "hero_image": "/productimages/sku/s1704105-main-grid.jpg",
+            "id": "P394689",
+            "product_url": "/self-tan-luxe-facial-oil-P394689",
+            "quick_look_desc": "A lightweight self-tan oil formulated specifically for the face.",
+            "rating": 3.8571,
+            "sku_ids": [
+                "1704105"
+            ]
+        },
+        "1704113": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - One Night Only Wash Off Face & Body Lotion",
+                "list_price": "16.00",
+                "sale_price": "",
+                "sku_number": "1704121",
+                "sku_type": "Standard"
+            },
+            "display_name": "One Night Only Wash Off Face & Body Lotion",
+            "hero_image": "/productimages/sku/s1704121-main-grid.jpg",
+            "id": "P396338",
+            "more_colors": 1,
+            "product_url": "/one-night-only-wash-off-face-body-lotion-P396338",
+            "quick_look_desc": "A no-commitment, easy-to-apply bronzing lotion for a radiant sunkissed glow that easily washes off with soap and water.",
+            "rating": 4.4043,
+            "sku_ids": [
+                "1704113",
+                "1704121"
+            ]
+        },
+        "1704121": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - One Night Only Wash Off Face & Body Lotion",
+                "list_price": "16.00",
+                "sale_price": "",
+                "sku_number": "1704121",
+                "sku_type": "Standard"
+            },
+            "display_name": "One Night Only Wash Off Face & Body Lotion",
+            "hero_image": "/productimages/sku/s1704121-main-grid.jpg",
+            "id": "P396338",
+            "more_colors": 1,
+            "product_url": "/one-night-only-wash-off-face-body-lotion-P396338",
+            "quick_look_desc": "A no-commitment, easy-to-apply bronzing lotion for a radiant sunkissed glow that easily washes off with soap and water.",
+            "rating": 4.4043,
+            "sku_ids": [
+                "1704113",
+                "1704121"
+            ]
+        },
+        "1705243": {
+            "brand_name": "CLINIQUE",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "CLINIQUE - UV Defense Broad Spectrum SPF 50",
+                "list_price": "29.50",
+                "sale_price": "",
+                "sku_number": "1705243",
+                "sku_type": "Standard"
+            },
+            "display_name": "UV Defense Broad Spectrum SPF 50",
+            "hero_image": "/productimages/sku/s1705243-main-grid.jpg",
+            "id": "P395724",
+            "product_url": "/uv-defense-broad-spectrum-spf-50-P395724",
+            "quick_look_desc": "An ultra-lightweight, high-level UVA/UVB protecting formula for men.",
+            "rating": 5,
+            "sku_ids": [
+                "1705243"
+            ]
+        },
+        "1705730": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Sleep Mask Tan - Face",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1705730",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sleep Mask Tan - Face",
+            "hero_image": "/productimages/sku/s1705730-main-grid.jpg",
+            "id": "P391995",
+            "product_url": "/sleep-mask-tan-face-P391995",
+            "quick_look_desc": "A lightweight overnight treatment serum for the face that combines skin beautifying ingredients with a touch of self-tan for a subtle golden glow by morning.",
+            "rating": 3.3846,
+            "sku_ids": [
+                "1705730"
+            ]
+        },
+        "1706761": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Express Glow Mask - Body",
+                "is_online_only": true,
+                "list_price": "52.00",
+                "sale_price": "",
+                "sku_number": "1706761",
+                "sku_type": "Standard"
+            },
+            "display_name": "Express Glow Mask - Body",
+            "hero_image": "/productimages/sku/s1706761-main-grid.jpg",
+            "id": "P397056",
+            "product_url": "/express-glow-mask-body-P397056",
+            "quick_look_desc": "A revolutionary, quick-acting tanning mask for body that leaves skin hydrated with a beautiful glow.",
+            "rating": 3.1429,
+            "sku_ids": [
+                "1706761"
+            ]
+        },
+        "1706779": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Sleep Mask Tan - Body",
+                "list_price": "52.00",
+                "sale_price": "",
+                "sku_number": "1706779",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sleep Mask Tan - Body",
+            "hero_image": "/productimages/sku/s1706779-main-grid.jpg",
+            "id": "P391994",
+            "product_url": "/sleep-mask-tan-body-P391994",
+            "quick_look_desc": "A lightweight overnight treatment serum for the body that combines skin beautifying ingredients with a touch of self-tan for a subtle golden glow by morning.",
+            "rating": 3.8,
+            "sku_ids": [
+                "1706779"
+            ]
+        },
+        "1706928": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Express Glow Mask - Face",
+                "is_online_only": true,
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1706928",
+                "sku_type": "Standard"
+            },
+            "display_name": "Express Glow Mask - Face",
+            "hero_image": "/productimages/sku/s1706928-main-grid.jpg",
+            "id": "P397057",
+            "product_url": "/express-glow-mask-face-P397057",
+            "quick_look_desc": "A revolutionary, quick-acting tanning mask for face that leaves skin hydrated with a beautiful glow.",
+            "rating": 3.8636,
+            "sku_ids": [
+                "1706928"
+            ]
+        },
+        "1706936": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Gradual Day Tan - Face",
+                "list_price": "34.00",
+                "sale_price": "",
+                "sku_number": "1706936",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gradual Day Tan - Face",
+            "hero_image": "/productimages/sku/s1706936-main-grid.jpg",
+            "id": "P397055",
+            "product_url": "/gradual-day-tan-face-P397055",
+            "quick_look_desc": "A conditioning non-aerosol mousse that creates a light golden glow in an hour, a medium tan in two hours, and a deep bronze shade after three hours. ",
+            "rating": 3.75,
+            "sku_ids": [
+                "1706936"
+            ]
+        },
+        "1706944": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Gradual Day Tan - Body",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1706944",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gradual Day Tan - Body",
+            "hero_image": "/productimages/sku/s1706944-main-grid.jpg",
+            "id": "P397054",
+            "product_url": "/gradual-day-tan-body-P397054",
+            "quick_look_desc": "A luxurious moisturizing treatment formulated with touch of self-tan, making it a risk-free option for those with pale skin or those who like a subtle, natural-looking glow year round.",
+            "rating": 4,
+            "sku_ids": [
+                "1706944"
+            ]
+        },
+        "1707041": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Instant Bronzing Mist",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1707041",
+                "sku_type": "Standard"
+            },
+            "display_name": "Instant Bronzing Mist",
+            "hero_image": "/productimages/sku/s1707041-main-grid.jpg",
+            "id": "P391997",
+            "product_url": "/instant-bronzing-mist-P391997",
+            "quick_look_desc": "An ultra-light, fast-acting mist with a technically advanced 360 degree nozzle that bronzes the skin instantly and continues to develop over three to five hours.",
+            "rating": 3.5263,
+            "sku_ids": [
+                "1707041"
+            ]
+        },
+        "1707058": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Tan Perfecting Enzyme Peel Mask",
+                "list_price": "22.00",
+                "sale_price": "",
+                "sku_number": "1707058",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tan Perfecting Enzyme Peel Mask",
+            "hero_image": "/productimages/sku/s1707058-main-grid.jpg",
+            "id": "P397058",
+            "product_url": "/tan-perfecting-enzyme-peel-mask-P397058",
+            "quick_look_desc": "A hydrating and fast-acting enzyme peel mask that acts as the ultimate pre- and post-tan treatment. ",
+            "rating": 5,
+            "sku_ids": [
+                "1707058"
+            ]
+        },
+        "1707066": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Express Bronzing Mousse",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1707066",
+                "sku_type": "Standard"
+            },
+            "display_name": "Express Bronzing Mousse",
+            "hero_image": "/productimages/sku/s1707066-main-grid.jpg",
+            "id": "P397059",
+            "product_url": "/express-bronzing-mousse-P397059",
+            "quick_look_desc": "A conditioning, non-aerosol mousse that creates a light golden glow in just one hour, a medium tan in two hours, and a deep bronze shade after three hours. \t",
+            "rating": 3.5556,
+            "sku_ids": [
+                "1707066"
+            ]
+        },
+        "1707728": {
+            "brand_name": "James Read",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "James Read - Liquid Bronzer",
+                "is_online_only": true,
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1707728",
+                "sku_type": "Standard"
+            },
+            "display_name": "Liquid Bronzer",
+            "hero_image": "/productimages/sku/s1707728-main-grid.jpg",
+            "id": "P397053",
+            "product_url": "/liquid-bronzer-P397053",
+            "quick_look_desc": "A liquid tanner for face and body that leaves a light golden, healthy-looking, and even finish.",
+            "rating": 3.8333,
+            "sku_ids": [
+                "1707728"
+            ]
+        },
+        "1718824": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "84.00",
+                "sale_price": "",
+                "sku_number": "1718824",
+                "sku_type": "Standard",
+                "value_price": "89.00"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+            "hero_image": "/productimages/sku/s1718824-main-grid.jpg",
+            "id": "P397284",
+            "product_url": "/phenomenal-2-3-week-tan-mousse-tanning-mitt-duo-P397284",
+            "quick_look_desc": "A tanning duo featuring a long-lasting, easy-to-use self tan mousse and a tanning mitt for simple, streak-free application.        ",
+            "rating": 4.4,
+            "sku_ids": [
+                "1718832",
+                "1718824"
+            ]
+        },
+        "1718832": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "84.00",
+                "sale_price": "",
+                "sku_number": "1718824",
+                "sku_type": "Standard",
+                "value_price": "89.00"
+            },
+            "display_name": "pHenomenal 2-3 Week Tan Mousse & Tanning Mitt Duo",
+            "hero_image": "/productimages/sku/s1718824-main-grid.jpg",
+            "id": "P397284",
+            "product_url": "/phenomenal-2-3-week-tan-mousse-tanning-mitt-duo-P397284",
+            "quick_look_desc": "A tanning duo featuring a long-lasting, easy-to-use self tan mousse and a tanning mitt for simple, streak-free application.        ",
+            "rating": 4.4,
+            "sku_ids": [
+                "1718832",
+                "1718824"
+            ]
+        },
+        "1770130": {
+            "brand_name": "Colorescience",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Colorescience - Skin Bronzing Face Primer Broad Spectrum SPF 20",
+                "is_online_only": true,
+                "list_price": "49.00",
+                "sale_price": "",
+                "sku_number": "1770130",
+                "sku_type": "Standard"
+            },
+            "display_name": "Skin Bronzing Face Primer Broad Spectrum SPF 20",
+            "hero_image": "/productimages/sku/s1770130-main-grid.jpg",
+            "id": "P402570",
+            "product_url": "/skin-bronzing-face-primer-broad-spectrum-spf-20-P402570",
+            "quick_look_desc": "A face primer with SPF 20 sun protection to add a sunkissed glow to the complexion.",
+            "rating": 4,
+            "sku_ids": [
+                "1770130"
+            ]
+        },
+        "1784818": {
+            "brand_name": "First Aid Beauty",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "First Aid Beauty - Slow Glow Gradual Self-Tanning Moisturizer",
+                "list_price": "28.00",
+                "sale_price": "",
+                "sku_number": "1784818",
+                "sku_type": "Standard"
+            },
+            "display_name": "Slow Glow Gradual Self-Tanning Moisturizer",
+            "hero_image": "/productimages/sku/s1784818-main-grid.jpg",
+            "id": "P406289",
+            "product_url": "/slow-glow-gradual-self-tanning-moisturizer-P406289",
+            "quick_look_desc": "A nourishing formula that gives the face and body a sunkissed glow from head to toe year-round, without harmful UV rays.   ",
+            "rating": 3.3692,
+            "sku_ids": [
+                "1784818"
+            ]
+        },
+        "1788066": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Rapid Tan Mousse & Tanning Mitt Duo",
+                "is_limited_edition": true,
+                "is_online_only": true,
+                "list_price": "49.50",
+                "sale_price": "29.00",
+                "sku_number": "1788066",
+                "sku_type": "Standard"
+            },
+            "display_name": "Rapid Tan Mousse & Tanning Mitt Duo",
+            "hero_image": "/productimages/sku/s1788066-main-grid.jpg",
+            "id": "P405003",
+            "product_url": "/rapid-tan-mousse-tanning-mitt-duo-P405003",
+            "quick_look_desc": "A quick and easy-to-use, fast-acting tan mousse and application mitt duo.",
+            "rating": 3,
+            "sku_ids": [
+                "1788066"
+            ]
+        },
+        "1795327": {
+            "brand_name": "tarte",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "tarte - Brazilliance\u2122 PLUS+ Self-Tanner + Mitt",
+                "is_sephora_exclusive": true,
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1795327",
+                "sku_type": "Standard"
+            },
+            "display_name": "Brazilliance\u2122 PLUS+ Self-Tanner + Mitt",
+            "hero_image": "/productimages/sku/s1795327-main-grid.jpg",
+            "id": "P407616",
+            "product_url": "/brazilliance-tm-plus-self-tanner-mitt-P407616",
+            "quick_look_desc": "A skin care-infused version of tarte\u2019s best-selling self-tanner with a custom application mitt.",
+            "rating": 4.2397,
+            "sku_ids": [
+                "1795327"
+            ]
+        },
+        "1795335": {
+            "brand_name": "tarte",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "tarte - Better Bod Bronze & Contour + Mitt",
+                "is_sephora_exclusive": true,
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1795335",
+                "sku_type": "Standard"
+            },
+            "display_name": "Better Bod Bronze & Contour + Mitt",
+            "hero_image": "/productimages/sku/s1795335-main-grid.jpg",
+            "id": "P407617",
+            "product_url": "/better-bod-bronze-contour-mitt-P407617",
+            "quick_look_desc": "A matte, waterproof body bronzer paired with a perfect, easy-to-use application mitt.  ",
+            "rating": 4.4091,
+            "sku_ids": [
+                "1795335"
+            ]
+        },
+        "1796234": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Self Tan Dry Oil SPF 50",
+                "list_price": "54.00",
+                "sale_price": "",
+                "sku_number": "1796234",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Dry Oil SPF 50",
+            "hero_image": "/productimages/sku/s1796234-main-grid.jpg",
+            "id": "P407197",
+            "product_url": "/self-tan-dry-oil-spf-50-P407197",
+            "quick_look_desc": "An SPF 50 gradual sunless tanner with an instant luminous skin finish.",
+            "rating": 3.7241,
+            "sku_ids": [
+                "1796234"
+            ]
+        },
+        "1796259": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Self Tanning Anti Age Serum",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1796259",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tanning Anti Age Serum",
+            "hero_image": "/productimages/sku/s1796259-main-grid.jpg",
+            "id": "P406774",
+            "product_url": "/self-tanning-anti-age-serum-P406774",
+            "quick_look_desc": "A self tanning, antiaging serum for the face that gives a made-to-measure, natural-looking facial tan. ",
+            "rating": 3.7778,
+            "sku_ids": [
+                "1796259"
+            ]
+        },
+        "1796267": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - Body Blur Instant HD Skin Finish",
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1796267",
+                "sku_type": "Standard"
+            },
+            "display_name": "Body Blur Instant HD Skin Finish",
+            "hero_image": "/productimages/sku/s1796267-main-grid.jpg",
+            "id": "P407194",
+            "product_url": "/body-blur-instant-hd-skin-finish-P407194",
+            "quick_look_desc": "A formula for face and body that blurs imperfections and reflects light for HD ready skin.",
+            "rating": 4.0784,
+            "sku_ids": [
+                "1796267"
+            ]
+        },
+        "1798073": {
+            "brand_name": "CLINIQUE",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "CLINIQUE - Sun-Kissed Face Gelee Complextion Multitasker",
+                "is_online_only": true,
+                "list_price": "26.50",
+                "sale_price": "",
+                "sku_number": "1798073",
+                "sku_type": "Standard"
+            },
+            "display_name": "Sun-Kissed Face Gelee Complextion Multitasker",
+            "hero_image": "/productimages/sku/s1798073-main-grid.jpg",
+            "id": "P407381",
+            "product_url": "/sun-kissed-face-gelee-complextion-multitasker-P407381",
+            "quick_look_desc": "A oil-free gel that revives the look of skin and creates a warm, healthy-looking glow.",
+            "rating": 4.875,
+            "sku_ids": [
+                "1798073"
+            ]
+        },
+        "1798891": {
+            "brand_name": "Clarins",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Clarins - Self Tanning Milky-Lotion",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1798891",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tanning Milky-Lotion",
+            "hero_image": "/productimages/sku/s1798891-main-grid.jpg",
+            "id": "P408031",
+            "product_url": "/self-tanning-milky-lotion-P408031",
+            "quick_look_desc": "An ultra-hydrating self-tanning formula that creates a flawless, radiant, natural-looking tan while providing 24-hour moisture.",
+            "rating": 4.3333,
+            "sku_ids": [
+                "1798891"
+            ]
+        },
+        "1799022": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Gradual Tan Everyday Tinted Body Lotion",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1799022",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gradual Tan Everyday Tinted Body Lotion",
+            "hero_image": "/productimages/sku/s1799022-main-grid.jpg",
+            "id": "P407202",
+            "product_url": "/gradual-tan-everyday-tinted-body-lotion-P407202",
+            "quick_look_desc": "An ultra-hydrating body lotion that gradually builds to create a healthy-looking, sunkissed glow while giving an instant touch of bronze.",
+            "rating": 3.9444,
+            "sku_ids": [
+                "1799022"
+            ]
+        },
+        "1804103": {
+            "brand_name": "First Aid Beauty",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "First Aid Beauty - Buff & Glow Duo",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "44.00",
+                "sale_price": "",
+                "sku_number": "1804103",
+                "sku_type": "Standard",
+                "value_price": "56.00"
+            },
+            "display_name": "Buff & Glow Duo",
+            "hero_image": "/productimages/sku/s1804103-main-grid.jpg",
+            "id": "P406292",
+            "product_url": "/buff-glow-polish-duo-P406292",
+            "quick_look_desc": "An easy-to-use, two-step routine to achieve hydrated, smooth skin with a sunkissed bronze glow.   ",
+            "rating": 2.3333,
+            "sku_ids": [
+                "1804103"
+            ]
+        },
+        "1808658": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Classic Bronzing Face Lotion",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1808658",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Classic Bronzing Face Lotion",
+            "hero_image": "/productimages/sku/s1808658-main-grid.jpg",
+            "id": "P407449",
+            "product_url": "/self-tan-classic-bronzing-face-lotion-P407449",
+            "quick_look_desc": "A lightweight, classic face lotion that hydrates without blocking pores for a radiant golden glow.",
+            "rating": 2.2308,
+            "sku_ids": [
+                "1808658"
+            ]
+        },
+        "1808716": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Gradual Tan Classic Everyday Face Cream",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1808732",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gradual Tan Classic Everyday Face Cream",
+            "hero_image": "/productimages/sku/s1808732-main-grid.jpg",
+            "id": "P407447",
+            "more_colors": 1,
+            "product_url": "/gradual-tan-classic-everyday-face-cream-P407447",
+            "quick_look_desc": "A newly formulated, ultra-hydrating face cream that gradually builds to create a classic, healthy-looking tan to suit all skintones.",
+            "rating": 4.25,
+            "sku_ids": [
+                "1808716",
+                "1808732"
+            ]
+        },
+        "1808732": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Gradual Tan Classic Everyday Face Cream",
+                "list_price": "20.00",
+                "sale_price": "",
+                "sku_number": "1808732",
+                "sku_type": "Standard"
+            },
+            "display_name": "Gradual Tan Classic Everyday Face Cream",
+            "hero_image": "/productimages/sku/s1808732-main-grid.jpg",
+            "id": "P407447",
+            "more_colors": 1,
+            "product_url": "/gradual-tan-classic-everyday-face-cream-P407447",
+            "quick_look_desc": "A newly formulated, ultra-hydrating face cream that gradually builds to create a classic, healthy-looking tan to suit all skintones.",
+            "rating": 4.25,
+            "sku_ids": [
+                "1808716",
+                "1808732"
+            ]
+        },
+        "1808740": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Untinted Classic Bronzing Face Lotion",
+                "list_price": "30.00",
+                "sale_price": "",
+                "sku_number": "1808740",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Untinted Classic Bronzing Face Lotion",
+            "hero_image": "/productimages/sku/s1808740-main-grid.jpg",
+            "id": "P407200",
+            "product_url": "/self-tan-untinted-classic-bronzing-face-lotion-P407200",
+            "quick_look_desc": " A lightweight face lotion that applies clear on your skin and develops over four to eight hours, with added hydration for a classic golden glow.",
+            "rating": 3,
+            "sku_ids": [
+                "1808740"
+            ]
+        },
+        "1808757": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Untinted Classic Bronzing Lotion",
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1808757",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Untinted Classic Bronzing Lotion",
+            "hero_image": "/productimages/sku/s1808757-main-grid.jpg",
+            "id": "P408040",
+            "product_url": "/self-tan-untinted-classic-bronzing-lotion-P408040",
+            "quick_look_desc": "A lightweight lotion that applies clear on your skin and develops over four to eight hours, with added hydration for a long-lasting tan and even fade. ",
+            "rating": 5,
+            "sku_ids": [
+                "1808757"
+            ]
+        },
+        "1808765": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Untinted Classic Bronzing Mousse",
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1808765",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Untinted Classic Bronzing Mousse",
+            "hero_image": "/productimages/sku/s1808765-main-grid.jpg",
+            "id": "P407199",
+            "product_url": "/self-tan-untinted-classic-bronzing-mousse-P407199",
+            "quick_look_desc": "A lightweight mousse that applies clear and tailors to your individual skintone, for the longest-lasting tan in a single application.",
+            "rating": 4.2857,
+            "sku_ids": [
+                "1808765"
+            ]
+        },
+        "1809516": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Classic Bronzing Mousse",
+                "list_price_max": "42.00",
+                "list_price_min": "32.00",
+                "sale_price": "",
+                "sku_number": "1809516",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Classic Bronzing Mousse",
+            "hero_image": "/productimages/sku/s1809516-main-grid.jpg",
+            "id": "P407450",
+            "more_sizes": 1,
+            "product_url": "/self-tan-classic-bronzing-mousse-P407450",
+            "quick_look_desc": "A lightweight, easy-to-apply classic mousse that dries quickly with no self tan smell and an even fade.",
+            "rating": 3.9648,
+            "sku_ids": [
+                "1809524",
+                "1809516"
+            ]
+        },
+        "1809524": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Self Tan Classic Bronzing Mousse",
+                "list_price_max": "42.00",
+                "list_price_min": "32.00",
+                "sale_price": "",
+                "sku_number": "1809516",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tan Classic Bronzing Mousse",
+            "hero_image": "/productimages/sku/s1809516-main-grid.jpg",
+            "id": "P407450",
+            "more_sizes": 1,
+            "product_url": "/self-tan-classic-bronzing-mousse-P407450",
+            "quick_look_desc": "A lightweight, easy-to-apply classic mousse that dries quickly with no self tan smell and an even fade.",
+            "rating": 3.9648,
+            "sku_ids": [
+                "1809524",
+                "1809516"
+            ]
+        },
+        "1810928": {
+            "brand_name": "Josie Maran",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Josie Maran - Argan Liquid Gold Self-Tanning Face Oil",
+                "is_sephora_exclusive": true,
+                "list_price": "42.00",
+                "sale_price": "",
+                "sku_number": "1810928",
+                "sku_type": "Standard"
+            },
+            "display_name": "Argan Liquid Gold Self-Tanning Face Oil",
+            "hero_image": "/productimages/sku/s1810928-main-grid.jpg",
+            "id": "P407419",
+            "product_url": "/argan-liquid-gold-self-tanning-face-oil-P407419",
+            "quick_look_desc": "A lightweight, quick-absorbing self-tanning face oil that delivers intense hydration and antiaging benefits along with a sunkissed, youthful-looking bronzed glow. ",
+            "rating": 3.8182,
+            "sku_ids": [
+                "1810928"
+            ]
+        },
+        "1812643": {
+            "brand_name": "tarte",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "tarte - Brazilliance\u2122 Skin Rejuvenating Maracuja Self Tanning Face Towelettes",
+                "list_price_max": "21.00",
+                "list_price_min": "10.00",
+                "sale_price": "",
+                "sku_number": "1604875",
+                "sku_type": "Standard"
+            },
+            "display_name": "Brazilliance\u2122 Skin Rejuvenating Maracuja Self Tanning Face Towelettes",
+            "hero_image": "/productimages/sku/s1604875-main-grid.jpg",
+            "id": "P386111",
+            "more_options": 1,
+            "product_url": "/brazilliance-skin-rejuvenating-maracuja-self-tanning-face-towelettes-P386111",
+            "quick_look_desc": "A set of bronzing, self-tanning towelettes.",
+            "rating": 3.7712,
+            "sku_ids": [
+                "1812643",
+                "1604875"
+            ]
+        },
+        "1812650": {
+            "brand_name": "tarte",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "tarte - Little Mist Sunshine Self-Tanning Spray + Mitt",
+                "is_limited_edition": true,
+                "list_price": "39.00",
+                "sale_price": "",
+                "sku_number": "1812650",
+                "sku_type": "Standard"
+            },
+            "display_name": "Little Mist Sunshine Self-Tanning Spray + Mitt",
+            "hero_image": "/productimages/sku/s1812650-main-grid.jpg",
+            "id": "P407192",
+            "product_url": "/little-mist-sunshine-self-tanning-spray-mitt-P407192",
+            "quick_look_desc": "A limited-edition, clear gradual self-tanning spray for your perfect deep-toned bronze.",
+            "rating": 4.3571,
+            "sku_ids": [
+                "1812650"
+            ]
+        },
+        "1831460": {
+            "brand_name": "Say Hello To Sexy Legs",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Say Hello To Sexy Legs - Tinted Glow Gel",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "1831460",
+                "sku_type": "Standard"
+            },
+            "display_name": "Tinted Glow Gel",
+            "hero_image": "/productimages/sku/s1831460-main-grid.jpg",
+            "id": "P408121",
+            "product_url": "/tinted-glow-gel-P408121",
+            "quick_look_desc": "A lightweight, transfer-resistant, tinted lotion to give legs a natural-looking bronze glow. ",
+            "rating": 3.75,
+            "sku_ids": [
+                "1831460"
+            ]
+        },
+        "1831478": {
+            "brand_name": "Say Hello To Sexy Legs",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Say Hello To Sexy Legs - Body Illuminating Fluid",
+                "list_price": "34.00",
+                "sale_price": "",
+                "sku_number": "1831478",
+                "sku_type": "Standard"
+            },
+            "display_name": "Body Illuminating Fluid",
+            "hero_image": "/productimages/sku/s1831478-main-grid.jpg",
+            "id": "P408123",
+            "product_url": "/body-illuminating-fluid-P408123",
+            "quick_look_desc": "A lightweight, transfer-resistant highlighting cream with a splash of shimmering pearls to illuminate the legs.",
+            "rating": 5,
+            "sku_ids": [
+                "1831478"
+            ]
+        },
+        "1831486": {
+            "brand_name": "Say Hello To Sexy Legs",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Say Hello To Sexy Legs - Body Contour Stick",
+                "list_price": "21.00",
+                "sale_price": "",
+                "sku_number": "1831486",
+                "sku_type": "Standard"
+            },
+            "display_name": "Body Contour Stick",
+            "hero_image": "/productimages/sku/s1831486-main-grid.jpg",
+            "id": "P408125",
+            "product_url": "/body-contour-stick-P408125",
+            "quick_look_desc": "A portable and easy-to-use contour stick to define and reshape the appearance of legs.",
+            "rating": 5,
+            "sku_ids": [
+                "1831486"
+            ]
+        },
+        "1831494": {
+            "brand_name": "Say Hello To Sexy Legs",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Say Hello To Sexy Legs - Perfect Legs Duo - The Weekender Set",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "23.00",
+                "sale_price": "",
+                "sku_number": "1831494",
+                "sku_type": "Standard"
+            },
+            "display_name": "Perfect Legs Duo - The Weekender Set",
+            "hero_image": "/productimages/sku/s1831494-main-grid.jpg",
+            "id": "P409104",
+            "product_url": "/perfect-legs-duo-weekender-set-P409104",
+            "quick_look_desc": "A bronzer and highlighter duo in travel sizes for flawless-looking, sexier legs.",
+            "rating": 1.4,
+            "sku_ids": [
+                "1831494"
+            ]
+        },
+        "1842699": {
+            "brand_name": "Josie Maran",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Josie Maran - Argan Liquid Gold Enlightenment Duo",
+                "is_limited_edition": true,
+                "is_sephora_exclusive": true,
+                "list_price": "36.00",
+                "sale_price": "",
+                "sku_number": "1842699",
+                "sku_type": "Standard",
+                "value_price": "55.00"
+            },
+            "display_name": "Argan Liquid Gold Enlightenment Duo",
+            "hero_image": "/productimages/sku/s1842699-main-grid.jpg",
+            "id": "P409650",
+            "product_url": "/argan-liquid-gold-enlightenment-duo-P409650",
+            "quick_look_desc": "A radiant duo of Argan oil-infused products that can be used together or alone to tan, highlight, and nourish skin.",
+            "rating": 4.3077,
+            "sku_ids": [
+                "1842699"
+            ]
+        },
+        "1889070": {
+            "brand_name": "St. Tropez Tanning Essentials",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "St. Tropez Tanning Essentials - Weekend Getaway Kit",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "21.00",
+                "sale_price": "",
+                "sku_number": "1889070",
+                "sku_type": "Standard",
+                "value_price": "25.50"
+            },
+            "display_name": "Weekend Getaway Kit",
+            "hero_image": "/productimages/sku/s1889070-main-grid.jpg",
+            "id": "P414297",
+            "product_url": "/weekend-getaway-kit-P414297",
+            "quick_look_desc": "A bestselling, customizable self tan in a travel-friendly size, perfect for your weekend getaway.    ",
+            "rating": 0,
+            "sku_ids": [
+                "1889070"
+            ]
+        },
+        "1889500": {
+            "brand_name": "Vita Liberata",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Vita Liberata - pHenomenal Holiday Glow Kit",
+                "is_limited_edition": true,
+                "is_new": true,
+                "is_online_only": true,
+                "list_price": "45.00",
+                "sale_price": "",
+                "sku_number": "1889500",
+                "sku_type": "Standard",
+                "value_price": "68.50"
+            },
+            "display_name": "pHenomenal Holiday Glow Kit",
+            "hero_image": "/productimages/sku/s1889500-main-grid.jpg",
+            "id": "P413938",
+            "product_url": "/phenomenal-holiday-glow-kit-P413938",
+            "quick_look_desc": "A three-piece set with all you need to tan, bronze, and glow for a natural-looking, flawless finish from head to toe.",
+            "rating": 5,
+            "sku_ids": [
+                "1889500"
+            ]
+        },
+        "75663": {
+            "brand_name": "Clarins",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Clarins - Self Tanning Instant Gel",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "75663",
+                "sku_type": "Standard"
+            },
+            "display_name": "Self Tanning Instant Gel",
+            "hero_image": "/productimages/sku/s75663-main-grid.jpg",
+            "id": "P53162",
+            "product_url": "/self-tanning-instant-gel-P53162",
+            "quick_look_desc": "A self-tanning gel to bring out healthy color in the skin.",
+            "rating": 4.0716,
+            "sku_ids": [
+                "75663"
+            ]
+        },
+        "827824": {
+            "brand_name": "Clarins",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Clarins - Liquid Bronze Self Tanning",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "827824",
+                "sku_type": "Standard"
+            },
+            "display_name": "Liquid Bronze Self Tanning",
+            "hero_image": "/productimages/sku/s827824-main-grid.jpg",
+            "id": "P99115",
+            "product_url": "/liquid-bronze-self-tanning-P99115",
+            "quick_look_desc": "A refreshing, lightweight milky self-tanning lotion. ",
+            "rating": 4.3235,
+            "sku_ids": [
+                "827824"
+            ]
+        },
+        "983700": {
+            "brand_name": "Dior",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Dior - Dior Bronze Self-Tanner Natural Glow Face",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "983700",
+                "sku_type": "Standard"
+            },
+            "display_name": "Dior Bronze Self-Tanner Natural Glow Face",
+            "hero_image": "/productimages/sku/s983700-main-grid.jpg",
+            "id": "P183317",
+            "product_url": "/dior-bronze-self-tanner-natural-glow-face-P183317",
+            "quick_look_desc": "A silky, tinted gel-cream self-tanner for the face. ",
+            "rating": 4.0406,
+            "sku_ids": [
+                "983700"
+            ]
+        },
+        "991513": {
+            "brand_name": "Clarins",
+            "category": "tanner",
+            "derived_sku": {
+                "image_alt_text": "Clarins - Intense Bronze Self Tanning Tint",
+                "list_price": "38.00",
+                "sale_price": "",
+                "sku_number": "991513",
+                "sku_type": "Standard"
+            },
+            "display_name": "Intense Bronze Self Tanning Tint",
+            "hero_image": "/productimages/sku/s991513-main-grid.jpg",
+            "id": "P179301",
+            "product_url": "/intense-bronze-self-tanning-tint-P179301",
+            "quick_look_desc": "A self-tanner for face and d&#233;collet&#233;. Offers a rich, tropical color with mistake-proof results. ",
+            "rating": 4.28,
+            "sku_ids": [
+                "991513"
+            ]
+        }
+    }
+}
